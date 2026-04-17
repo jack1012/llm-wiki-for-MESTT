@@ -12,13 +12,13 @@ user-invocable: true
 
 **目錄結構約定：**
 ```
-d:\llm-wiki-en\
+F:\Dropbox\claude_code\
 ├── inbox/                      ← 待分類檔案收件箱（輸入）
 ├── raw/
-│   ├── 01-articles/            ← 學術論文、期刊文章 (PDF/MD)
-│   ├── 02-books/               ← 書籍章節、整本書、教科書
-│   ├── 03-reader-notes/        ← 讀者筆記、自我摘要、讀書心得
-│   ├── 04-transcripts/         ← 影片轉錄、語音文稿 (演講、訪談)
+│   ├── 01-articles/            ← 網頁文章、blog、新聞
+│   ├── 02-papers/              ← 學術論文、研究報告、PDF
+│   ├── 03-transcripts/         ← 影片轉錄、語音文稿
+│   ├── 04-book/                ← 書籍摘要、電子書章節
 │   └── 09-archive/             ← 已處理檔案歸檔
 └── wiki/                       ← 編譯輸出層
 ```
@@ -33,27 +33,27 @@ d:\llm-wiki-en\
 
 對每個待分類檔案，嚴格按以下三步驟執行：
 
-### 步驟 1：修復檔案名稱 (fix-name)
+### 步驟 1：標準化學術命名 (fix-name)
 
-**目的**：去除會影響 Obsidian 和檔案系統處理的特殊字符。
+**目的**：強制執行統一的學術檔案命名規範，並去除會導致系統故障的非 ASCII 字符 (如 Umlaut)。
 
-**規則**：
-- ❌ 移除特殊字符：`[`, `]`, `%`
-- ❌ 移除或替換其他問題字符：`"`, `'`, `|`, `:`, `?`, `*`
-- ✓ 將空白替換為下劃線 `_`
-- ✓ 保留大小寫、數字、連字號 `-`、點 `.`
+**強制命名格式**：`YYYY_Author_Surname_ShortTitle.extension`
 
-**範例：**
-```
-❌ [PDF] 2026-Nature-AI and Future Learning.pdf
-✓ PDF_2026-Nature-AI_and_Future_Learning.pdf
+**規範規則**：
+1. **年份 (YYYY)**：始終置於檔名最前方（如 `2023`）。
+2. **作者 (Author)**：僅保留第一作者姓氏（Surname），首字母大寫（如 `Geisler`）。
+3. **標題簡述 (ShortTitle)**：擷取標題核心關鍵字，使用 CamelCase，禁止空格。
+4. **字元淨化 (ASCII Only)**：
+   - ❌ **禁止變音符號**：`ü`→`u`, `ö`→`o`, `ä`→`a`, `ß`→`ss`。
+   - ❌ **禁止特殊符號**：移除 `[ ] ( ) % " ' | : ? * &` 等所有非底線符號。
+   - ✓ **連字元轉底線**：將所有空格及連字號 `-` 統一轉換為下劃線 `_`。
 
-❌ Karpathy's "LLM Wiki" [Updated].md
-✓ Karpathy's_LLM_Wiki_Updated.md
-
-❌ 論文%分析 [v2.1] 2026-04.pdf
-✓ 論文分析_v2.1_2026-04.pdf
-```
+**範例對比：**
+| 原始檔名 | 標準化後 (Correct) |
+| :--- | :--- |
+| `[PDF] 2021-Nature-Rolka & Geisler Effect.pdf` | `2021_Rolka_NatureEffect.pdf` |
+| `Development_of_affect_at_the_transition...pdf` | `2023_Geisler_AffectAtTransition.pdf` |
+| `JMD_Journal_für_Mathematik_Didaktik.md` | `2022_Springer_JMD_Corrected.md` |
 
 ### 步驟 2：識別檔案屬性 (scan)
 
@@ -70,14 +70,14 @@ d:\llm-wiki-en\
 - 混合內容時，以主要語言判定
 
 **屬性維度 2：內容類型 (type)**
-- `articles` — 學術論文、期刊文章、會議論文集、正式研究報告
-  - 特徵：有摘要 (Abstract)、關鍵字、引用 (References)、DOI、正式結構、學術用語
-- `books` — 書籍整本、章節、教科書
-  - 特徵：章節結構明顯、長篇、有 ISBN/卷號、系統性知識、目錄
-- `reader-notes` — 讀者摘要、讀後感、人工筆記
-  - 特徵：第一人稱或評論觀點 ("我認為", "摘要如下")、非正式結構、多為 Markdown
-- `transcripts` — 影片轉錄、演講文稿、會議錄音轉錄
-  - 特徵：時間戳、發言人標籤、口語化、QA 結構
+- `articles` — 網頁文章、部落格、評論、新聞報導
+  - 特徵：較短、時效性、評論觀點、網頁源
+- `papers` — 學術論文、研究報告、調查、技術文件
+  - 特徵：有摘要、引用、實驗數據、正式結構
+- `transcripts` — 影片轉錄、播客文稿、演講稿
+  - 特徵：時間戳、發言人標籤、口頭語言
+- `book` — 書籍摘要、電子書章節、教科書內容
+  - 特徵：長篇、章節編號、系統教學、書籍參考
 
 **識別流程**：
 1. 檢查檔案名稱中的線索（如 `transcript`, `paper`, `article`）
@@ -115,10 +115,10 @@ alloc 流程中的 language 屬性用於日後 ingest 時的翻譯決策，
 **目錄對應**：
 | 內容類型 | 目標目錄 | 預期檔案格式 |
 |---------|---------|-----------|
-| articles | `raw/01-articles/` | `.pdf`, `.md`, `.txt` |
-| books | `raw/02-books/` | `.pdf`, `.epub`, `.md` |
-| reader-notes | `raw/03-reader-notes/` | `.md`, `.txt` |
-| transcripts | `raw/04-transcripts/` | `.md`, `.txt` |
+| articles | `raw/01-articles/` | `.md`, `.txt` |
+| papers | `raw/02-papers/` | `.pdf`, `.md` |
+| transcripts | `raw/03-transcripts/` | `.md`, `.txt` |
+| book | `raw/04-book/` | `.md`, `.pdf` |
 
 **範例操作**：
 ```

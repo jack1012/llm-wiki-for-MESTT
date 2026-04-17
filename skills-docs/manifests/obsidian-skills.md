@@ -23,25 +23,12 @@
 ## 📍 安裝位置
 
 ```
-F:\Dropbox\claude_code\.claude\skills\
+[項目根目錄]/.claude/skills/
 ├── obsidian-markdown/
-│   ├── SKILL.md
-│   └── references/
-│       ├── CALLOUTS.md
-│       ├── EMBEDS.md
-│       └── PROPERTIES.md
 ├── obsidian-bases/
-│   ├── SKILL.md
-│   └── references/
-│       └── FUNCTIONS_REFERENCE.md
 ├── json-canvas/
-│   ├── SKILL.md
-│   └── references/
-│       └── EXAMPLES.md
 ├── obsidian-cli/
-│   └── SKILL.md
 └── defuddle/
-    └── SKILL.md
 ```
 
 ---

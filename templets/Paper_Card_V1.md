@@ -1,5 +1,5 @@
 ---
-title: "【標題】Concept Name"
+title: "概念簡稱或核心詞"
 type: paper_card
 source: [[Source/Summary_Slug]]
 author: "Author Name"
@@ -10,9 +10,8 @@ tags: [Paper_Card, #Keywords]
 last_updated: YYYY-MM-DD
 ---
 
-# Paper Card: {{title}}
 
-## 💎 核心概念 (Core Concept: English Body)
+## 核心概念 (Core Concept: English Body)
 > 一卡一概念：一張卡片只談一個概念，避免混雜。
 
 - **Problem (要解決什麼問題？)**: {{English text}}
@@ -21,10 +20,16 @@ last_updated: YYYY-MM-DD
 
 {{Detailed paraphrasing in your own words, avoid copy-paste. Content should be 200-300 words.}}
 
-## 🧠 個人思考與關聯 (Reflection)
+## 個人思考與關聯 (Reflection)
 - **啟發與想法**: (觸動了什麼？聯想到其他其麼文獻？)
 - **知識缺口**: (研究不足之處或與自己研究的相關性)
 - **評論**: (同意或不同意？為什麼？)
 
 ---
 [[wiki/index|Back to Index]]
+
+
+
+---
+## 創建與編修紀錄
+- **2026-04-17 15:45**: 執行模板極簡化優化，移除所有非必要圖示與視覺冗餘。

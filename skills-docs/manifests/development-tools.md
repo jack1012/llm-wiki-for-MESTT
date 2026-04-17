@@ -22,33 +22,9 @@
 ## 📍 安裝位置
 
 ```
-F:\Dropbox\claude_code\.claude\skills\
+[項目根目錄]/.claude/skills/
 ├── skill-creator/
-│   ├── SKILL.md                    (官方定義)
-│   ├── agents/                     (代理實現)
-│   │   ├── analyzer.md
-│   │   ├── comparator.md
-│   │   └── grader.md
-│   ├── eval-viewer/                (評估工具)
-│   │   ├── generate_review.py
-│   │   └── viewer.html
-│   ├── scripts/                    (自動化指令碼)
-│   │   ├── run_eval.py
-│   │   ├── run_loop.py
-│   │   ├── improve_description.py
-│   │   ├── package_skill.py
-│   │   ├── quick_validate.py
-│   │   ├── aggregate_benchmark.py
-│   │   └── utils.py
-│   └── references/
-│       └── schemas.md
-│
 └── skills-registry/
-    ├── SKILL.md                    (官方定義)
-    ├── skills-guide.md
-    ├── skills-changelog.md
-    └── references/
-        └── skill-anatomy.md
 ```
 
 ---
@@ -73,14 +49,6 @@ F:\Dropbox\claude_code\.claude\skills\
 - 「優化這個 skill 的描述」
 - 「為這個工作流建立技能」
 - `/skill-creator`
-
-**內含工具**：
-- **agents/** — 3 個專用評估代理
-  - Analyzer（分析技能表現）
-  - Comparator（比較不同版本）
-  - Grader（評分和反饋）
-- **eval-viewer/** — 互動式評估查看器
-- **scripts/** — 7 個自動化指令碼
 
 **最佳實踐**：
 - ✅ 從清晰的意圖開始
@@ -117,25 +85,6 @@ F:\Dropbox\claude_code\.claude\skills\
 - `/skills-guide`
 - `/skills-changelog`
 
-**文檔結構**：
-```
-skills-docs/
-├── README.md              — 快速導覽
-├── guide.md              — 10 個 skills 的完整指南
-├── changelog.md          — 變更日誌
-├── manifests/            — 按分類的 skill 清單
-│   ├── obsidian-skills.md
-│   ├── pdf-processing.md (計畫中)
-│   ├── knowledge-system.md (計畫中)
-│   └── development-tools.md (本檔案)
-└── references/
-    └── skill-anatomy.md
-```
-
-**Manifest 說明**：
-- 每個 manifest 包含特定 skill 集合的詳細清單
-- Manifest 內容：列表表格、安裝位置、功能說明、協同方式
-
 **最佳實踐**：
 - ✅ 定期更新 changelog
 - ✅ 查看 manifests 瞭解 skill 集合
@@ -157,143 +106,23 @@ skills-docs/
 
 ```
 總計：11 個 Skills
-├── 知識庫核心系統（3 個）
-│   ├── ingest
-│   ├── lint
-│   └── query
-├── 文檔與 PDF 處理（2 個）
-│   ├── pdf
-│   └── defuddle
-├── Obsidian 編輯與整合（4 個）
-│   ├── obsidian-markdown
-│   ├── obsidian-bases
-│   ├── obsidian-cli
-│   └── json-canvas
-└── 開發工具與系統（2 個） ← 本 manifest
-    ├── skill-creator
-    └── skills-registry
+├── 知識庫核心系統
+├── 文檔與 PDF 處理
+├── Obsidian 編輯與整合
+└── 開發工具與系統
 ```
-
-### 推薦的使用組合
-
-| 工作場景 | 推薦 Skills |
-|---------|-----------|
-| 建立新技能 | skill-creator → skills-registry |
-| 查詢技能資訊 | skills-registry + guide.md + manifests |
-| 優化現有 skill | skill-creator |
-| 追蹤 skills 變化 | skills-registry + changelog |
-
----
-
-## 🔄 工作流推薦
-
-### 工作流 1：建立新 Skill
-
-```
-1️⃣ 查詢現有 skills
-   [[skills-registry]] + [[manifests/]]
-   
-2️⃣ 設計新 skill
-   確認不重複，明確需求
-   
-3️⃣ 開發 skill
-   [[skill-creator]] — 6 步生命週期
-   
-4️⃣ 測試和優化
-   在 skill-creator 中運行評估
-   
-5️⃣ 記錄到系統
-   更新 guide.md 和 changelog
-   
-6️⃣ 管理 skill
-   使用 [[skills-registry]] 追蹤
-```
-
-### 工作流 2：改進現有 Skill
-
-```
-1️⃣ 識別需要改進的 skill
-   查詢 [[manifests/]] 或 [[guide.md]]
-   
-2️⃣ 開發改進版本
-   使用 [[skill-creator]]
-   
-3️⃣ 測試和評估
-   運行評估用例
-   
-4️⃣ 部署新版本
-   更新 skill 檔案
-   
-5️⃣ 記錄變更
-   更新 [[changelog.md]]
-```
-
-### 工作流 3：學習 Skills 系統
-
-```
-1️⃣ 快速導覽
-   閱讀 [[skills-docs/README.md]]
-   
-2️⃣ 查看分類清單
-   瀏覽 [[manifests/]]
-   
-3️⃣ 深入學習特定 skill
-   查看 [[skills-docs/guide.md]]
-   
-4️⃣ 追蹤最新變化
-   檢查 [[changelog.md]]
-   
-5️⃣ 理解 skill 結構
-   閱讀 [[references/skill-anatomy.md]]
-```
-
----
-
-## 📊 統計資訊
-
-### Skills 狀態
-
-| 狀態 | 數量 | Skills |
-|------|------|--------|
-| ✅ 穩定 | 2 | skill-creator, skills-registry |
-| 🟡 Beta | 0 | - |
-| ❌ 已棄用 | 0 | - |
-
-### 功能覆蓋
-
-| 功能 | skill-creator | skills-registry |
-|------|:-------------:|:---------------:|
-| 技能開發 | ✅ | ❌ |
-| 技能測試 | ✅ | ❌ |
-| 技能管理 | ❌ | ✅ |
-| 技能查詢 | ❌ | ✅ |
-| 變更追蹤 | ❌ | ✅ |
-| 工作流推薦 | ❌ | ✅ |
-
----
-
-## 🔗 相關資源
-
-- **Official Anthropic Skills**：https://github.com/anthropics/skills
-- **skill-creator Repository**：https://github.com/anthropics/skills/tree/main/skills/skill-creator
-- **Agent Skills Specification**：https://agentskills.io/specification
-- **Claude Documentation**：https://platform.claude.com/docs
 
 ---
 
 ## 📋 新增 Skill 時的檢查清單
 
 建立新 skill 時，遵循以下步驟：
-
 - [ ] 使用 [[skill-creator]] 引導開發流程
 - [ ] 確認 SKILL.md 格式正確
-- [ ] 編寫 3+ 個使用範例
-- [ ] 運行至少 2 個測試用例
 - [ ] 在 manifests 中的適當檔案添加條目
 - [ ] 更新 [[guide.md]] 中的相應分組
 - [ ] 更新 [[changelog.md]] 記錄新增
-- [ ] 更新 [[README.md]] 中的統計資訊
-- [ ] 提交 Git 變更，包含清晰的提交訊息
+- [ ] 提交 Git 變更
 
 ---
 

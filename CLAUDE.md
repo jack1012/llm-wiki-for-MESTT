@@ -1,10 +1,15 @@
 # CLAUDE.md
 
 ## 環境說明 (Environment)
+- **平台**：Windows 11，透過 Dropbox 或 Git 跨裝置存取。
+- **必要工具**：Node.js (>=22)。
+- **Shell**：bash / powershell。
 
-- **平台**：Windows 11，透過 Dropbox 同步跨裝置存取
-- **Shell**：bash（透過 Claude Code）
-- **工作目錄**：專案根目錄 (動態偵測)
+### 🏗️ 新環境初始對接 (Onboarding)
+當您在新的電腦啟動此專案時，必須優先執行環境對接：
+1. 執行 `npm install -g @tobilu/qmd` 安裝搜尋引擎。
+2. 執行 `qmd collection add wiki --name mestt_wiki` 註冊本機合集。
+3. 執行 `qmd embed` 生成語義搜尋索引。
 
 ---
 
@@ -32,8 +37,14 @@
   - 命名格式：統一使用 kebab-case。
   - 絕對禁止：`ingest` 等知識處理技能嚴禁自動寫入此目錄。
 
-# Wiki 核心檔案契約 (The Wiki Schema)
-當你在 `/wiki/` 中工作時（尤其是執行寫入操作後），必須維護以下基石：
+# Wiki 知識庫 Schema 規範
+> [!IMPORTANT]
+> **同步義務 (Mandatory Sync)**：
+> 只要在 `/wiki/` 目錄下發生任何「新增、修改、刪除、重新命名」操作，AI 必須在該對話輪次結束前同步完成以下兩件事：
+> 1. 更新 **`wiki/index.md`**：確保新知識點被索引連結。
+> 2. 紀錄 **`wiki/log.md`**：使用 Append-only 模式記錄變更摘要。
+
+當你在 `/wiki/` 中工作時，必須維護以下基石：
 
 1. **`wiki/index.md` (總目錄)**：
    每次向 wiki 新增知識頁後，必須同步更新此檔案，將其按分類加入目錄中。
@@ -77,21 +88,29 @@
    - `/wiki/entities/`：存放人物、機構、研究對象、期刊。
      - **Categories**: `Researcher`, `Institution`, `Population`, `Journal`
    - `/wiki/sources/`：存放文獻提煉摘要（Articles, Books, Reader Notes）。
-4. **強制雙向連結**：
-   每一個 wiki 頁面必須包含 `## 關聯連結` 區域，使用 Obsidian 雙向連結 `[[頁面名稱]]` 連結到其他相關概念。絕不能產生孤立頁面。
+4. **強制雙向連結與紀錄**：
+   每一個 wiki 頁面必須包含 `## 關聯連結` (於 `index` 檔) 或 `---` 分隔線。最下方必須包含 `## 📝 創建與編修紀錄` 區塊，詳實記錄變動。
 5. **矛盾處理原則**：
    如果新攝入的知識與舊知識衝突，不要靜默覆蓋。在頁面中新建 `## 知識衝突` 區塊，將兩種說法都保留並做對比。
 
 # 工作流指令說明 (Workflows / Skills)
 當被要求執行以下操作時，請遵循核心邏輯（未來可能由專用 Agent Skills 接管）：
 
+- `/alloc`：文件預處理與自動分派。掃描 `inbox/` 目錄，**強制執行 ASCII 命名規範**：
+  - **格式**：`YYYY_Author_ShortTitle.pdf` (例如 `2023_Geisler_Affect_Trajectory.pdf`)。
+  - **淨化**：移除所有變音符號 (ü->u)、特殊字元與空白。
+  - **功能**：根據內容識別屬性並移動至 `raw/` 對應子目錄。
 - `/ingest <路徑>`：將 `raw/` 視為代碼，`wiki/` 視為編譯產物。讀取原始檔後，將其核心價值編譯、合併到 `wiki/` 的相關頁面中（若概念已存在則進行增量合併，而非重複創檔）。必須同步維護 index 和 links。
-- `/query <問題>`：透過讀取 `wiki/index.md` 尋找相關檔案，進行深度閱讀後綜合回答，並在回答中必須使用 `[[wikilink]]` 標註引用來源。
+- `/query <問題>`：**深度檢索與知識合成迴圈**。
+  1. 呼叫 `qmd` 引擎進行語義掃描。
+  2. 綜合相關文獻給出詳盡回答（必須標註引用）。
+  3. **持久化步驟**：主動提示使用者將回答內容寫入 `wiki/syntheses/` 下。
+  4. **同步步驟**：一旦存檔，必須同步更新 `index.md` 與 `log.md`。
 - `/lint`：全域掃描 `wiki/` 目錄（主動忽略 `skills-docs/`），找出孤立頁面、死連結以及邏輯衝突，並向我報告。
 
 # 論文卡片 (Paper Cards — 卡片盒筆記) 規範
 每張卡片應作為獨立檔案存在於 `wiki/cards/`，並遵循以下結構：
-1. **標題 (Title)**：`## [【標題】概念名稱]`
+1. **標題 (Title)**：`## 概念名稱` (YAML 中的 title 也需同步，不加任何標籤符號)。
 2. **來源 (Source)**：全合著者 (年份), [[出版期刊]], p. 頁碼 (或連結).
 3. **核心概念 (Core Concept: English Body)**：
    - **Problem**: 該研究要解決的問題。

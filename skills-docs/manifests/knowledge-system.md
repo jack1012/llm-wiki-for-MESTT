@@ -25,17 +25,12 @@
 ## 📍 安裝位置
 
 ```
-F:\Dropbox\claude_code\.claude\skills\
+[項目根目錄]/.claude/skills/
 ├── alloc/
-│   └── SKILL.md
 ├── ingest/
-│   └── SKILL.md
 ├── lint/
-│   └── SKILL.md
 ├── fix/
-│   └── SKILL.md
 └── query/
-    └── SKILL.md
 ```
 
 ---

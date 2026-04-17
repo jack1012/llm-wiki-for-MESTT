@@ -8,11 +8,11 @@
 | **02**: Attitudes & Dropout | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | COMPLETED |
 | **03**: Math Crisis | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | COMPLETED |
 | **04**: Students Beliefs | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | COMPLETED |
-| **05**: Affective Variables | 🔘 | 🔘 | 🔘 | 🔘 | 🔘 | 🔘 | 🔘 | PENDING |
-| **06**: That Wasn't Math | 🔘 | 🔘 | 🔘 | 🔘 | 🔘 | 🔘 | 🔘 | PENDING |
-| **07**: Students Resilience | 🔘 | 🔘 | 🔘 | 🔘 | 🔘 | 🔘 | 🔘 | PENDING |
-| **08**: (Skip) | - | - | - | - | - | - | - | - |
-| **09**: Gap School/Uni | 🔘 | 🔘 | 🔘 | 🔘 | 🔘 | 🔘 | 🔘 | PENDING |
+| **05**: Affective Variables | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | COMPLETED |
+| **06**: That Wasn't Math | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | COMPLETED |
+| **07**: Students Resilience | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | COMPLETED |
+| **08**: Affect Development | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | COMPLETED |
+| **09**: (Extra Slot) | 🔘 | 🔘 | 🔘 | 🔘 | 🔘 | 🔘 | 🔘 | PENDING |
 
 ---
 **圖例說明**：

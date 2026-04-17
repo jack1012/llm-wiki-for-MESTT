@@ -11,21 +11,25 @@ sources: [raw/02-books/filename.pdf]
 last_updated: YYYY-MM-DD
 ---
 
-# Source: {{title}}
-
-## 📚 Book Structure & Scope (English Only)
+## Book Structure & Scope (English Only)
 - **Problematic**: (Theoretical tension or field-level conflict discussed)
 - **Research/Central Theme**: (Main argument or question, Max 100 words)
 - **Target Audience**: (e.g., Researchers, Educators, Undergraduates)
 - **Key Frameworks**: (Listing main theories discussed)
 
-## 📖 Chapter Highlights (Mapping to Cards)
+## Chapter Highlights (Mapping to Cards)
 - **Chapter N**: {{Chapter Title}} — [[Cards/Author_YYYY_ChN_Topic]]
 - **Chapter M**: {{Chapter Title}} — [[Cards/Author_YYYY_ChM_Topic]]
 
-## 🔗 Knowledge Integration
+## Knowledge Integration
 - **Core Concepts**: [[Concept/Concept_Name]]
 - **Related Works**: [[Source/Other_Source_Slug]]
 
 ---
 [[wiki/index|Back to Index]]
+
+
+
+---
+## 創建與編修紀錄
+- **2026-04-17 15:45**: 執行模板極簡化優化，移除所有非必要圖示與視覺冗餘。
