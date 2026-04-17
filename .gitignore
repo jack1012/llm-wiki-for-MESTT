@@ -1,0 +1,87 @@
+# Obsidian
+.obsidian/
+.obsidian.json
+*.swp
+*.swo
+*~
+
+# AI Assistants (Claude Code, Antigravity, etc.)
+# ===================================================
+
+# Claude Code — 忽略配置和臨時文件，保留 skills 定義
+.claude/**
+!.claude/skills/
+!.claude/skills/**
+
+# Antigravity
+.antigravity/
+antigravity.log
+
+# 其他 AI 助手
+.claudian/
+.gemini/
+
+# 系統生成的會話檔案
+ai_session_*.json
+**/scratch/
+**/.system_generated/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temp files
+*.tmp
+*.temp
+~*
+*.bak
+
+# Node / npm
+node_modules/
+package-lock.json
+yarn.lock
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Logs
+*.log
+logs/
+
+# Dependencies
+/raw/09-archive/**/*.pdf
+# Submodules
+claudian/
+
+# Multi-tool Development Setup
+# =============================
+# 支持 Claude Code 和 Antigravity 的多工具協作配置
+
+# Claude Code 特定
+.claude/settings*.json
+.claude/keybindings.json
+.claude/**/*.tmp.*
+.claude/**/session-*.json
+
+# Antigravity 特定
+.antigravity/*
+!.antigravity/project.json
+antigravity-*.log
+
+# 共享的臨時文件
+.ai-cache/
+.ai-sessions/
+
