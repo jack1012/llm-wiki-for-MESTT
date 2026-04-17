@@ -12,11 +12,17 @@ user-invocable: true
    - `01-articles` → 使用 `templets/Paper_Analysis_V5_Atomic.md`
    - `02-books` → 使用 `templets/Book_Analysis_V1.md`
    - `03-reader-notes` → 使用 `templets/Reader_Note_V1.md`
-3. **提煉原子知識與對象**：
-   - **論文核心**: 區分 **Problematic** 與 **Research Problem**。
-   - **實體識別 (Mandatory Entities)**: 必須識別並建立/更新 **Researcher** (作者), **Population** (研究對象), 以及 **Journal** (期刊)。
-   - **概念識別 (Mandatory Concepts)**: 必須判定 **Approach** (取向)、涉及的 **Theory** (理論)、**Math_Topic** (數學內容) 與 **Variable** (研究變項)。
-   - **數量規範**: 每篇文章固定生成 **2 張** 論文卡片 (Paper Cards)。
+3. **提煉原子知識與對象 (Strict Mandatory Protocol)**：
+   - **論文核心**: 必須區分 **Problematic** 與 **Research Problem**。
+   - **實體識別 (Entity Quota)**:
+     - **全合著者 (All Co-authors)**: 必須為論文的所有合著者建立個別實體頁面。
+     - **出版期刊 (Journal)**: 必須建立/更新出版期刊頁面（類別：`Journal`）。
+     - **奠基者 (Foundational Figures)**: 必須識別框架中提到的理論鼻祖並建檔。
+   - **概念識別 (Concept Quota)**:
+     - **關鍵字總量 (Min 5 Concepts)**: 每篇文獻必須產出 **至少 5 個** 概念頁面，包含所有標註關鍵字。
+     - **術語深度**: 文獻探討中具備定義地位的學術詞彙必須結晶化。
+     - **類別準確**: 嚴格執行 `Theory`, `Phenomenon`, `Methodology`, `Variable`, `Math_Topic`, `Approach` 分類。
+   - **卡片規範**: 固定生成 **2 張** 論文卡片 (Paper Cards)。
 4. **建立 Source 頁面**：在 `wiki/sources/` 建立摘要，對應所選範本。
 5. **建立論文卡片**：在 `wiki/cards/` 建立獨立卡片（<300字）。
 6. **更新索引與日誌**：同步 `wiki/index.md` 與 `wiki/log.md`。
