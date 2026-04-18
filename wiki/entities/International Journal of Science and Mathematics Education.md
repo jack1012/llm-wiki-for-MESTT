@@ -14,7 +14,7 @@ last_updated: 2026-04-17
 - **Scope**: Publishes research on science and mathematics education from across the globe.
 
 ## 📚 Papers in Wiki from this Journal
-- [[summary-mathematical-crisis-stt]] (Di Martino & Gregorio, 2019)
+- [[summary-2019-dimartino-crisis-stt]] (Di Martino & Gregorio, 2019)
 
 ---
 [[wiki/index|Back to Index]]

@@ -18,9 +18,8 @@ last_updated: YYYY-MM-DD
 - **Primary Domain**: {{e.g., Cognitive Transition}}
 - **Key Theories**: [[Concept/Theory_A]], [[Concept/Theory_B]]
 
-## Works in Wiki
-- [[Source/Paper_Slug_A]]
-- [[Source/Paper_Slug_B]]
+## 📝 相關著作與貢獻 (Works & Contributions in Wiki)
+- **[[wiki/sources/summary-paper-slug]]**: 簡述該學者在此篇論文中的核心洞見、採取的研究視角、或是對 STT 的具體實質貢獻。
 
 ## Connections
 - **Co-authors**: [[Entity/Other_Researcher]]

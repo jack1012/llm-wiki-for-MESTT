@@ -15,7 +15,7 @@ last_updated: 2026-04-17
 - Qualitative and quantitative methods in mathematics education.
 
 ## 📚 Works in Wiki
-- [[summary-attitudes-and-dropout-mediation-role]]
+- [[summary-2023-geisler-attitudes-dropout]]
 
 ---
 [[wiki/index|Back to Index]]

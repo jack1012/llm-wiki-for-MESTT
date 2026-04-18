@@ -14,7 +14,7 @@ last_updated: 2026-04-17
 - Research on cross-country perspectives of university lecturers regarding the math gap.
 
 ## 📚 Works in Wiki
-- [[summary-reducing-the-gap-lecturers-perspective]]
+- [[summary-2008-gruenwald-reducing-gap]]
 
 ---
 [[wiki/index|Back to Index]]

@@ -1,27 +1,32 @@
 ---
-title: "Limitations of Bridging Courses in Addressing Cognitive Gaps"
+title: "The Limitations of Bridging Courses"
 type: paper_card
-source: [[summary-reducing-the-gap-lecturers-perspective]]
-author: "Gruenwald et al."
+source: [[summary-2008-gruenwald-reducing-gap]]
+author: "Gruenwald, N., Klymchuk, S., & Jovanoski, Z."
 year: 2003
-journal: "International Survey"
-page: "p. 5-6"
-tags: [Paper_Card, #Bridging_Courses, #Cognitive_Gap]
+journal: "IJMEST"
+page: "p. 11-15"
+tags: [Paper_Card, Bridging_Course, Cognitive_Constraint, STT]
 last_updated: 2026-04-17
 ---
 
-# Card: {{title}}
+## 核心概念 (Core Concept: English Body)
+> 一卡一概念：一張卡片只談一個概念，避免混雜。
 
-##  ?��?概念 (Core Concept: English Body)
-> 一?��?概念：��為何傳統�?��接課�? (Bridging Courses) ��填�?轉��差
-- **Problem**: While 52% of departments offer bridging courses, many lecturers report that these do not effectively fill the cognitive gap.
-- **Method**: Qualitative analysis of lecturer feedback on institutional remedies for the secondary-tertiary transition.
-- **Conclusion**: Bridging courses often fail due to two reasons: (1) inadequate duration (weeks vs. years of school habits), and (2) a focus on remedial "basics" (rules and techniques) rather than shifting the level of thinking to proofs and reasoning.
+- **Problem**: Are intensive bridging courses before the first semester effective in solving the math transition gap?
+- **Method**: Performance evaluation of students who attended bridging courses vs. those who didn't.
+- **Conclusion**: **Bridging Courses have significant limitations**. While they help students catch up on "content knowledge" (rules and formulas), they are often too short to bridge the "thinking level gap." Students learn the *what* but not the *how* of university mathematics. 
 
-The study suggests that when students' mathematical backgrounds are poor, bridging courses revert to "spoon-feeding" the basics to help them pass, thereby reinforcing the very rote-learning habits that university-level math seeks to overcome. A true remedy requires a pedagogical shift towards "Advanced Mathematical Thinking" rather than just content coverage.
+The study warns that bridging courses may provide a "false sense of security," where students think they are ready because they know the formulas, only to be crushed by the abstract rigors of the actual first-year lectures.
 
-##  ?�人?�考��聯 (Reflection)
-- **?�發?�想�?*: ?�是一?��?論���?讓學?�在?���「�?上」��們使?����?他們���������?，����延?��?他們進入��學?�維?����?- **?��?缺口**: ?���到 16% ?�部?�?�試?���中學�?溝通�?但具體��數?��?足�?- **評�?**: ?�是對「���?學」���?警示?������?學只?�在補「�?術��」而����思維高度?����差永?�都?����?
+## 個人思考與關聯 (Reflection)
+- **啟發與想法**: [[Bridging Course]] 不應只是「知識大補帖」，更應該是「思維轉型營」。
+- **知識缺口**: 我們該如何設計長期的、嵌入式的支持系統，而不是一次性的預備課程？
+- **評論**: 這對目前許多大學的「開學前先修班」提出了重要的質疑，強調了時間與深度對概念改變的重要性。
+
 ---
 [[wiki/index|Back to Index]]
 
+---
+## 創建與編修紀錄
+- **2026-04-17 16:32**: 編碼修復與內容重鑄。

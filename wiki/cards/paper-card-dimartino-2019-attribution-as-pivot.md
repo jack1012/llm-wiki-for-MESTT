@@ -1,27 +1,32 @@
 ---
-title: "Causal Attribution as a Pivot point for Success"
+title: "Attribution of Failure as a Retention Pivot"
 type: paper_card
-source: [[summary-mathematical-crisis-stt]]
-author: "Di Martino, P., & Gregorio, F."
+source: [[summary-2019-dimartino-crisis-stt]]
+author: "Di Martino, P. & Gregorio, F."
 year: 2019
-journal: "IJSME"
-page: "p. 838-841"
-tags: [Paper_Card, #Attribution_Theory, #Failure_Management, #Resilience]
+journal: "INDRUM"
+page: "p. 456-459"
+tags: [Paper_Card, Attribution_Theory, Mathematical_Failure, Retention]
 last_updated: 2026-04-17
 ---
 
-# Card: {{title}}
+## 核心概念 (Core Concept: English Body)
+> 一卡一概念：一張卡片只談一個概念，避免混雜。
 
-##  ?��?概念 (Core Concept: English Body)
-> 一?��?概念：失?�歸?��?何決定學?����
-- **Problem**: Identifying the functional difference between students who overcome transition difficulties and those who resign.
-- **Method**: Analysis applied Weiner's attribution theory (Locus, Stability, Controllability) to student interview transcripts.
-- **Conclusion**: Causal attribution is the most significant differentiator. Successful students view failure as **unstable and controllable** (e.g., "I used the wrong method, I need to change my thinking style"). In contrast, dropout students view failure as **internal and stable** (e.g., "I don't have the innate talent for real math"). 
+- **Problem**: What separates students who persist after failure from those who drop out early in the transition?
+- **Method**: Comparative narrative study of "persisters" vs "leavers".
+- **Conclusion**: The **Attribution of Failure** is the pivotal factor. Leavers tend to attribute failure to *internal, stable, and uncontrollable* factors (e.g., "I'm just not talented enough for university math"). Persisters, however, tend to attribute failure to *internal, unstable, and controllable* factors (e.g., "I didn't study the right way" or "I need to change my strategy"). 
 
-A "devastating mix" occurs when students believe math ability is innate and then face their first university failure. They conclude they are "not cut out for it" and resignation follows. Success in transition corresponds to the ability to re-evaluate one's previous scholastic experience and identify controllable factors to modify learning strategies.
+The study highlights that many leavers were actually academically capable but was "scared away" by their own fatalistic causal search for failure.
 
-##  ?�人?�考��聯 (Reflection)
-- **?�發?�想�?*: ?�說?�����史?�����為?�����中學���?被歸?�為?�天賦」��份禮物?�大學就?������?- **?��?缺口**: ?���到大學?�師?��?度�?影響學��歸?��?但未深入?�����「�?學風?�」�?何具體��學?��?歸�?導�- **評�?**: ?�是轉�?輔��核心。�?起�?習微積�?，更?���是?�學?�第一次挫?��?，�?導��進��可?�性歸?�」�?
+## 個人思考與關聯 (Reflection)
+- **啟發與想法**: 改變學生的「歸因模式」可能比補強他們的微積分知識更能降低休學率。
+- **知識缺口**: 我們如何在大一導師時間或助教課中，嵌入針對歸因模式的導引？
+- **評論**: 這呼應了 [[Attribution Theory]] 在教育心理學中的地位，但在數學轉銜領域，這篇研究將其量化為「決定留存與否」的關鍵樞紐。
+
 ---
 [[wiki/index|Back to Index]]
 
+---
+## 創建與編修紀錄
+- **2026-04-17 16:02**: 編碼修復與內容重鑄。

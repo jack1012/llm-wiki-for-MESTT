@@ -15,7 +15,7 @@ last_updated: 2026-04-17
 - **Key Themes**: Lecturer perceptions, cross-country comparisons.
 
 ## 📚 Works in Wiki
-- [[summary-reducing-the-gap-lecturers-perspective]]
+- [[summary-2008-gruenwald-reducing-gap]]
 
 ---
 [[wiki/index|Back to Index]]

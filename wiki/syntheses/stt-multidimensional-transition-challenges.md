@@ -3,7 +3,7 @@ title: "Secondary-to-Tertiary Transition (STT): A Multidimensional Analysis of C
 aliases: [中學到大學數學轉銜：挑戰與預測因子的多維度分析]
 type: synthesis
 tags: [STT, Affective_Crisis, Dropout_Prediction, Identity_Shock]
-sources: [paper-card-dimartino-2019-first-time-syndrome, paper-card-geisler-2023-affect-trajectory-dropout, summary-mathematical-crisis-stt]
+sources: [paper-card-dimartino-2019-first-time-syndrome, paper-card-geisler-2023-affect-trajectory-dropout, summary-2019-dimartino-crisis-stt]
 last_updated: 2026-04-17
 ---
 

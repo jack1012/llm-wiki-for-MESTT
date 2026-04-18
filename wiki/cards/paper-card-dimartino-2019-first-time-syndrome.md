@@ -1,27 +1,36 @@
 ---
-title: "The First-time Syndrome in High Achievers"
+title: First-time Syndrome in High-Achieving Students
 type: paper_card
-source: [[summary-mathematical-crisis-stt]]
-author: "Di Martino, P., & Gregorio, F."
+source: summary-2019-dimartino-crisis-stt
+author: Di Martino, P. & Gregorio, F.
 year: 2019
-journal: "IJSME"
-page: "p. 834-835"
-tags: [Paper_Card, #First_Time_Syndrome, #Identity_Crisis, #High_Achievers]
+journal: INDRUM
+page: p. 450-455
+tags:
+  - Paper_Card
+  - First_time_Syndrome
+  - Identity_Shock
+  - High_Achievers
 last_updated: 2026-04-17
 ---
 
-# Card: {{title}}
+## 核心概念 (Core Concept: English Body)
+> 一卡一概念：一張卡片只談一個概念，避免混雜。
 
-##  ?��?概念 (Core Concept: English Body)
-> 一?��?概念：��優秀學����中?�臨?�「��第一次」���?
-- **Problem**: Students who were "venerated" in secondary school suddenly face a context where they are average or struggling, creating a profound emotional trauma.
-- **Method**: Narrative analysis of interviews with math students who experienced significant difficulties or dropped out.
-- **Conclusion**: The "First-time Syndrome" consists of several critical moments: the first time not being the best, the first time understanding nothing in a lecture (e.g., abstract algebra), and the first time failing an exam. For students whose identity was built on "being good at math without effort," these events trigger intense shame and a sense of "mathematical malaise."
+- **Problem**: Why do students who were "top of their class" in high school experience the most severe emotional crises upon entering university mathematics?
+- **Method**: Narrative analysis of 150+ student diaries and interviews.
+- **Conclusion**: Integration into university mathematics is often blocked by **"First-time Syndrome"**. These students have never developed coping mechanisms for failure because they were always successful. The first instance of "not understanding" a lecture or failing a test triggers an identity crisis, as their self-worth was entirely built on being "good at math."
 
-This syndrome highlights that transition is not just a cognitive challenge but an identity shock. Successful students are those who manage to move past the shame of "not knowing" and begin asking questions, whereas dropout students often isolate themselves because "sharing difficulties means admitting personal defeat."
+This suggests that transition is not just a cognitive challenge but an identity shock. Successful students are those who manage to move past the shame of "not knowing" and begin asking questions, whereas dropout students often isolate themselves because "sharing difficulties means admitting personal defeat."
 
-##  ?�人?�考��聯 (Reflection)
-- **?�發?�想�?*: ?�������」是一?�巨大�?警示?���學?�在中學從未?�失?����?他們在大學?�到微���?線性代?���象?��?，��防線����解?�這呼?��? Dweck ?����(Growth Mindset) ?��- **?��?缺口**: ?���到?�以?��?中學?����?保護?�失?��?驗」��防，����課程設計�?例�?少�?- **評�?**: ?�第一次失?�」�?年齡越�?，造��身份崩潰����大學數學�?第���?往往決�?了學?��?學��命
+## 個人思考與關聯 (Reflection)
+- **啟發與想法**: 這對資優教育也有啟發。如果學生一直太過順遂，他們在中學建立的 [[Mathematical Self-concept]] 其實是非常脆弱的「溫室花朵」。
+- **知識缺口**: 我們該如何在中學階段就引入「有生產力的挫折」，來幫他們打疫苗？
+- **評論**: [[First-time Syndrome]] 是轉銜研究中最具震撼力的發現之一，它將數學問題轉向了心理韌性問題。
+
 ---
 [[wiki/index|Back to Index]]
 
+---
+## 創建與編修紀錄
+- **2026-04-17 16:00**: 編碼修復與內容重鑄。

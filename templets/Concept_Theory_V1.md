@@ -16,8 +16,11 @@ last_updated: YYYY-MM-DD
 - **Domain B**: Description.
 
 ## Proponents & Origins
-- **Main Author(s)**: [[Entity/Researcher_Name]] (Year)
-- **Genesis Source**: [[Source/Originating_Paper]]
+- **Main Author(s)**: [[wiki/entities/Researcher_Name]] (Year)
+
+## 📚 源出處 & 相關文獻 (Mentioned in Sources)
+- **[[wiki/sources/summary-originating-paper]]**: 說明該文獻如何最初定義或提出此概念。
+- **[[wiki/sources/summary-other-paper]]**: 說明該文獻在此概念上的具體應用、擴充、或反思批評。
 
 ## ️ Application in STT (Transition)
 - How this concept explains the secondary-to-tertiary transition.

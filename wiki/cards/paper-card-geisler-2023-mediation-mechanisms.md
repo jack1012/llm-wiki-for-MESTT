@@ -1,27 +1,38 @@
 ---
-title: "Mediation Mechanisms of Early Dropout: Satisfaction vs. Achievement"
+title: Dual Mediation Mechanisms of Dropout
 type: paper_card
-source: [[summary-attitudes-and-dropout-mediation-role]]
-author: "Geisler, S., Rach, S., & Rolka, K."
+source: summary-2023-geisler-attitudes-dropout
+author: Geisler, S.
 year: 2023
-journal: "ESM"
-page: "p. 371-375"
-tags: [Paper_Card, #Mediation_Model, #Satisfaction, #Achievement]
+journal: Educational Studies in Mathematics
+page: p. 1-12
+tags:
+  - Paper_Card
+  - Mediation_Model
+  - Dropout
+  - Affective_Crisis
 last_updated: 2026-04-17
 ---
 
-# Card: {{title}}
+## 核心概念 (Core Concept: English Body)
+> 一卡一概念：一張卡片只談一個概念，避免混雜。
 
-##  ?��?概念 (Core Concept: English Body)
-> 一?��?概念：解?�數學自?��?念��趣如���?不�?路�?影響休學
-- **Problem**: Understanding the specific causal pathways from student attitudes to the decision to quit university mathematics.
-- **Method**: Mediation analysis using a path model to test achievement and satisfaction as intermediate variables.
-- **Conclusion**: Two distinct mechanisms were validated: (1) Mathematical self-concept boosts achievement, which then reduces dropout risk; (2) Both high self-concept and high interest in university math increase study satisfaction, which independently reduces dropout risk. Notably, satisfaction was a stronger mediator than achievement for the self-concept pathway.
+- **Problem**: What are the specific psychological pathways through which mathematical achievement influences the intention to drop out?
+- **Method**: Structural Equation Modeling (SEM) analyzing the mediation roles of "interest" and "satisfactoriness".
+- **Conclusion**: Achievement influences dropout intention through two primary **Mediation Mechanisms**:
+1. **The Interest Pathway**: Low achievement → decline in mathematical interest → higher dropout intention.
+2. **The Satisfactoriness Pathway**: Low achievement → decrease in perceived satisfactorily-fit with the environment → higher dropout intention.
 
-The study confirms that affective variables like satisfaction are just as critical as academic marks. Even if a student is performing well (high achievement), low satisfaction with the "nature" of university mathematics can lead to voluntary withdrawal. This highlights the importance of the affective "Person-Environment Fit."
+This confirms that failure is not just technical; it destroys the student's "joy" (interest) and their "sense of belonging" (satisfactoriness) simultaneously.
 
-##  ?�人?�考��聯 (Reflection)
-- **?�發?�想�?*: ?�解?����?麼�?些「學?�」��選?�離?�。這��是?���適?���是?�價?���������這�?第�?篇�?章����思維跳��相?��?：��學?���歡?�種跳�?後��象?��?，滿?�度就�?崩潰- **?��?缺口**: ?�究?�������德�?大學，跨?��?下��滿?�度?��?義是?�����?��- **評�?**: ?�個模?���測休學?�常?�幫?�。特?�是它����被迫�?學」��就低��「自願�?學」�?滿�?度�?）�?
+## 個人思考與關聯 (Reflection)
+- **啟發與想法**: 阻止休學不只是要把數學教好，還要把「學生的信心」和「歸屬感」救回來。
+- **知識缺口**: 這套中介模型是否在不同學系（如數學系 vs. 物理系）中表現一致？
+- **評論**: 這是對 [[Mathematical Failure]] 如何具體轉化為「撤退行為」的最精確路徑解析。
+
 ---
 [[wiki/index|Back to Index]]
 
+---
+## 創建與編修紀錄
+- **2026-04-17 16:25**: 編碼修復與內容重鑄。

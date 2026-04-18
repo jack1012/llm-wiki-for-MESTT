@@ -19,8 +19,12 @@ last_updated: YYYY-MM-DD
 - **Methodology**: (Keywords: e.g., Qualitative, Longitudinal, N=200)
 
 ## Atomic Knowledge (Links to Cards)
-- [[Cards/Author_YYYY_Concept_A]] — Brief description in English. (Chinese alias in card)
-- [[Cards/Author_YYYY_Concept_B]] — Brief description in English.
+- [[wiki/cards/Author_YYYY_Concept_A]] — Brief description in English. (Chinese alias in card)
+- [[wiki/cards/Author_YYYY_Concept_B]] — Brief description in English.
+
+## Extracted Concepts & Entities (雙向追蹤)
+- **Entities**: [[wiki/entities/Researcher_A]], [[wiki/entities/Institution_B]]
+- **Concepts**: [[wiki/concepts/Concept_A]], [[wiki/concepts/Theory_B]]
 
 ## Relations & Context
 - **Theories**: [[Concept/Theory_Name]]

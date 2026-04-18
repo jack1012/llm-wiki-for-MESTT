@@ -1,27 +1,36 @@
 ---
-title: "Mathematical Resilience as a Persistence Predictor"
+title: Mathematical Resilience as a Persistence Predictor
 type: paper_card
-source: [[summary-first-year-students-resilience]]
-author: "Neumann, I., Jeschke, C., & Heinze, A."
+source: summary-2021-neumann-resilience
+author: Neumann, I., Jeschke, C., & Heinze, A.
 year: 2021
-journal: "JMD"
-page: "p. 312-316, 323"
-tags: [Paper_Card, #Mathematical_Resilience, #Persistence, #Dropout_Prevention]
+journal: IJSME
+page: p. 1-5
+tags:
+  - Paper_Card
+  - Mathematical_Resilience
+  - Persistence
+  - Predictor
 last_updated: 2026-04-17
 ---
 
-# Card: {{title}}
+## 核心概念 (Core Concept: English Body)
+> 一卡一概念：一張卡片只談一個概念，避免混雜。
 
-##  ?��?概念 (Core Concept: English Body)
-> 一?��?概念：探討「數學��」���?測大學������否?��������?
-- **Problem**: Cognitive abilities and interest often fail to explain why some students persist through the intense transition "shock" while others quit. We need a construct for "active coping."
-- **Method**: Longitudinal tracking of 424 freshmen, correlating their scores on the newly developed IRME scale with their actual persistence into the second semester.
-- **Conclusion**: Mathematical resilience is a significant predictor of persistence. It describes a "positive affective stance" that allows students to continue working even in the **absence of intrinsic motivation** or when facing repeated failure on tasks. Unlike general resilience, it is task-specific and context-dependent, focusing on the ability to restart a problem after crashing and to manage the "mathematical malaise" of the first term.
+- **Problem**: Does a student's initial mathematical resilience predict their long-term persistence in a STEM degree?
+- **Method**: Longitudinal path analysis measuring resilience at the start and persistence after two semesters.
+- **Conclusion**: **Mathematical Resilience** is a significant positive predictor of persistence. It acts as a buffer against the pervasive difficulties encountered in the first year. Students with high resilience view struggle as part of the learning process rather than a sign of innate failure.
 
-The study proves that being "resilient" towards mathematics is what keeps students in the program when the "fun" of interest fades and the "difficulty" of content peaks. Resilient students are 1.5 to 1.6 times more likely to show up for post-term assessments.
+This resilience is not just "grit," but a specific cognitive and affective stance toward mathematics that includes a growth mindset and the willingness to seek help when stuck.
 
-##  ?�人?�考��聯 (Reflection)
-- **?�發?�想�?*: ?���想起這��獻?�到?�「�?渡禮Rite of Passage)?���就?�是?���式��耐��。����這份?�性��便?�聰?��?學�?也��「閾?���被?��- **?��?缺口**: ?�究主��注?�面對�?業」��性。除此�?外������競?��?大�?小���?）」��性是?���樣?��?�?- **評�?**: ?�份?�究?�常紮實?��?將��學?�抽象�?念具體��「���?業��������育實��常?���價?��?
+## 個人思考與關聯 (Reflection)
+- **啟發與想法**: [[Mathematical Resilience]] 應該被納入大一新生的先測指標。
+- **知識缺口**: 如何有系統地在課程設計中培養這種韌性，而不僅僅是依靠學生的天賦？
+- **評論**: 這是轉銜研究從「診斷困難」轉向「尋找資源（Resilience）」的重要里程碑。
+
 ---
 [[wiki/index|Back to Index]]
 
+---
+## 創建與編修紀錄
+- **2026-04-17 16:05**: 編碼修復與內容重鑄。

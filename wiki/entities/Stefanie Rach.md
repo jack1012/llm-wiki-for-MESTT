@@ -15,8 +15,8 @@ last_updated: 2026-04-17
 - Leading figures in identifying predictors of successful transition in German mathematics programs.
 
 ## 📚 Works in Wiki
-- [[summary-attitudes-and-dropout-mediation-role]]
-- [[summary-development-of-affect-at-transition]]
+- [[summary-2023-geisler-attitudes-dropout]]
+- [[summary-2023-geisler-affect-development]]
 
 ---
 [[wiki/index|Back to Index]]

@@ -14,7 +14,7 @@ last_updated: 2026-04-17
 - Collaboration on mathematical resilience and the impact of assignments on first-year success.
 
 ## 📚 Works in Wiki
-- [[summary-first-year-students-resilience]]
+- [[summary-2021-neumann-resilience]]
 
 ---
 [[wiki/index|Back to Index]]

@@ -1,27 +1,32 @@
 ---
-title: "The Interest Divergence: School Math vs. University Math"
+title: "The School-University Interest Gap"
 type: paper_card
-source: [[summary-attitudes-and-dropout-mediation-role]]
-author: "Geisler, S., Rach, S., & Rolka, K."
+source: [[summary-2023-geisler-attitudes-dropout]]
+author: "Geisler, S."
 year: 2023
-journal: "ESM"
-page: "p. 363-365"
-tags: [Paper_Card, #Interest, #Persistence, #Divergence]
+journal: "Educational Studies in Mathematics"
+page: "p. 13-18"
+tags: [Paper_Card, Interest_Gap, Disconnect, Transition]
 last_updated: 2026-04-17
 ---
 
-# Card: {{title}}
+## 核心概念 (Core Concept: English Body)
+> 一卡一概念：一張卡片只談一個概念，避免混雜。
 
-##  ?��?概念 (Core Concept: English Body)
-> 一?��?概念：��中學數學�?�?��法�?測大學�?存�����?
-- **Problem**: Educators often assume that a student who loves school math will persevere in university math. However, empirical data contradicts this.
-- **Method**: Longitudinal tracking of students' interest levels specifically differentiated between "Interest in School Math" (T1) and "Interest in University Math" (T1/T2).
-- **Conclusion**: "Interest in School Math" is a major reason for program *choice* (enrolment) but has zero predictive power for *staying* in the program. Only "Interest in University Math" predicts persistence. This is because the two environments differ so substantially that interest does not transfer.
+- **Problem**: What is the magnitude of the interest disconnect between high school mathematics and university mathematics?
+- **Method**: Comparative analysis of student interest scores across the transition.
+- **Conclusion**: There is a profound **Interest Gap**. Students often maintain high interest in "general mathematics" but experience a collapse in interest for "university mathematics" specifically. This disconnect suggests that the subject undergoes such a radical transformation that students no longer perceive it as the same discipline they loved in school.
 
-This suggests a "bait and switch" phenomenon in the transition. Students enter based on their enjoyment of computational/procedural school math, but find that university math?�focused on formal definitions and proofs?�is a different "object of interest." If they do not develop a new interest in this formal version quickly, their dropout risk spikes.
+The gap is particularly fatal for students whose primary motivation was the "application" or "algorithmic" nature of school math, as university math prioritizes "abstraction" and "formal structure."
 
-##  ?�人?�考��聯 (Reflection)
-- **?�發?�想�?*: ?��?點極?�����可以用來解?�「��危機」。學?�是帶�?�?A ?���入�?B ?�環境�?- **?��?缺口**: 何��建立「大學數學�?�?����鍵?��?如��在?�入大學?��?如透�?工���?展示?�實?�大學數學��否?�改?�這種?�差�?- **評�?**: ?�呼?��?第�?篇�?章中?�於?�思維?�層?��?討����「�����?（中學數學������難?��?磚頭（大學數學����本?���自?��?消失
+## 個人思考與關聯 (Reflection)
+- **啟發與想法**: 這是學科認同的崩潰。我們買的是同一家店的門票，進去才發現換了表演。
+- **知識缺口**: 有沒有學生的興趣在轉銜中反而「上升」的案例？他們具備什麼特質？
+- **評論**: 這呼應了 [[First-time Syndrome]]，但從情感興趣的角度解釋了為什麼「不玩了」——因為內容不再吸引人。
+
 ---
 [[wiki/index|Back to Index]]
 
+---
+## 創建與編修紀錄
+- **2026-04-17 16:27**: 編碼修復與內容重鑄。

@@ -4,6 +4,10 @@
 - **平台**：Windows 11，透過 Dropbox 或 Git 跨裝置存取。
 - **必要工具**：Node.js (>=22)。
 - **Shell**：bash / powershell。
+- **編碼規範 (Crucial)**：
+  - **所有 Markdown 檔案** 必須使用 **UTF-8 (無 BOM)** 編碼。
+  - **禁止使用 PowerShell `Add-Content` 或 `Set-Content`** 直接寫入非 ASCII 內容，必須透過 `write_to_file` 工具或 Node.js 腳本處理以確保編碼正確。
+  - **行尾符**：統一使用 Windows (CRLF) 以獲得最佳系統相性。
 
 ### 🏗️ 新環境初始對接 (Onboarding)
 當您在新的電腦啟動此專案時，必須優先執行環境對接：
@@ -112,16 +116,18 @@
 每張卡片應作為獨立檔案存在於 `wiki/cards/`，並遵循以下結構：
 1. **標題 (Title)**：`## 概念名稱` (YAML 中的 title 也需同步，不加任何標籤符號)。
 2. **來源 (Source)**：全合著者 (年份), [[出版期刊]], p. 頁碼 (或連結).
-3. **核心概念 (Core Concept: English Body)**：
-   - **Problem**: 該研究要解決的問題。
-   - **Method**: 使用的方法。
-   - **Conclusion**: 得到的結論。
-   - **轉述**: 200-300字，精簡為主，親筆轉述。
-4. **想法/連結 (Thought/Link)**：啟發與想法、知識缺口、個人評論、與其他文獻的聯想。
-5. **強制指標 (Mandatory Quotas)**：
-   - 每篇文章必須產出 **2 張** 不同主題的 Paper Cards。
-   - 每篇文章必須產出 **至少 5 個** 概念頁面 (Concepts)。
-   - 每篇文章必須建立 **所有合著者** 與 **所屬期刊** 的實體頁面 (Entities)。
+3. **想法/連結 (Thought/Link)**：啟發與想法、知識缺口、個人評論、與其他文獻的聯想。
+
+### 🏆 最高優先級規則 (Highest Priority Rules)
+- **實體化強制性 (Mandatory Materialization)**：每篇文章分析時，**必須同步** 產出所有作者、期刊、研究機構的實體頁面 (`wiki/entities/`)。
+- **概念飽和度 (Concept Saturation)**：每篇文章必須提取 **至少 5 個** 關鍵字並實體化為概念頁面 (`wiki/concepts/`)，內容需包含學術定義與 STT 關聯。
+- **強制雙向來源與貢獻追蹤 (Annotated Bidirectional Traceability)**：
+  - 當建立/更新 Concept 或 Entity 時，**必須** 在其底層區塊（如 `源出處 & 相關文獻` 或 `相關著作與貢獻`），新增當前處理文章的連結。**嚴禁只放空連結**。
+  - 對於 Concept：連結後方必須補充說明「這篇文章對這個概念有什麼特別的想法、批判、或應用」。
+  - 對於 Entity (如 Researcher)：連結後方必須補充說明「該學者在這篇文章中提出了什麼核心洞見與貢獻」。
+  - 當建立 Summary 文章時，**必須** 有專門區塊列出從本文提取的所有 Concepts 與 Entities，形成雙向錨定。
+- **關鍵字飽和度 (Keyword Density)**：在 Source Summary 與 Paper Cards 中，必須大量嵌入並鏈結學術變項與關鍵字。
+- **零遺漏同步 (Zero-gap Sync)**：檔案寫入與 Index 索引同步必須在同一次對話任務中完整執行。
 
 # 頁面 Frontmatter (YAML) 規範
 所有生成的 wiki 頁面必須包含以下 YAML 頭部：

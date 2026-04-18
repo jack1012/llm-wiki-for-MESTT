@@ -15,7 +15,7 @@ last_updated: 2026-04-17
 - Investigating the emotional challenges of the secondary-tertiary transition.
 
 ## 📚 Works in Wiki
-- [[summary-first-year-students-resilience]]
+- [[summary-2021-neumann-resilience]]
 
 ---
 [[wiki/index|Back to Index]]

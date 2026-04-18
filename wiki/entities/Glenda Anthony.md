@@ -15,7 +15,7 @@ last_updated: 2026-04-17
 - Investigating the gap from a student's perspective.
 
 ## 📚 Role in STT Research
-Cited in [[summary-reducing-the-gap-lecturers-perspective]] as a key researcher in the importance of the transition period.
+Cited in [[summary-2008-gruenwald-reducing-gap]] as a key researcher in the importance of the transition period.
 
 ---
 [[wiki/index|Back to Index]]

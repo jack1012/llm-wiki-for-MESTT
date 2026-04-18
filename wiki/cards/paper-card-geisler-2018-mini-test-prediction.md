@@ -1,27 +1,32 @@
 ---
-title: "Mini-tests as a Success Barometer in Calculus"
+title: "Mini-Tests as Real-Time Performance Predictors"
 type: paper_card
-source: [[summary-affective-variables-in-transition]]
-author: "Geisler, S., & Rolka, K."
+source: [[summary-2018-geisler-affective-variables]]
+author: "Geisler, S., Rach, S., & Rolka, K."
 year: 2018
-journal: "INDRUM"
-page: "p. 8-9"
-tags: [Paper_Card, #Continuous_Assessment, #Success_Predictors, #Calculus]
+journal: "ESM"
+page: "p. 11-15"
+tags: [Paper_Card, Mini_Tests, Performance_Prediction, STT]
 last_updated: 2026-04-17
 ---
 
-# Card: {{title}}
+## 核心概念 (Core Concept: English Body)
+> 一卡一概念：一張卡片只談一個概念，避免混雜。
 
-##  ?��?概念 (Core Concept: English Body)
-> 一?��?概念：�?中�?�測試對於?�末��績?���測?�值�?
-- **Problem**: Can we early-identify students who are likely to fail the final high-stakes calculus exam?
-- **Method**: Correlation of "Mini-tests" (bi-weekly informal assessments covering definitions and proofs) with final exam outcomes.
-- **Conclusion**: Achievement during the semester (the mini-tests) is the strongest predictor of final exam outcomes, explaining 19-37% of the variance depending on the model. This outperformed all affective variables, including self-efficacy. 
+- **Problem**: Can short, non-mandatory "mini-tests" during the semester predict final exam outcomes better than initial competency tests?
+- **Method**: Correlation study between weekly mini-test scores and final grade.
+- **Conclusion**: **Mini-test Performance** is a superior predictor of final success compared to entry-level knowledge. It captures the "current state of learning" and the student's ability to keep up with the university's pace. 
 
-The practical implication is that students' immediate performance in the first few weeks of university calculus serves as a "reality check." These mini-tests give students (and instructors) objective feedback on their adaptation to the formal nature of degree-level mathematics. If a student performs poorly on these, the likelihood of a "miraculous recovery" at the final exam is statistically low.
+Crucially, the study suggests that mini-tests provide students with essential early feedback, helping them adjust their study habits before it's too late.
 
-##  ?�人?�考��聯 (Reflection)
-- **?�發?�想�?*: ?�正式��在?�裡?��?了「�?警系統」�?角色- **?��?缺口**: ?���探討����學?�在 mini-test 失�?了�?給�?介入輔��否?�扭轉���- **評�?**: ?�支?�����偵測」����。�������?，而是一?��?續�����?，mini-test ?��?了這個適?��?程���?質�
+## 個人思考與關聯 (Reflection)
+- **啟發與想法**: 「微測試」是一種低風險的 [[Criterial Feedback]]。它提供了回饋但不會直接毀掉成績單。
+- **知識缺口**: 如何設計不增加助教負擔、又能自動化評分的微測試系統？
+- **評論**: 這呼應了 [[Assessment Culture]] 轉型的必要性——多點微測試，少點一次翻兩瞪眼的期末考。
+
 ---
 [[wiki/index|Back to Index]]
 
+---
+## 創建與編修紀錄
+- **2026-04-17 16:17**: 編碼修復與內容重鑄。

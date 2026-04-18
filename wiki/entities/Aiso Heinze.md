@@ -8,14 +8,12 @@ tags: [Researcher, Math_Education, Senior_Figure]
 last_updated: 2026-04-17
 ---
 
-# Researcher: {{title}}
-
 ## 🔬 Research Focus
 - One of the leading figures in German mathematics education research.
 - Extensive work on the secondary-tertiary transition, focusing on both cognitive and affective barriers.
 
 ## 📚 Works in Wiki
-- [[summary-first-year-students-resilience]]
+- [[summary-2021-neumann-resilience]]
 
 ---
 [[wiki/index|Back to Index]]

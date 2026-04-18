@@ -1,21 +1,15 @@
 ---
 title: "Mathematical Self-concept"
-aliases: [數學自我概念]
 type: concept
-category: Variable
-tags: [Self_Beliefs, Affective_Aspects, Motivation]
+tags: [Concept, Psychology, Identity, STT]
 last_updated: 2026-04-17
 ---
 
-# Concept: {{title}}
+## Definition
+**數學自我概念 (Mathematical Self-concept)** 是學生對自己在數學領域勝任能力的信念與評價。
 
-## 📖 Definition
-A student's mental image and evaluation concerning their own knowledge and abilities in the domain of mathematics. It comprises both affective and cognitive evaluations based on past experiences of success and failure.
-
-## 📉 Impact on Transition
-Geisler et al. (2023) identify it as a strong negative predictor of early dropout. It works through two channels:
-1. **Achievement**: Students with higher self-concept are more persistent with demanding university tasks (like proofs).
-2. **Satisfaction**: Higher self-concept leads to greater fit and satisfaction with the study program.
+## Vulnerability in STT
+在大一轉銜中，自我概念極易受到挑戰（[[Cognitive Discontinuity]]）。Geisler (2021) 發現，自我概念的下降往往先於分數的下滑，是退學行為的最強早期指標。
 
 ---
 [[wiki/index|Back to Index]]

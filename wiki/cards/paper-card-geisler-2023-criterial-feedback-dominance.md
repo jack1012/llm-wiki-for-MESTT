@@ -1,28 +1,32 @@
 ---
-title: "Criterial Feedback Dominance in Self-concept Adjustment"
+title: "Criterial Feedback Dominance in Math Transition"
 type: paper_card
-source: [[summary-development-of-affect-at-transition]]
+source: [[summary-2023-geisler-affect-development]]
 author: "Geisler, S., Rolka, K., & Rach, S."
 year: 2023
 journal: "ESM"
-page: "p. 47-48"
-tags: [Paper_Card, #Self_Concept, #Criterial_Reference, #Weekly_Assignments]
+page: "p. 50-52"
+tags: [Paper_Card, Criterial_Feedback, Self_Concept, Assessment_Culture]
 last_updated: 2026-04-17
 ---
 
-# Card: {{title}}
+## 核心概念 (Core Concept: English Body)
+> 一卡一概念：一張卡片只談一個概念，避免混雜。
 
-##  ?��?概念 (Core Concept: English Body)
-> 一?��?概念：大學數學系學�?主�?依�?作業得�?（�?準�������?比�?來調?�自?��?念�?
-- **Problem**: In school, the "Big-Fish-Little-Pond" effect (social comparison) is the main driver of self-concept. Does this hold true in the selective environment of university mathematics?
-- **Method**: Qualitative content analysis identifying "frames of reference" in students' descriptions of learning situations.
-- **Conclusion**: Criterial frames of reference **dominate** in the university context. The primary trigger for self-concept decline is the explicit, points-based feedback on weekly assignments. Unlike school, where "doing better than my neighbor" might buffer ego, university math students adjust their perceived "fitness" based on whether they can actually prove the theorems and how many points they get.
+- **Problem**: Which source of information (individual progress vs. criterial standards) do students use most to adjust their mathematical self-concept during STT?
+- **Method**: Analysis of students' responses to their performance in different "learning situations" (assignments vs. lectures).
+- **Conclusion**: **Criterial feedback (absolute grades)** dominates the adjustment of self-concept. Even if students feel they are progressing, low scores on weekly assignments (which are highly criterial) act as "negative evidence" that overrides personal feelings of mastery, leading to a decline in self-concept.
 
-This finding highlights the "crucible" nature of weekly assignments (Neumann et al., 2021). Because the criteria for success in university math are so Qualitatively different and high-stakes, students prioritize "meeting the objective standard" over "social standing." This makes the grading of early assignments a critical emotional intervention point.
+This suggests that the "Assessment Culture" in university mathematics is highly rigid. Students' self-worth as mathematicians becomes tied to achieving absolute benchmarks, and the failure to meet these (even if normal for the transition) is interpreted as personal inability.
 
-##  ?�人?�考��聯 (Reflection)
-- **?�發?�想�?*: ?�解?����?麼「數學系?�緣人」即便��人社交，只要�?業寫不出來�?信�?也�?崩潰- **?��?缺口**: 如�?將�?業改?�「�?計�?但�?深入質性�?饋」��否?��?緩自?��?念���?式�?滑�?
-- **評�?**: ?�強?�支?��? Neumann et al. (2021) ?�於作業壓���?法。這�?訴系?�：�?業系統���?粹��學工具，������學?�信心���?，���?心使?��?
+## 個人思考與關聯 (Reflection)
+- **啟發與想法**: 這解釋了為什麼「每週作業」會變成大一學生的主要壓力源。因為那是他們衡量自己是否「還行」的唯一度量衡。
+- **知識缺口**: 我們是否可以透過增加「形成性評量 (Formative Assessment)」來稀釋這種絕對準則回饋的挫折感？
+- **評論**: [[Pietro Di Martino]] 提到的「第一次失敗症候群」，本質上就是被這種「準則性回饋」給擊穿了防線。
+
 ---
 [[wiki/index|Back to Index]]
 
+---
+## 創建與編修紀錄
+- **2026-04-17 15:58**: 編碼災難後的中文內容重修。

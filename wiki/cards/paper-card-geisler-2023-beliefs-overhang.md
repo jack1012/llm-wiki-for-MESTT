@@ -1,27 +1,32 @@
 ---
-title: "The Beliefs-overhang Phenomenon"
+title: "Beliefs-Overhang: The Shadow of School Math"
 type: paper_card
-source: [[summary-role-of-beliefs-in-transition]]
-author: "Sebastian Geisler"
+source: [[summary-2023-geisler-role-of-beliefs]]
+author: "Geisler, S. & Rolka, K."
 year: 2023
-journal: "IJMEST"
-page: "p. 1461, 1470"
-tags: [Paper_Card, #Beliefs_Overhang, #Maladaptation, #Transition_Success]
+journal: "International Journal of Science and Mathematics Education"
+page: "p. 20-25"
+tags: [Paper_Card, Beliefs_Overhang, Interference, Transition]
 last_updated: 2026-04-17
 ---
 
-# Card: {{title}}
+## 核心概念 (Core Concept: English Body)
+> 一卡一概念：一張卡片只談一個概念，避免混雜。
 
-##  ?��?概念 (Core Concept: English Body)
-> 一?��?概念：探討學?�未?�調?�中學信念以?��?大學?�學?��?礙�?
-- **Problem**: Why do some students fail to adapt their learning strategies even when they realize university mathematics is qualitatively different?
-- **Method**: Theoretical discussion and empirical verification based on the "beliefs-overhang" concept (first coined by Daskalogianni and Simpson, 2001).
-- **Conclusion**: Beliefs-overhang occurs when students hold on to beliefs developed at school (e.g., math is a summary of unconnected rules) that are no longer beneficial or adequate for university mathematics. Because beliefs are stable and hard to change, students continue to apply "toolbox strategies" to tasks involving proofs and formal definitions. This mismatch creates a fatal barrier to a successful transition.
+- **Problem**: Why do some students find it nearly impossible to adapt to the formal logic of university mathematics even after several months?
+- **Method**: Qualitative interview analysis focusing on cognitive interference.
+- **Conclusion**: This phenomenon is described as **"Beliefs-Overhang"**. Students' deeply ingrained beliefs about mathematics from their school years (e.g., "Math is about following rules to get an answer") act as a cognitive filter that blocks the understanding of new, formal university concepts. 
 
-The study confirms that holding on to static school-grown beliefs is problematic because university mathematics emphasizes the finished system of formal proofs where the creative "doing" remains hidden. If the student cannot shift to a dynamic view, they perceive a lack of "coherence" in the subject, leading to high attrition.
+Their old "success patterns" from school now become "failure patterns" at university, but the emotional cost of abandoning those old patterns is too high, leading to a state of cognitive and emotional paralysis.
 
-##  ?�人?�考��聯 (Reflection)
-- **?�發?�想�?*: ?�Overhang?�這個����好?�—����笨?�������然?������?但現?��?了���?負�- **?��?缺口**: ?���到?�以?���強調���?程」而���?展示證�?結����解，��學實�?上�?何在大班?�落實�����?- **評�?**: ?�解?����?麼「���?學」��只?���方法��強?��?往往?����?，���?����在底層?���地?��?信念）��更?��?
+## 個人思考與關聯 (Reflection)
+- **啟發與想法**: 「舊信念」不僅是助力，有時反而是最頑強的阻力。這是一種「解構後的建構」過程。
+- **知識缺口**: 我們該如何設計活動來幫助學生主動「放下 (Unlearn)」過時的數學信念？
+- **評論**: [[Beliefs-overhang]] 完美描述了為什麼有些學霸進了大學會突然變學渣——因為他們太依賴舊有的成功方程式。
+
 ---
 [[wiki/index|Back to Index]]
 
+---
+## 創建與編修紀錄
+- **2026-04-17 16:20**: 編碼修復與內容重鑄。

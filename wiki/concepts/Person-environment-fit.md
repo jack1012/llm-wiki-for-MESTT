@@ -1,20 +1,15 @@
 ---
 title: "Person-environment-fit"
-aliases: [個人與環境適配, PE Fit]
 type: concept
-category: Theory
-tags: [Educational_Psychology, Success_Predictors, Environment]
+tags: [Concept, Educational_Psychology, Fit_Theory]
 last_updated: 2026-04-17
 ---
 
-# Concept: {{title}}
+## Definition
+**人境適配 (Person-environment-fit)** 是心理學與教育學的交叉理論，指個體的特徵（能力、需求、信念）與環境的要求/供給（難度、規範、文化）之間的匹配程度。
 
-## 📖 Definition
-A theoretical framework proposing that the compatibility between an individual's characteristics (knowledge, skills, attitudes, needs) and the characteristics of their environment (demands, resources, values) determines outcomes such as success, satisfaction, and persistence.
-
-## 🏗️ Two Dimensions in STT
-1. **Cognitive Fit**: Compatibility between student's abilities and university demands (visible in **Achievement**).
-2. **Affective Fit**: Compatibility between student's attitudes/needs and the characteristics of the major (visible in **Satisfaction**).
+## Application in STT
+Geisler (2021) 認為 STT 的痛苦源自於學生的「中學數學信念」與大學「嚴謹數學環境」的 **Misfit**（失配）。若兩者差距過大，學生會產生強烈的退學傾向。
 
 ---
 [[wiki/index|Back to Index]]

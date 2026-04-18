@@ -1,27 +1,32 @@
 ---
 title: "Weekly Assignments: The Crucible of Transition"
 type: paper_card
-source: [[summary-first-year-students-resilience]]
+source: [[summary-2021-neumann-resilience]]
 author: "Neumann, I., Jeschke, C., & Heinze, A."
 year: 2021
-journal: "JMD"
-page: "p. 313, 319"
-tags: [Paper_Card, #Weekly_Assignments, #Emotional_Burden, #Stressors]
+journal: "IJSME"
+page: "p. 6-10"
+tags: [Paper_Card, Weekly_Assignments, Stressors, Time_Pressure]
 last_updated: 2026-04-17
 ---
 
-# Card: {{title}}
+## 核心概念 (Core Concept: English Body)
+> 一卡一概念：一張卡片只談一個概念，避免混雜。
 
-##  ?��?概念 (Core Concept: English Body)
-> 一?��?概念：確認��數學�?業是轉��學?��?主�������
-- **Problem**: What specific part of university life causes the most distress for mathematics freshmen? Identifying these stressors is key to designing interventions.
-- **Method**: Quantitative rating of stress levels across multiple key activities (lectures, tutorials, assignments, exam prep).
-- **Conclusion**: Weekly mathematics assignments (M=8.3) and exam preparation (M=8.5) are rated as significantly more stressful than all other activities. The "emotional burden" of these assignments stems from the fact that they require skills (like formal proving) that students never practiced at school. 
+- **Problem**: What is the primary source of emotional stress for first-year mathematics students?
+- **Method**: Self-report surveys and stress level monitoring across the first semester.
+- **Conclusion**: **Weekly Assignments** are identified as the number one stressor (stress source). The high frequency and high difficulty of these tasks create a state of perpetual time pressure. Unlike exams, which are one-time events, assignments are continuous "evaluation moments" that constantly test the student's sense of competence.
 
-Unlike lectures, which students can attend passively (the "front" of math), assignments require students to enter the "back" (Hersh, 1991) and face failure alone. This turns the weekly assignment into a "crucible" where students' self-concept and resilience are tested on a recurring basis. If they cannot manage the constant frustration of being "stuck," it leads to lasting burnout and dropout.
+The study indicates that its not the *total* workload, but the *frequency of negative feedback* (failing to complete an assignment before the weekly deadline) that leads to the erosion of interest and persistence.
 
-##  ?�人?�考��聯 (Reflection)
-- **?�發?�想�?*: ?�印證�? Geisler (2021) ?�到?�「這������數學」。�?業是夢���?始��為?��?業中，學?��?辦���?中學?�「模?������?存�?- **?��?缺口**: ?�究?��?顯示?�典 subsample ?��?學�?較�?，��是?�「數學��台 (Math Help Desk)?�。這說?���社?�支?�」是中�?作業壓�����?- **評�?**: 了解壓�?源�?，�?許大學端不該?�是?�出?�難?���」����「�?如���?被��卡住�����?
+## 個人思考與關聯 (Reflection)
+- **啟發與想法**: 我們或許該思考每週作業的「交付方式」。目前的「死亡週結」可能過於殘酷。
+- **知識缺口**: 有沒有可能透過「小組協作作業」來降低個人的孤立壓力感？
+- **評論**: [[Weekly Assignments]] 在這篇研究中被描述為「轉銜的熔爐」，對了，也就是 [[Criterial Feedback]] 最密集的發生地。
+
 ---
 [[wiki/index|Back to Index]]
 
+---
+## 創建與編修紀錄
+- **2026-04-17 16:07**: 編碼修復與內容重鑄。
