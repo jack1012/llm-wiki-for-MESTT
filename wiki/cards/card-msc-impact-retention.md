@@ -5,7 +5,7 @@ tags: [Research_Card, Institutional_Support, Retention, STT_Success]
 reference: "Symonds et al. (2015)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2015-symonds-motivation-support]]
+Parent Source: [[summary-2015-Symonds-Support-measures-first]]
 
 ## Key Insight
 [[Mathematics Support Centre]] (MSC) 的介入直接關聯到學生的留存率 (Retention Rate)，特別是對於非傳統背景或基礎較弱的學生。

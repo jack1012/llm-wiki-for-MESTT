@@ -5,7 +5,7 @@ tags: [Research_Card, Theory, Anthropology, Transition]
 reference: "Clark & Lovric (2011)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2011-lovric-mcmaster-strategy]]
+Parent Source: [[summary-2011-外交部-英國大學生輟學比例高於世界其他先進國家]]
 
 ## Key Insight
 將大學數學轉銜視為一次 **Rite of Passage (成長儀式)**，有助於解釋學生為何會感到強烈的文化衝突。

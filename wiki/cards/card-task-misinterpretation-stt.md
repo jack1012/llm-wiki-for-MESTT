@@ -5,7 +5,7 @@ tags: [Research_Card, Hidden_Curriculum, Success_Factors, Pinto]
 reference: "Pinto (2023)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2023-pinto-tasks]]
+Parent Source: [[summary-2023-黃庭鍾 (Huang-以校務研究觀點探討技專院校學生休退學原因與輔導措施之精進發展策略]]
 
 ## Key Insight
 轉銜成功的關鍵能力之一是學生解碼「數學隱性課程」的能力，即理解那些未明載但卻至關重要的學術規範。

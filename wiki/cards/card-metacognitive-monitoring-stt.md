@@ -5,7 +5,7 @@ tags: [Research_Card, Metacognition, Problem_Solving, Haso]
 reference: "Haso (2020)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2020-haso-srl]]
+Parent Source: [[summary-2020-教育部統計處-大專校院學生休、退學概況及就學穩定情形]]
 
 ## Key Insight
 高效的解題者在求解過程中會維持一個實時的元認知監控環路（Monitoring Loop），以確保思維路徑不偏離邏輯軌道。

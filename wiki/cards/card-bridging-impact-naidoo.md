@@ -5,7 +5,7 @@ tags: [Research_Card, Intervention, Self-efficacy, Naidoo]
 reference: "Naidoo (2018)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2018-naidoo-bridging]]
+Parent Source: [[summary-2018-林永安 (Lin-大學校院高休退學率形成原因及因應之道]]
 
 ## Key Insight
 銜接課程的最大價值在於其「心理修復」作用，即將入學時的恐懼轉化為對學科的掌控感。

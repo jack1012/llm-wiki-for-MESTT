@@ -5,7 +5,7 @@ tags: [Research_Card, Resilience, Pedagogy, Creative_Learning, Muldowney]
 reference: "Muldowney (2021)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2021-muldowney-resilience]]
+Parent Source: [[summary-2021-黃靖雯-五專幼保科學生休退學原因分析與輔導策略之探究]]
 
 ## Key Insight
 透過將數學置於戲劇腳本或同儕教學錄影等「創意情境」中，可以降低學生的防禦性，從而系統性地發展 [[Mathematical Resilience in STT]]。

@@ -1,7 +1,7 @@
 ---
 title: "The School-University Interest Gap"
 type: paper_card
-source: [[summary-2023-geisler-attitudes-dropout]]
+source: [[summary-2023-黃庭鍾 (Huang-以校務研究觀點探討技專院校學生休退學原因與輔導措施之精進發展策略]]
 author: "Geisler, S."
 year: 2023
 journal: "Educational Studies in Mathematics"

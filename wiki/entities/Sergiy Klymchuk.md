@@ -1,22 +1,24 @@
 ---
 title: "Sergiy Klymchuk"
-type: researcher
-affiliation: [[Auckland University of Technology]]
-research_interests: [Mathematical Education, Counter-examples, Transition, Assessment Culture]
-tags: [Researcher, New_Zealand, Counter_Examples]
-last_updated: 2026-04-17
+aliases: [Klymchuk, S. Klymchuk]
+type: entity
+tags: [Researcher, STT, Counter-examples, Intuition, New_Zealand]
+last_updated: 2026-04-22
 ---
 
-## Biography
-Sergiy Klymchuk 是奧克蘭理工大學 (AUT) 的數學教育副教授。他以研究數學學習中的「反例」應用以及考試文化對學習策略的影響而聞名。
+# Sergiy Klymchuk
 
-## Key Contributions
-- **反例教學法**：研發教材引導學生透過尋找反例來深化對微積分概念的理解。
-- **考試文化研究**：透過跨國比較，分析不同國家的考試制度如何形塑學生的數學思維。
-- **程序共謀論**：探討中學教學如何為了考試分數而忽視了概念的嚴謹性。
+## 簡介
+**Sergiy Klymchuk** 教授任職於紐西蘭奧克蘭理工大學（Auckland University of Technology）。他是數學教育領域中關於「反例」（Counter-examples）教學與「高等數學轉銜」的權威學者。
 
-## 📝 相關著作與貢獻 (Works & Contributions in Wiki)
-- **[[wiki/sources/summary-2009-hong-perspectives]]**: 本篇作為紐西蘭當地的大型實證調查，Klymchuk 團隊指出了現行中學教師基於應試教育下的侷限，以及中學與大學間極度缺乏交流的窘境，倡議雙方必須進行深度溝通。
+## 研究重點
+1.  **反例的角色**：他強調在大學數學教學中使用反例來挑戰學生的「直覺錯誤」，並藉此提升其邏輯嚴謹性。
+2.  **轉銜與成熟度**：他與 Gruenwald 合作研究學生在轉銜過程中的行為，強調 **[[Mathematical Maturity]]** (數學成熟度) 是跨越中學與大學鴻溝的關鍵。
+3.  **講師觀點**：透過調查大學導師對新生的觀察，揭示了中學重視程序（Procedural）而忽視概念（Conceptual）的「程序性陰謀」。
+
+## 相關研究文獻
+- [[summary-2004-Gruenwald-Reducing-between-school]]
+- [[summary-2011-外交部-英國大學生輟學比例高於世界其他先進國家]]
 
 ---
-[[wiki/index|Back to Index]]
+[[wiki/index|回到索引]]

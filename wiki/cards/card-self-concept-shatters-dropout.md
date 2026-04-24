@@ -5,7 +5,7 @@ tags: [Research_Card, Self-concept, Dropout, Affective, Ferretti]
 reference: "Ferretti et al. (2024)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2024-ferretti-selfconcept]]
+Parent Source: [[summary-2024-監察院-教育部對大專學業退學生流向與制度公平性檢討調查報告]]
 
 ## Key Insight
 在轉銜過程中，學生對自身數學能力的「主觀認知變化」(Change in [[Mathematics self-concept]]) 比起單純的成績高低，更能預測其 [[University dropout]] 的意向。

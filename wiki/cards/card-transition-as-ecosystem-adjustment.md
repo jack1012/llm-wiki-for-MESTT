@@ -5,7 +5,7 @@ tags: [Research_Card, Intervention, Ecosystem, Gueudet]
 reference: "Gueudet (2023)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2023-gueudet-theoretical]]
+Parent Source: [[summary-2023-黃庭鍾 (Huang-以校務研究觀點探討技專院校學生休退學原因與輔導措施之精進發展策略]]
 
 ## Key Insight
 轉銜成功是整個 [[Holistic Transition Ecology]] 達成微調的結果；僅針對單一方面（如：只補習知識點）的干預通常無法對抗系統性的壓力。

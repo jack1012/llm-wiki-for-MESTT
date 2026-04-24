@@ -1,17 +1,20 @@
 ---
 title: "Rey Avila Mangarin"
 type: researcher
-affiliation: "RAMyeR Research Consultancy Services, Philippines"
-research_interests: [Mathematics Education, Learning Difficulties, Systematic Reviews]
-tags: [Researcher, Philippines]
-last_updated: 2026-04-17
+affiliation: [[University of the Immaculate Conception]]
+research_interests: [Mathematics Education, Systematic Review, Learning Difficulties]
+tags: [Researcher, Philippines, STT]
+last_updated: 2026-04-22
 ---
 
 ## Biography
-Rey Avila Mangarin 是來自菲律賓的數學教育研究者。他致力於整合全球關於數學教學效果的實證資料，特別關注發展中國家環境下，學生面臨的認知與環境障礙。
+Rey Avila Mangarin 是一位來自菲律賓的研究者，專注於數學學習障礙與教學法的系統性評估。他的工作旨在識別影響各級學生數學成就的認知與情緒因素。
 
-## 📝 相關著作與貢獻 (Works & Contributions in Wiki)
-- **[[wiki/sources/summary-2024-mangarin-difficulties-review]]**: 發表了一份 2024 年的數學學習困難系統綜述，強調了數學焦慮與社會文化因素對學習成效的負面影響。
+## 相關著作與貢獻
+- [[summary-2024-監察院-教育部對大專學業退學生流向與制度公平性檢討調查報告]] — 系統性回顧了數學學習的五大難點，包括認知障礙與數學焦慮。
 
 ---
 [[wiki/index|Back to Index]]
+
+## 創建與編修紀錄
+- **2026-04-22**: 初始建立 (V5_Atomic)

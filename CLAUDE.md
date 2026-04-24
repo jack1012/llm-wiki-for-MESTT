@@ -127,7 +127,17 @@
   - 對於 Entity (如 Researcher)：連結後方必須補充說明「該學者在這篇文章中提出了什麼核心洞見與貢獻」。
   - 當建立 Summary 文章時，**必須** 有專門區塊列出從本文提取的所有 Concepts 與 Entities，形成雙向錨定。
 - **關鍵字飽和度 (Keyword Density)**：在 Source Summary 與 Paper Cards 中，必須大量嵌入並鏈結學術變項與關鍵字。
-- **零遺漏同步 (Zero-gap Sync)**：檔案寫入與 Index 索引同步必須在同一次對話任務中完整執行。
+- **零遺漏同步 (Zero-gap Sync)**：檔案寫入、原子卡片生成、與 Index 索引同步必須在同一次對話任務中完整執行。
+- **全量歸檔義務 (Recursive Archive Duty)**：任何被處理完畢的原始檔案，不論原先位於 `raw/` 下的哪個子目錄，一律必須立即移動至 `raw/09-archive/`。`raw/` 應僅保留「待處理」內容。
+- **單一摘要義務 (Single Summary Duty)**：每一篇文獻在 `wiki/sources/` 中必須有且僅有一個摘要檔案。若發現重複，須立即整併。
+- **原子補完義務 (Atomic Completion Duty)**：嚴禁遺留「紅鏈」。如果摘要中提到了新的 Card 或 Concept，AI 必須在該對話輪次結束前建立這些檔案。
+- **精簡連結規則 (Simple Link Rule)**：內部連結僅使用 `[[Filename]]` 或 `[[Keyword]]`，**嚴禁** 包含 `wiki/concepts/` 等路徑前綴。
+- **命名規範 (Naming Convention)**：
+  - 英文文獻卡片：`card-YYYY-Author-ShortTitle.md`
+  - 中文文獻卡片：`card-YYYY-中文作者-中文標題.md` (例如：`card-2023-吳明錡-大一意義感真空.md`)
+- **證據導向增量合併 (Evidence-Based Merging)**：Card/Concept/Entity 必須根據文獻實體化。若卡片已存在，必須在原有內容後「增補」新證據，並論述與既有內容的關係（支持、修正或衝突）。
+- **利用 CLI 工具**：優先使用 `qmd` 或 `grep` 進行知識查重，以減少 Token 損耗並確保一致性。
+
 
 # 頁面 Frontmatter (YAML) 規範
 所有生成的 wiki 頁面必須包含以下 YAML 頭部：

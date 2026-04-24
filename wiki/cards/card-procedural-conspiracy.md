@@ -5,7 +5,7 @@ tags: [Research_Card, Assessment, Procedural_Knowledge, STT_Obstacle]
 reference: "Klymchuk (2014)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2014-klymchuk-exam-culture]]
+Parent Source: [[summary-2014-教育部統計處-近年各級學生輟學及休退學概況分析]]
 
 ## Key Insight
 中學考試常陷入一種「程序共謀」：透過標準化的題目與穩定的評分標準，換取表面的高及格率，卻犧牲了學生的概念嚴謹度。

@@ -5,7 +5,7 @@ tags: [Research_Card, PCK, Advanced_Mathematics, Xie]
 reference: "Xie & Geiger (2022)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2022-xie-discontinuity]]
+Parent Source: [[summary-2022-郭李宗文 (Kuo-Li-原住民大專學生休退學現況以大數據分析之必要性]]
 
 ## Key Insight
 修復 [[Second Discontinuity]] 的核心在於顯性化高等數學在初等數學中的「應用價值」與「上位邏輯」。

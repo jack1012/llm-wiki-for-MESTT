@@ -1,20 +1,20 @@
 ---
-title: "STT Research Development Timeline: Three Waves of Evolution"
-aliases: [STT研究發展時間軸：三波演化]
+title: "STT Research Development Timeline: Four Waves of Evolution"
+aliases: [STT研究發展時間軸：四波演化]
 type: synthesis
-tags: [STT, Research_History, Paradigm_Shift, Temporal_Analysis]
-sources: [summary-2021-dimartino-review, summary-2016-gueudet-survey]
-last_updated: 2026-04-17
+tags: [STT, Research_History, Paradigm_Shift, Temporal_Analysis, 186Papers, Career_Perspective]
+sources: [summary-2021-dimartino-review, summary-2016-gueudet-survey, 186-corpus-analysis]
+last_updated: 2026-04-24
 ---
 
-# STT 研究發展時間軸：三波演化
+# STT 研究發展時間軸：四波演化
 
 ## 核心議題
-STT（Secondary-to-Tertiary Transition）研究自 1980 年代至今，經歷了三個明確的演化波浪，每波都反映了學界對轉銜現象認識的深化與視角的轉變。
+STT（Secondary-to-Tertiary Transition）研究自 1980 年代至今，經歷了四個明確的演化波浪，每波都反映了學界對轉銜現象認識的深化與視角的轉變（基於 186 篇全庫文獻分析）。
 
 ---
 
-## 🌊 三波研究浪潮
+## 🌊 四波研究浪潮
 
 ### 第一波：認知視角（Cognitive Wave, 1980s-1990s）
 
@@ -59,11 +59,11 @@ STT（Secondary-to-Tertiary Transition）研究自 1980 年代至今，經歷了
 
 ---
 
-### 第三波：社會文化與情意視角（Sociocultural & Affective Wave, 2010s-Present）
+### 第三波：社會文化與情意視角（Sociocultural & Affective Wave, 2010s-2019）
 
 **研究焦點**：身分認同、情感變化、整全的支持生態系統  
 **代表人物**：[[Pietro Di Martino]], [[Ghislaine Gueudet]], [[Sebastian Geisler]], [[Katrin Rolka]]  
-**核心問題**：*學生是誰？他如何在轉銜過程中與數學文化互動？我們如何建構一個整全的轉銜生態系統？*
+**核心問題**：*學生是誰？他如何在轉銜過程中與數學文化互動？*
 
 **主要貢獻**：
 - [[Holistic Approach to Transition]]：視學生為整全的人，而非單純的認知載體
@@ -86,7 +86,28 @@ STT（Secondary-to-Tertiary Transition）研究自 1980 年代至今，經歷了
 
 ---
 
-## ⚡ 三波之間的衝突與對話
+### 第四波：生態系、生涯與精準預警視角（Ecosystem, Career & Predictive Wave, 2020s-Present）
+
+**研究焦點**：生涯發展的工具價值、AI 與大數據存活分析、全球南方與本土軌跡  
+**代表人物**：[[Tsai]], [[Kelava]], [[Tao]], [[Shiao]], [[Xie]], [[Biehler]]  
+**核心問題**：*學生為何而學？我們如何透過預警系統與全人介入，接住不同文化脈絡下的學生？退學究竟是失敗還是主動的生涯修正？*
+
+**主要貢獻**：
+- [[Career Development Perspective]]：確立「生涯工具性價值」為STT的第六維度與核心過濾器
+- [[Survival Analysis in STT]]：引入存活分析與 AI 高頻情緒追蹤，打破傳統期末 GPA 預測迷思
+- [[Strategic Avoidance]]：揭示東亞高壓環境下的「制度性規避」行為（如技術性休學），推翻西方純粹的缺陷模型
+- [[Holistic Intervention]]：反思單點先修班造成的「馬太效應」，強調全人介入系統的建立
+
+**新發現**：
+1. **成績與留存雙軌分離**：高GPA不代表會留下，興趣不合（生涯價值衝突）才是退學主因。
+2. **東亞家庭引力 (Family Gravity)**：家庭期待與社會壓力重塑了學生的退學決策機制。
+3. **輟學作為生涯修正 (Dropout as Path Correction)**：退學不再只被視為教育失敗，而是學生在工具價值崩潰後的主動止損策略。
+
+**研究方法**：大數據分析、存活分析、機器學習情緒預警、跨文化混合設計
+
+---
+
+## ⚡ 四波之間的衝突與對話
 
 ### 第一波 vs 第二波：「怪學生」vs「怪制度」
 
@@ -146,6 +167,18 @@ STT（Secondary-to-Tertiary Transition）研究自 1980 年代至今，經歷了
 
 ---
 
+### 第三波 vs 第四波：「安撫情緒」vs「賦予意義與預警」
+
+**衝突點**：
+- 第三波試圖在教室內安撫學生的焦慮並重建身分。
+- 第四波指出：如果學生根本**「不知道為何而學」**（生涯目標空虛），純粹的情感安撫是無效的；且等到發現危機時往往已來不及。
+
+**第四波的解決方向**：[[Predictive Holistic System]]
+- **超前部署**：利用 UCAN 測驗與 AI 動態情緒軌跡，在學生崩潰前（如大一期中）發出預警。
+- **重建工具價值**：透過課程設計重新建立數學與學生未來職涯（如工程、經管）的實質連結，從根本上解決動機低下的問題。
+
+---
+
 ### 時間視角的演變
 
 | 波次 | 時間維度 | 假設 | 問題 |
@@ -153,6 +186,7 @@ STT（Secondary-to-Tertiary Transition）研究自 1980 年代至今，經歷了
 | 第一波 | 靜態（入學時測量） | 認知能力固定 | 無法預測誰會中途放棄 |
 | 第二波 | 線性（學期進度） | 理性學習過程 | 無法解釋理性上能成功卻放棄的學生 |
 | 第三波 | 動態縱貫（整個大一） | 身分與情感動態發展 | [[Affective Trajectory]] 斜率成為最佳預測指標 |
+| 第四波 | **全人生涯與高頻追蹤** | 退學是動態的存活路徑與生涯選擇 | 如何結合 AI 預警與全人介入系統？ |
 
 ---
 
@@ -214,10 +248,12 @@ STT（Secondary-to-Tertiary Transition）研究自 1980 年代至今，經歷了
 
 ---
 
-## 📝 創建與編修紀錄
+## 🛠️ 編修紀錄 (Edit Log)
 
-- **2026-04-17 19:45**: 根據 /query 要求，建立 STT 研究發展時間軸，綜合三波研究浪潮與其之間的衝突對話
-- **源自**：[[Evolution of STT Research]], [[card-stt-research-trends-post-2008]], [[card-from-cognitive-to-holistic]], [[card-icme13-transition-map]], [[definition-of-stt]]
+| 日期 | 動作 | 說明 |
+| :--- | :--- | :--- |
+| 2026-04-24 | 連結維護 | 為文中提到的缺失概念與卡片建立 Seed 頁面，消除紅字連結。 |
+| 2026-04-24 | 擴展四波演化 | 基於 186 篇全庫分析，新增「第四波：生態系、生涯與精準預警視角」，納入 AI 存活分析、台灣本土規避軌跡與生涯價值衝突。 |
 
 ---
 

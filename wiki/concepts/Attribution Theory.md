@@ -1,6 +1,6 @@
 ---
 title: "Attribution Theory"
-aliases: [歸因理論]
+aliases: [歸因理論, Weiner's Attribution Theory]
 type: concept
 category: Theory
 tags: [Bernard_Weiner, Motivation, Success_and_Failure]

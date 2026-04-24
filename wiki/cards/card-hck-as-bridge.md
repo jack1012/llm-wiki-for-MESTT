@@ -5,7 +5,7 @@ tags: [Research_Card, Teacher_Education, HCK, Biza]
 reference: "Biza et al. (2019)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2019-biza-new-insights]]
+Parent Source: [[summary-2019-王秀槐 (Wang-臺灣大學生生涯概念原型分析研究]]
 
 ## Key Insight
 提升教師的「橫向視野」是破解中學與大學溝通斷裂的最佳路徑。

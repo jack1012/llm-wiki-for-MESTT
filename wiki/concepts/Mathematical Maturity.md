@@ -13,7 +13,8 @@ last_updated: 2026-04-17
 - 對於符號化語言（[[Procept]]）的熟練運用。
 
 ## Role in STT
-Lovric (2011) 指出，大學數學要求學生具備較高的數學成熟度。許多轉銜失敗並非因為學生不知道公式，而是其成熟度不足以支撐大學要求的抽象思考（[[Advanced Mathematical Thinking]]）。
+- **Lovric (2011)** 指出，大學數學要求學生具備較高的數學成熟度。許多轉銜失敗並非因為學生不知道公式，而是其成熟度不足以支撐大學要求的抽象思考（[[Advanced Mathematical Thinking]]）。
+- **Gruenwald et al. (2004)** 將其描述為對抽象對象的「感覺」與處理能力，強調這是跨越「程序性陷阱」的關鍵。
 
 ---
 [[wiki/index|Back to Index]]

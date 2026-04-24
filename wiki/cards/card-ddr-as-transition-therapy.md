@@ -5,7 +5,7 @@ tags: [Research_Card, DDR, Intervention, Design, Suryadi]
 reference: "Suryadi et al. (2021)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2021-suryadi-review]]
+Parent Source: [[summary-2021-黃靖雯-五專幼保科學生休退學原因分析與輔導策略之探究]]
 
 ## Key Insight
 教學設計研究 (DDR) 不僅是研究工具，更是改進大一數學干預成效的「工程化療法」，它要求對學生的學習障礙點進行精確路徑建模。

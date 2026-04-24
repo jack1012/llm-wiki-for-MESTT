@@ -19,12 +19,12 @@ last_updated: 2026-04-18
 
 | 論文 | 年份 | 核心認知貢獻 |
 |------|------|------------|
-| [[summary-1994-crawford-conceptions]] | 1994 | 首次用 [[Phenomenography]] 區分學生對數學的 **表面觀**（[[Surface Approach to Learning]]）與 **深層觀**（[[Deep Approach to Learning]]），發現表面觀的學生在大學數學中全面失利 |
+| [[summary-1994-Crawford-Conceptions-Mathematics-Learned]] | 1994 | 首次用 [[Phenomenography]] 區分學生對數學的 **表面觀**（[[Surface Approach to Learning]]）與 **深層觀**（[[Deep Approach to Learning]]），發現表面觀的學生在大學數學中全面失利 |
 | [[summary-1998-tall-difficulties]] | 1998 | 提出 [[Operable Definitions]] 概念——學生可以背誦定義，但無法「操作」定義來做證明。揭示了 [[Concept Image vs Concept Definition]] 的核心落差 |
-| [[summary-1998-tall-patterns]] | 1998 | 系統分類中學→大學的認知誤解模式（misconception patterns），建立 [[Cognitive Discontinuity]] 的理論基礎 |
+| [[summary-1998-Tall-Patterns-change-transition]] | 1998 | 系統分類中學→大學的認知誤解模式（misconception patterns），建立 [[Cognitive Discontinuity]] 的理論基礎 |
 | [[summary-2013-tall-thinking]] | 2013 | 提出 [[Three Worlds of Mathematics]]（直覺具象→符號過程→形式公理）與 [[Met-befores in STT]]，完成認知發展框架的集大成之作 |
-| [[summary-2011-duah-objects]] | 2011 | 探討 [[Mathematical Objects]] 在轉銜中的角色——學生必須從「做運算」轉向「談論數學對象」（[[Objectification]]） |
-| [[summary-2014-zakaria-hierarchical]] | 2014 | 揭示數學的 [[Hierarchical Nature of Mathematics|階層性本質]]——低層概念（如分數運算）的缺口會導致高層概念（如微積分）的「認知崩塌」 |
+| [[summary-2011-外交部-英國大學生輟學比例高於世界其他先進國家]] | 2011 | 探討 [[Mathematical Objects]] 在轉銜中的角色——學生必須從「做運算」轉向「談論數學對象」（[[Objectification]]） |
+| [[summary-2014-教育部統計處-近年各級學生輟學及休退學概況分析]] | 2014 | 揭示數學的 [[Hierarchical Nature of Mathematics|階層性本質]]——低層概念（如分數運算）的缺口會導致高層概念（如微積分）的「認知崩塌」 |
 
 ### 子群 A 的內在邏輯
 
@@ -57,7 +57,7 @@ Tall (2013): 完整框架——從三個世界到 Met-befores
 | [[summary-2008-gruenwald-reducing-gap]] | 2003 | 63 位跨國大學講師的調查。核心發現：學生缺乏的是 [[Mathematical Maturity]]——不是知識量，而是使用形式語言與做證明的能力態度 |
 | [[summary-2013-winslow-structuralist]] | 2013 | 用 [[Anthropological Theory of the Didactic (ATD)]] 分析認知斷裂。核心洞見：中學 [[Praxeology]] 停留在 Task+Technique，大學要求 Technology+Theory——這不是學生的認知缺陷，而是**兩套知識組織方式的碰撞** |
 | [[summary-2013-gueudet-ems-newsletter]] | 2013 | 為 EMS 撰寫的「確切發現」綜述。確認認知困難來自三個層面：(1) 更高的抽象層次，(2) 隱性的 [[Sociomathematical Norms]] 轉變，(3) 中學與大學之間的深層文化差異 |
-| [[summary-2021-job-relating]] | 2021 | 用 [[Praxeology]] 框架分析「如何將中學數學連結到大學數學」。揭示連結不是「教更難的內容」，而是讓學生看見**同一概念在兩套體制中的不同組織方式** |
+| [[summary-2021-黃靖雯-五專幼保科學生休退學原因分析與輔導策略之探究]] | 2021 | 用 [[Praxeology]] 框架分析「如何將中學數學連結到大學數學」。揭示連結不是「教更難的內容」，而是讓學生看見**同一概念在兩套體制中的不同組織方式** |
 
 ### 子群 B 的關鍵轉向
 
@@ -73,11 +73,11 @@ Tall (2013): 完整框架——從三個世界到 Met-befores
 
 | 論文 | 年份 | 核心認知貢獻 |
 |------|------|------------|
-| [[summary-2021-breen-tasks]] | 2021 | 學生從「找答案」（procedural）轉向「理解原理」（relational）。[[Non-routine Tasks]] 是觸發此轉變的關鍵。源自愛爾蘭 [[Project Maths]] 改革的實證 |
-| [[summary-2023-pinto-tasks]] | 2023 | 探討「什麼使一個數學任務成為好的轉銜任務？」——需要同時觸及認知挑戰與認識論反思 |
-| [[summary-2023-geisler-tasks]] | 2023 | 揭示 [[Professional Tasks in Mathematics|專業任務]]（如工程應用）能激發情境興趣，彌補純形式化教學導致的動機流失 |
-| [[summary-2022-pinto-activity]] | 2022 | 探討「定義活動」（defining activity）作為一種教學工具——讓學生親自經歷從直觀到形式化的建構過程 |
-| [[summary-2019-schueler-meyer-interest]] | 2019 | 研究學生如何透過模算術（modular arithmetic）[[Revisiting School Mathematics|重訪中學數學]]，在新脈絡中重新理解舊知識 |
+| [[summary-2021-黃靖雯-五專幼保科學生休退學原因分析與輔導策略之探究]] | 2021 | 學生從「找答案」（procedural）轉向「理解原理」（relational）。[[Non-routine Tasks]] 是觸發此轉變的關鍵。源自愛爾蘭 [[Project Maths]] 改革的實證 |
+| [[summary-2023-黃庭鍾 (Huang-以校務研究觀點探討技專院校學生休退學原因與輔導措施之精進發展策略]] | 2023 | 探討「什麼使一個數學任務成為好的轉銜任務？」——需要同時觸及認知挑戰與認識論反思 |
+| [[summary-2023-黃庭鍾 (Huang-以校務研究觀點探討技專院校學生休退學原因與輔導措施之精進發展策略]] | 2023 | 揭示 [[Professional Tasks in Mathematics|專業任務]]（如工程應用）能激發情境興趣，彌補純形式化教學導致的動機流失 |
+| [[summary-2022-郭李宗文 (Kuo-Li-原住民大專學生休退學現況以大數據分析之必要性]] | 2022 | 探討「定義活動」（defining activity）作為一種教學工具——讓學生親自經歷從直觀到形式化的建構過程 |
+| [[summary-2019-王秀槐 (Wang-臺灣大學生生涯概念原型分析研究]] | 2019 | 研究學生如何透過模算術（modular arithmetic）[[Revisiting School Mathematics|重訪中學數學]]，在新脈絡中重新理解舊知識 |
 
 ### 子群 C 的核心設計原則
 
@@ -97,9 +97,9 @@ Tall (2013): 完整框架——從三個世界到 Met-befores
 
 | 論文 | 年份 | 核心認知貢獻 |
 |------|------|------------|
-| [[summary-2023-rach-prerequisites]] | 2023 | 標題即核心論點：**"More than school grades"**。[[Conceptual vs Procedural Prior Knowledge|概念性知識]]比程序性知識更能預測大學成功，但中學成績主要反映後者 |
-| [[summary-2023-liebendoerfer-knowledge]] | 2023 | 區分先備知識的多個面向（factual, conceptual, procedural），發現概念性先備知識對大一成績的預測力遠超程序性知識 |
-| [[summary-2020-haso-srl]] | 2020 | 探討 [[Self-Regulated Learning in Mathematics|自我調節學習]]（SRL）與數學成就的關係。[[Metacognitive Strategies in STT|後設認知策略]]（如自我監控、計畫調整）是認知成功的「操作系統」 |
+| [[summary-2023-黃庭鍾 (Huang-以校務研究觀點探討技專院校學生休退學原因與輔導措施之精進發展策略]] | 2023 | 標題即核心論點：**"More than school grades"**。[[Conceptual vs Procedural Prior Knowledge|概念性知識]]比程序性知識更能預測大學成功，但中學成績主要反映後者 |
+| [[summary-2023-黃庭鍾 (Huang-以校務研究觀點探討技專院校學生休退學原因與輔導措施之精進發展策略]] | 2023 | 區分先備知識的多個面向（factual, conceptual, procedural），發現概念性先備知識對大一成績的預測力遠超程序性知識 |
+| [[summary-2020-教育部統計處-大專校院學生休、退學概況及就學穩定情形]] | 2020 | 探討 [[Self-Regulated Learning in Mathematics|自我調節學習]]（SRL）與數學成就的關係。[[Metacognitive Strategies in STT|後設認知策略]]（如自我監控、計畫調整）是認知成功的「操作系統」 |
 
 ### 子群 D 的核心發現
 
@@ -116,8 +116,8 @@ Tall (2013): 完整框架——從三個世界到 Met-befores
 
 | 論文 | 年份 | 核心認知貢獻 |
 |------|------|------------|
-| [[summary-2009-artigue-bosch-networking]] | 2009 | 比較 [[Theory of Didactical Situations (TDS)|TDS]] 與 [[Anthropological Theory of the Didactic (ATD)|ATD]] 兩個理論框架對認知的不同處理方式。TDS 擅長微觀的「情境互動」分析；ATD 擅長宏觀的「制度約制」分析。認知研究需要兩者[[Networking of Theories|聯網]] |
-| [[summary-2024-mangarin-difficulties-review]] | 2024 | 系統性回顧學習困難研究，識別四大困難叢集，其中「概念/認知障礙」（shallow grasp）是最核心的一叢，但與情意障礙（[[Math Anxiety]]）深度糾纏 |
+| [[summary-2009-王玉珍 (Wang-大一生回顧升學生涯抉擇與生涯適應之脈絡相互影響模式探究]] | 2009 | 比較 [[Theory of Didactical Situations (TDS)|TDS]] 與 [[Anthropological Theory of the Didactic (ATD)|ATD]] 兩個理論框架對認知的不同處理方式。TDS 擅長微觀的「情境互動」分析；ATD 擅長宏觀的「制度約制」分析。認知研究需要兩者[[Networking of Theories|聯網]] |
+| [[summary-2024-監察院-教育部對大專學業退學生流向與制度公平性檢討調查報告]] | 2024 | 系統性回顧學習困難研究，識別四大困難叢集，其中「概念/認知障礙」（shallow grasp）是最核心的一叢，但與情意障礙（[[Math Anxiety]]）深度糾纏 |
 
 ---
 
@@ -157,26 +157,26 @@ Schüler-Meyer               Haso, Mangarin
 
 | # | 論文 | 年份 | 子群 | 認知焦點 |
 |---|------|------|------|---------|
-| 1 | [[summary-1994-crawford-conceptions]] | 1994 | A | 數學觀（表面 vs 深層） |
+| 1 | [[summary-1994-Crawford-Conceptions-Mathematics-Learned]] | 1994 | A | 數學觀（表面 vs 深層） |
 | 2 | [[summary-1998-tall-difficulties]] | 1998 | A | 可操作定義、概念意象 vs 概念定義 |
-| 3 | [[summary-1998-tall-patterns]] | 1998 | A | 認知誤解模式、認知不連續性 |
+| 3 | [[summary-1998-Tall-Patterns-change-transition]] | 1998 | A | 認知誤解模式、認知不連續性 |
 | 4 | [[summary-2008-gruenwald-reducing-gap]] | 2003 | B | 數學成熟度、講師視角 |
-| 5 | [[summary-2011-duah-objects]] | 2011 | A | 數學對象、物件化 |
+| 5 | [[summary-2011-外交部-英國大學生輟學比例高於世界其他先進國家]] | 2011 | A | 數學對象、物件化 |
 | 6 | [[summary-2013-tall-thinking]] | 2013 | A | 三個世界、事前經驗、形式思維 |
 | 7 | [[summary-2013-winslow-structuralist]] | 2013 | B | ATD、Praxeology 轉變 |
 | 8 | [[summary-2013-gueudet-ems-newsletter]] | 2013 | B | 抽象化、社會數學規範、EMS 綜述 |
-| 9 | [[summary-2014-zakaria-hierarchical]] | 2014 | A | 階層性知識、概念理解 |
-| 10 | [[summary-2009-artigue-bosch-networking]] | 2009 | E | TDS vs ATD、理論聯網 |
-| 11 | [[summary-2019-schueler-meyer-interest]] | 2019 | C | 重訪中學數學、模算術 |
-| 12 | [[summary-2020-haso-srl]] | 2020 | D | SRL、後設認知策略 |
-| 13 | [[summary-2021-breen-tasks]] | 2021 | C | 非常規任務、程序→關係理解 |
-| 14 | [[summary-2021-job-relating]] | 2021 | B | Praxeology 連結、中學-大學數學 |
-| 15 | [[summary-2022-pinto-activity]] | 2022 | C | 定義活動、建構式教學 |
-| 16 | [[summary-2023-geisler-tasks]] | 2023 | C | 專業任務、情境興趣 |
-| 17 | [[summary-2023-liebendoerfer-knowledge]] | 2023 | D | 先備知識面向、概念 vs 程序 |
-| 18 | [[summary-2023-pinto-tasks]] | 2023 | C | 轉銜任務設計原則 |
-| 19 | [[summary-2023-rach-prerequisites]] | 2023 | D | 先備條件 ≠ 中學成績 |
-| 20 | [[summary-2024-mangarin-difficulties-review]] | 2024 | E | 四大困難叢集、認知-情意糾纏 |
+| 9 | [[summary-2014-教育部統計處-近年各級學生輟學及休退學概況分析]] | 2014 | A | 階層性知識、概念理解 |
+| 10 | [[summary-2009-王玉珍 (Wang-大一生回顧升學生涯抉擇與生涯適應之脈絡相互影響模式探究]] | 2009 | E | TDS vs ATD、理論聯網 |
+| 11 | [[summary-2019-王秀槐 (Wang-臺灣大學生生涯概念原型分析研究]] | 2019 | C | 重訪中學數學、模算術 |
+| 12 | [[summary-2020-教育部統計處-大專校院學生休、退學概況及就學穩定情形]] | 2020 | D | SRL、後設認知策略 |
+| 13 | [[summary-2021-黃靖雯-五專幼保科學生休退學原因分析與輔導策略之探究]] | 2021 | C | 非常規任務、程序→關係理解 |
+| 14 | [[summary-2021-黃靖雯-五專幼保科學生休退學原因分析與輔導策略之探究]] | 2021 | B | Praxeology 連結、中學-大學數學 |
+| 15 | [[summary-2022-郭李宗文 (Kuo-Li-原住民大專學生休退學現況以大數據分析之必要性]] | 2022 | C | 定義活動、建構式教學 |
+| 16 | [[summary-2023-黃庭鍾 (Huang-以校務研究觀點探討技專院校學生休退學原因與輔導措施之精進發展策略]] | 2023 | C | 專業任務、情境興趣 |
+| 17 | [[summary-2023-黃庭鍾 (Huang-以校務研究觀點探討技專院校學生休退學原因與輔導措施之精進發展策略]] | 2023 | D | 先備知識面向、概念 vs 程序 |
+| 18 | [[summary-2023-黃庭鍾 (Huang-以校務研究觀點探討技專院校學生休退學原因與輔導措施之精進發展策略]] | 2023 | C | 轉銜任務設計原則 |
+| 19 | [[summary-2023-黃庭鍾 (Huang-以校務研究觀點探討技專院校學生休退學原因與輔導措施之精進發展策略]] | 2023 | D | 先備條件 ≠ 中學成績 |
+| 20 | [[summary-2024-監察院-教育部對大專學業退學生流向與制度公平性檢討調查報告]] | 2024 | E | 四大困難叢集、認知-情意糾纏 |
 
 ---
 

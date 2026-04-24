@@ -5,7 +5,7 @@ tags: [Research_Card, Achievement, SRL, Haso]
 reference: "Haso (2020)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2020-haso-srl]]
+Parent Source: [[summary-2020-教育部統計處-大專校院學生休、退學概況及就學穩定情形]]
 
 ## Key Insight
 在大學數學轉銜中，學生的自我調節能力 (SRL) 與其終端學業表現呈現強正相關：學會管理學習等於學會了數學。

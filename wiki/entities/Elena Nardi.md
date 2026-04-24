@@ -1,17 +1,19 @@
 ---
 title: "Elena Nardi"
-type: researcher
-affiliation: [[University of East Anglia]]
-research_interests: [Tertiary Mathematics Education, Teacher Beliefs, Undergraduate Mathematics]
-tags: [Researcher, UK, STT_Expert]
-last_updated: 2026-04-17
+type: entity
+tags: [Researcher, Commognition, UME]
+last_updated: 2026-04-23
 ---
 
-## Biography
-Elena Nardi 是英國東英吉利亞大學教授，是全球高等數學教育研究的先驅。
+# Elena Nardi
 
-## 📝 相關著作與貢獻 (Works & Contributions in Wiki)
-- **[[wiki/sources/summary-2021-icme14-tsg2-tertiary]]**: 於大會上分享 Commognitive 理論在挪威與巴西的實踐，指出透過介入手段如何有效改變生物系學生與在職教師對數學學習的既定敘事。
+## 角色與貢獻
+Elena Nardi 是大學數學教育 (UME) 領域的著名學者，特別是以其在學生身分建構、話語轉換以及通識數學教育方面的研究而聞名。
+
+## 相關著作與貢獻
+- [[summary-2021-Participants-Mathematics-education-tertiary]]: 透過 [[Commognition]] 視角分析學生從非正式塗鴉到制度化劇本的話語轉換。
+- [[summary-2016-Biza-secondarytertiary-transition-mathematics]]: 與 Biza 合作研究 STT 過程中的複雜性。
 
 ---
-[[wiki/index|Back to Index]]
+## 📝 創建與編修紀錄
+- 2026-04-23: 由 AI 建立。

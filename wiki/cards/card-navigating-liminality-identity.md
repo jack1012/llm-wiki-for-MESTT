@@ -5,7 +5,7 @@ tags: [Research_Card, Identity, Liminality, Transition_Phases, Ferretti]
 reference: "Ferretti et al. (2024)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2024-ferretti-selfconcept]]
+Parent Source: [[summary-2024-監察院-教育部對大專學業退學生流向與制度公平性檢討調查報告]]
 
 ## Key Insight
 數學轉銜的本質是一場從「高中專家」退格為「大學新手」的 [[Logic of Liminality]] 挑戰。

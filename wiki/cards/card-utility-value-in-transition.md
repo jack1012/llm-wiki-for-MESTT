@@ -5,7 +5,7 @@ tags: [Research_Card, Rigor, Utility_Value, Geisler]
 reference: "Geisler & Rolka (2023)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2023-geisler-tasks]]
+Parent Source: [[summary-2023-黃庭鍾 (Huang-以校務研究觀點探討技專院校學生休退學原因與輔導措施之精進發展策略]]
 
 ## Key Insight
 大學數學教育面臨一項平衡挑戰：如何在維持 [[Proof-oriented Norms]] 的嚴謹性時，不喪失數學的 [[Utility Value of Mathematics]]。

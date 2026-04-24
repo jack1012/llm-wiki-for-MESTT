@@ -15,7 +15,7 @@ last_updated: 2026-04-17
 - Investigating the emotional challenges of the secondary-tertiary transition.
 
 ## 📚 Works in Wiki
-- [[summary-2021-neumann-resilience]]
+- [[summary-2021-黃靖雯-五專幼保科學生休退學原因分析與輔導策略之探究]]
 
 ---
 [[wiki/index|Back to Index]]

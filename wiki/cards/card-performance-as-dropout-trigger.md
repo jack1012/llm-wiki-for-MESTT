@@ -5,7 +5,7 @@ tags: [Research_Card, Performance, Dropout, Heublein]
 reference: "Heublein (2017)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2017-heublein-dropout]]
+Parent Source: [[summary-2017-王瓊珠 (Wang-學習障礙大學生學校生活適應研究]]
 
 ## Key Insight
 在大一早期（前兩個學期），績效要求（Performance Requirements）是誘發退學的最強直接催化劑，但在其背後往往隱藏著深刻的認知轉移失敗。

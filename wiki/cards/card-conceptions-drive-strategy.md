@@ -5,7 +5,7 @@ tags: [Research_Card, Epistemology, Learning_Strategy, Crawford1994]
 reference: "Crawford et al. (1994)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-1994-crawford-conceptions]]
+Parent Source: [[summary-1994-Crawford-Conceptions-Mathematics-Learned]]
 
 ## Key Insight
 學生的「數學觀念（Conceptions）」是其學習行為的決策根源：觀念不變，策略難改。

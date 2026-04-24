@@ -1,98 +1,62 @@
-# Ingest Process Tracker (Standardized)
+# Ingest Process Tracker (Standardized V5)
 
-此文件追蹤 LLM Wiki 的文獻攝取狀態。現在執行 **原子化攝取流程**（包含 5-Pass 分析與強制歸檔）。
+此文件追蹤 LLM Wiki 的文獻攝取狀態。前 34 案號為已完成 V5_Atomic 精修之核心文獻（6 篇 Tier 1 + 28 篇 Tier 2）。
 
 | ID | 文獻標稱 (Year Author Title) | 處理狀態 | 歸檔路徑 | 備註 |
 | :--- | :--- | :---: | :--- | :--- |
-| **01** | 2008 Reducing Gap | ✅ DONE | `raw/09-archive/` | |
-| **02** | 2008 Attitudes & Dropout | ✅ DONE | `raw/09-archive/` | |
-| **03** | 2016 Math Crisis | ✅ DONE | `raw/09-archive/` | |
-| **04** | 2017 Students Beliefs | ✅ DONE | `raw/09-archive/` | |
-| **05** | 2024 Affective Variables | ✅ DONE | `raw/09-archive/` | |
-| **06** | 2024 That Wasn't Math | ✅ DONE | `raw/09-archive/` | |
-| **07** | 2024 Students Resilience | ✅ DONE | `raw/09-archive/` | |
-| **08** | 2024 Affect Development | ✅ DONE | `raw/09-archive/` | |
-| **09** | 2019 DiMartino Crisis | ✅ DONE | `raw/09-archive/` | |
-| **10** | 2016 Gueudet Trends | ✅ DONE | `raw/09-archive/` | |
-| **11** | 2008 Gueudet Investigative | ✅ DONE | `raw/09-archive/` | |
-| **12** | 2008 Hernandez Discourses | ✅ DONE | `raw/09-archive/` | |
-| **13** | 2013 Winslow Theory | ✅ DONE | `raw/09-archive/` | |
-| **14** | 2015 Symonds Support | ✅ DONE | `raw/09-archive/` | |
-| **15** | 1998 Tall Patterns | ✅ DONE | `raw/09-archive/` | |
-| **16** | 2016 DiMartino Issues | ✅ DONE | `raw/09-archive/` | |
-| **17** | 2014 Klymchuk Culture | ✅ DONE | `raw/09-archive/` | |
-| **18** | 2011 Lovric McMaster | ✅ DONE | `raw/09-archive/` | |
-| **19** | 2016 Biza Understanding CN | ✅ DONE | `raw/09-archive/` | |
-| **20** | 2016 Biza Understanding | ✅ DONE | `raw/09-archive/` | |
-| **21** | 2011 Duah Key Concepts | ✅ DONE | `raw/09-archive/` | |
-| **22** | 2014 Duah Battle Disabled | ✅ DONE | `raw/09-archive/` | |
-| **23** | 2014 Zakaria Hierarchical | ✅ DONE | `raw/09-archive/` | |
-| **24** | 1994 Crawford Conceptions | ✅ DONE | `raw/09-archive/` | |
-| **25** | 2021 Didi Review | ✅ DONE | `raw/09-archive/` | |
-| **26** | 2017 Tariq Success Factors | ✅ DONE | `raw/09-archive/` | |
-| **27** | 2016 Mazana Attitude | ✅ DONE | `raw/09-archive/` | |
-| **28** | 2019 Ali Challenges | ✅ DONE | `raw/09-archive/` | |
-| **29** | 2011 Hourigan Difficulties | ✅ DONE | `raw/09-archive/` | |
-| **30** | 2020 Haso SelfRegulated | ✅ DONE | `raw/09-archive/` | |
-| **31** | 2019 Biza New Insights | ✅ DONE | `raw/09-archive/` | |
-| **32** | 2018 Naidoo Bridging Impact | ✅ DONE | `raw/09-archive/` | |
-| **33** | 2021 Geisler Intensive Dropout | ✅ DONE | `raw/09-archive/` | |
-| **34** | 2021 Kouvela Experiences | ✅ DONE | `raw/09-archive/` | |
-| **35** | 2021 Xie Sociomathematical | ✅ DONE | `raw/09-archive/` | |
-| **36** | 2023 Geisler Profession Tasks | ✅ DONE | `raw/09-archive/` | |
-| **37** | 2019 Schueler Math Cool | ✅ DONE | `raw/09-archive/` | |
-| **38** | 2023 Xie Qualitative Affect | ✅ DONE | `raw/09-archive/` | |
-| **39** | 2021 Goizueta Math Matter | ✅ DONE | `raw/09-archive/` | |
-| **40** | 2021 Job Relating School Uni | ✅ DONE | `raw/09-archive/` | |
-| **41** | 2023 Pinto Tutor Narratives | ✅ DONE | `raw/09-archive/` | |
-| **42** | 2022 Xie Double Discontinuity | ✅ DONE | `raw/09-archive/` | |
-| **43** | 2022 Rach Improving Beliefs | ✅ DONE | `raw/09-archive/` | |
-| **44** | 2023 Geisler Motivational States | ✅ DONE | `raw/09-archive/` | |
-| **45** | 2023 Bosch Diverse Perspectives | ✅ DONE | `raw/09-archive/` | |
-| **46** | 2021 Geisler Forecasting Affect | ✅ DONE | `raw/09-archive/` | |
-| **47** | 2023 Pinto Math Tasks View | ✅ DONE | `raw/09-archive/` | |
-| **48** | 2024 Xenofontos Teacher Resources | ✅ DONE | `raw/09-archive/` | |
-| **49** | 2023 Liebendoerfer Prior Knowledge | ✅ DONE | `raw/09-archive/` | |
-| **50** | 2023 Rach Math Prerequisites | ✅ DONE | `raw/09-archive/` | |
-| **51** | 2023 Geisler Which Interest | ✅ DONE | `raw/09-archive/` | |
-| **52** | 2022 Rach School Variables | ✅ DONE | `raw/09-archive/` | |
-| **53** | 2023 Liebendoerfer Interest Changes | ✅ DONE | `raw/09-archive/` | |
-| **54** | 2023 Geisler Interest Beliefs | ✅ DONE | `raw/09-archive/` | |
-| **55** | 2023 Mesa Transformation Framework | ✅ DONE | `raw/09-archive/` | |
-| **56** | 2022 Pinto Advanced Activity | ✅ DONE | `raw/09-archive/` | |
-| **57** | 2017 Heublein German Dropout | ✅ DONE | `raw/09-archive/` | |
-| **58** | 2023 Gueudet Theoretical Model | ✅ DONE | `raw/09-archive/` | |
-| **59** | 2013 Tall Transition Formal | ✅ DONE | `raw/09-archive/` | |
-| **60** | 1998 Tall Difficulties STT | ✅ DONE | `raw/09-archive/` | |
-| **61** | 2011 Hernandez Identity STT | ✅ DONE | `raw/09-archive/` | |
-| **62** | 2023 Pinto Perceptions | ✅ DONE | `raw/09-archive/` | |
-| **63** | 2022 Rach Success Factors | ✅ DONE | `raw/09-archive/` | |
-| **64** | 2023 Bosch Trends Innovations | ✅ DONE | `raw/09-archive/` | |
-| **65** | 2016 Gueudet ICME13 Survey | ✅ DONE | `raw/09-archive/` | |
-| **66** | 2021 Didi Systematic Review | ✅ DONE | `raw/09-archive/` | |
-| **67** | 2016 Xenofontos Resilience | ✅ DONE | `raw/09-archive/` | |
-| **68** | 2021 Ferretti MAVI30 Transition | ✅ DONE | `raw/09-archive/` | |
-| **69** | 2021 Muldowney Developing Resilience | ✅ DONE | `raw/09-archive/` | |
-| **70** | 2021 Breen Transition CJMSTE | ✅ DONE | `raw/09-archive/` | |
-| **71** | 2009 Artigue Comparing Frameworks | ✅ DONE | `raw/09-archive/` | 實際內容為 Artigue, Bosch, Gascon (2009) |
-| **72** | 2009 Hong Transition Research | ✅ DONE | `raw/09-archive/` | |
-| **73** | 2021 ICME14 Transition Survey | ✅ DONE | `raw/09-archive/` | |
-| **74** | 2020 Bosch Encyclopedia STT | ✅ DONE | `raw/09-archive/` | |
-| **75** | 2021 Clark Transition Insights | ✅ DONE | `raw/09-archive/` | 實際為 2024 Bernardi 等人之 STT 日誌研究 |
-| **76** | 2021 DiMartino Why Math Is Difficult | ✅ DONE | `raw/09-archive/` | 實際為 2013 Gueudet 之 EMS 倡議文 |
-| **77** | 2013 Chen STEM Attrition | ✅ DONE | `raw/09-archive/` | 原檔位於 inbox 中 |
-| **81** | 2019 Bergsten Theory Contribution | ✅ DONE | `raw/09-archive/` | 已更名並物理歸檔 |
-| **83** | 1998 Guzman ICM98 Difficulties | ✅ DONE | `raw/09-archive/` | 已更名並物理歸檔 |
-| **85** | 2022 Hall Students Perceptions | ✅ DONE | `raw/09-archive/` | 已更名並物理歸檔 |
-| **86** | 2017 Bengmark Success Factors | ✅ DONE | `raw/09-archive/` | 已更名並物理歸檔 |
-| **87** | 2024 Biehler Trends Innovations | ✅ DONE | `raw/09-archive/` | 已更名並物理歸檔 |
-| **88** | 2016 Gueudet ICME13 Survey | ✅ DONE | `raw/09-archive/` | 已更名並物理歸檔 (原案號疑慮已解) |
-| **89** | 2024 Mangarin Difficulties Review | ✅ DONE | `raw/09-archive/` | 已更名並物理歸檔 |
-| **90** | 2013 Hernandez Against Odds | ✅ DONE | `raw/09-archive/` | 已更名並物理歸檔 |
-
+| **01** | 2024 Rach Affecting Task Values | ✅ DONE | `raw/09-archive/` | Tier 1 精修 |
+| **02** | 2024 Saha Factors Success | ✅ DONE | `raw/09-archive/` | Tier 1 精修 |
+| **03** | 2024 Skrbinjek Dropout Review | ✅ DONE | `raw/09-archive/` | Tier 1 精修 |
+| **04** | 2024 Mathematics Education Research | ✅ DONE | `raw/09-archive/` | Tier 1 精修 (台灣案例) |
+| **05** | 2024 Education Survey Report | ✅ DONE | `raw/09-archive/` | Tier 1 精修 (台灣案例) |
+| **06** | 2024 Student Flow Analysis | ✅ DONE | `raw/09-archive/` | Tier 1 精修 (台灣案例) |
+| **07** | 2008 Gueudet Investigative | ✅ DONE | `raw/09-archive/` | Tier 2 - 多維度框架 |
+| **08** | 2008 Hernandez Discourses | ✅ DONE | `raw/09-archive/` | Tier 2 - 認同與話語 |
+| **09** | 2013 Winslow Theory | ✅ DONE | `raw/09-archive/` | Tier 2 - 制度理論 |
+| **10** | 2015 Symonds Support | ✅ DONE | `raw/09-archive/` | Tier 2 - 支援中心效應 |
+| **11** | 1998 Tall Patterns | ✅ DONE | `raw/09-archive/` | Tier 2 - 認知的變遷 |
+| **12** | 2016 DiMartino Issues | ✅ DONE | `raw/09-archive/` | Tier 2 - 情感危機觸發 |
+| **13** | 2014 Klymchuk Culture | ✅ DONE | `raw/09-archive/` | Tier 2 - 文化落差 |
+| **14** | 2011 Lovric McMaster | ✅ DONE | `raw/09-archive/` | Tier 2 - 成年禮模型 |
+| **15** | 2016 Biza Understanding | ✅ DONE | `raw/09-archive/` | Tier 2 - 講師教學導向 |
+| **16** | 2015 Geisler Predictors | ✅ DONE | `raw/09-archive/` | Tier 2 - 成功預測因子 |
+| **17** | 2011 Gruenwald Gap | ✅ DONE | `raw/09-archive/` | Tier 2 - 建模轉譯障礙 |
+| **18** | 2021 Geisler Affective | ✅ DONE | `raw/09-archive/` | Tier 2 - 興趣與留存 |
+| **19** | 2016 Gueudet Survey | ✅ DONE | `raw/09-archive/` | Tier 2 - 全球綜述 ICME13 |
+| **20** | 2012 Artigue Challenges | ✅ DONE | `raw/09-archive/` | Tier 2 - 制度性裂離 |
+| **21** | 2014 Clark Bridging | ✅ DONE | `raw/09-archive/` | Tier 2 - 溝通斷裂與仲介 |
+| **22** | 1998 Guzman Difficulties | ✅ DONE | `raw/09-archive/` | Tier 2 - 三重困難分類 |
+| **23** | 2007 Liston Perspectives | ✅ DONE | `raw/09-archive/` | Tier 2 - 數學脆弱性 |
+| **24** | 1994 Crawford Conceptions | ✅ DONE | `raw/09-archive/` | Tier 2 - 學生觀點分類 |
+| **25** | 2023 Geisler Mid-term Gold Standard | ✅ DONE | `raw/09-archive/` | Tier 2 - 期中預測權重 |
+| **26** | 2023 Geisler Development Affect | ✅ DONE | `raw/09-archive/` | Tier 2 - 情感軌跡研究 |
+| **27** | 2019 DiMartino Math Crisis | ✅ DONE | `raw/09-archive/` | Tier 2 - 敘事研究法 |
+| **28** | 2018 DiMartino Mathematical Crisis | ✅ DONE | `raw/09-archive/` | Tier 2 - 情感認同危機 |
+| **29** | 2011 Duah Key Concepts | ✅ DONE | `raw/09-archive/` | Tier 2 - 銜接課程設計 |
+| **30** | 2014 Zakaria Hierarchical | ✅ DONE | `raw/09-archive/` | Tier 2 - 階層式思維模型 |
+| **31** | 2021 Didi Systematic Review | ✅ DONE | `raw/09-archive/` | Tier 2 - 系統性回顧 |
+| **32** | 2017 Tariq Success Factors | ✅ DONE | `raw/09-archive/` | Tier 2 - 成功因子回歸 |
+| **33** | 2016 Mazana Attitude | ✅ DONE | `raw/09-archive/` | Tier 2 - 態度與表現關係 |
+| **34** | 2020 Haso SelfRegulated | ✅ DONE | `raw/09-archive/` | Tier 2 - 自我調節學習 |
+| **--** | -------------------------- | -------- | ----------------- | ---------------- |
+| **35** | 2023 Bosch Diverse Perspectives | 🔘 PENDING | `raw/09-archive/` | |
+| **36** | 2021 Geisler Forecasting Affect | 🔘 PENDING | `raw/09-archive/` | |
+| **37** | 1975 Tinto Dropout Theory | ✅ DONE | `raw/09-archive/` | 基礎社會學理論 |
+| **38** | 2023 Martino Editorial | ✅ DONE | `raw/09-archive/` | Tier 3 精修啟動 |
+| **39** | 2024 Saha Success Factors | ✅ DONE | `raw/09-archive/` | Tier 3 精修啟動 |
+| **40** | 2024 Skrbinjek Dropout Review | ✅ DONE | `raw/09-archive/` | Tier 3 精修啟動 |
+| **41** | 2023 Mayerhofer Bridging | ✅ DONE | `raw/09-archive/` | Batch 2 精修完成 |
+| **42** | 2024 Bernardi Journals | ✅ DONE | `raw/09-archive/` | Batch 2 精修完成 |
+| **43** | 2024 Biehler Trends | ✅ DONE | `raw/09-archive/` | Batch 2 精修完成 |
+| **44** | 2024 Ciccanti Self-Concept | ✅ DONE | `raw/09-archive/` | Batch 2 精修完成 |
+| **45** | 2024 Mangarin Review | ✅ DONE | `raw/09-archive/` | Batch 2 精修完成 |
+| **46** | 2024 Montecino Discourse | ✅ DONE | `raw/09-archive/` | Batch 2 精修完成 |
+| **...** | 其他 100+ 篇 Tier 3 文獻 | 🏗️ IN PROGRESS | `wiki/sources/` | 正在進行紅字清理與精修 |
 
 ---
 **圖例說明**：
-- ✅ DONE：已完成 5-Pass 分析、實體化並物理歸檔
-- 🏗️ IN PROGRESS：正在分析或重命名
-- 🔘 PENDING：已分配案號，尚未啟動 Ingest
+- ✅ DONE：已完成 V5_Atomic 分析、實體化並物理歸檔 (1-34 為 Tier 1/2)。
+- 🏗️ IN PROGRESS：正在分析或重命名。
+- 🔘 PENDING：已分配案號，尚未啟動精修流程。
+
+[[wiki/index|Global Index]] | [[wiki/log|Update Log]]

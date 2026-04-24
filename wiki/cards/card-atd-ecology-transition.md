@@ -5,7 +5,7 @@ tags: [Research_Card, ATD, Ecology, Bosch]
 reference: "Bosch (2023)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2023-bosch-atd]]
+Parent Source: [[summary-2023-黃庭鍾 (Huang-以校務研究觀點探討技專院校學生休退學原因與輔導措施之精進發展策略]]
 
 ## Key Insight
 數學知識在大學環境中的「存活」取決於一個複雜的生態系統，而體制約制往往是導致某些有效教學法（如 SRP）無法落地的主要原因。

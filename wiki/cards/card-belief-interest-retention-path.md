@@ -5,7 +5,7 @@ tags: [Research_Card, Affective_Path, Retention, Geisler]
 reference: "Geisler (2023)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2023-geisler-beliefs-path]]
+Parent Source: [[summary-2023-黃庭鍾 (Huang-以校務研究觀點探討技專院校學生休退學原因與輔導措施之精進發展策略]]
 
 ## Key Insight
 數學轉銜失敗並非隨機發生，而是一個由底層信念驅動的連鎖反應。

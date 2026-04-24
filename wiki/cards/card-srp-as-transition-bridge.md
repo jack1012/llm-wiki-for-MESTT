@@ -5,7 +5,7 @@ tags: [Research_Card, SRP, ATD, Inquiry, Bosch]
 reference: "Bosch et al. (2023)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2023-bosch-trends]]
+Parent Source: [[summary-2023-黃庭鍾 (Huang-以校務研究觀點探討技專院校學生休退學原因與輔導措施之精進發展策略]]
 
 ## Key Insight
 [[Study and Research Paths (SRP)]] 透過提供任務設計的新範式，有效地將學生在中學形成的碎片化知識與大學的高階證明工具進行了有機連結。

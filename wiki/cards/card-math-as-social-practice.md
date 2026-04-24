@@ -5,7 +5,7 @@ tags: [Research_Card, Sociology, Practice, Goizueta]
 reference: "Goizueta (2021)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2021-goizueta-matter]]
+Parent Source: [[summary-2021-黃靖雯-五專幼保科學生休退學原因分析與輔導策略之探究]]
 
 ## Key Insight
 轉銜的本質不是知識的累積，而是從一種社會實踐（中學學習）切換到另一種截然不同的社會實踐（大學學術研究）。

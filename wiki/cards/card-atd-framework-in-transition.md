@@ -5,7 +5,7 @@ tags: [Research_Card, Theory, ATD, Job]
 reference: "Job & Schneider (2021)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2021-job-relating]]
+Parent Source: [[summary-2021-黃靖雯-五專幼保科學生休退學原因分析與輔導策略之探究]]
 
 ## Key Insight
 ATD 為轉銜研究提供了一個強大的外在視角，將個人障礙重新定義為「跨體制制度」的實踐衝突。

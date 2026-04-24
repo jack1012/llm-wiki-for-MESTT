@@ -5,7 +5,7 @@ tags: [Research_Card, Interest, Metanarrative, Schueler-Meyer]
 reference: "Schüler-Meyer (2019)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2019-schueler-meyer-interest]]
+Parent Source: [[summary-2019-王秀槐 (Wang-臺灣大學生生涯概念原型分析研究]]
 
 ## Key Insight
 學生對數學本質的內在敘法（元敘事）決定了他們對大學學業挫折的解讀方式，進而影響興趣的存續。

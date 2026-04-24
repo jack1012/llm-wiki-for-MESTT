@@ -5,7 +5,7 @@ tags: [Research_Card, Self-Advocacy, Transition, Identity]
 reference: "Duah (2014)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2014-duah-disability]]
+Parent Source: [[summary-2014-教育部統計處-近年各級學生輟學及休退學概況分析]]
 
 ## Key Insight
 對於有特殊需求的學生，[[Self-Advocacy]] 是其順利完成 [[Rite of Passage Model]] 中「融入階段」的門票。

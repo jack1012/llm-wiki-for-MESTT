@@ -1,19 +1,29 @@
 ---
 title: "Miroslav Lovric"
-type: researcher
-affiliation: [[McMaster University]]
-research_interests: [Secondary-Tertiary Transition, Mathematical Maturity, Calculus Education]
-tags: [Researcher, Canada, STT_Strategy]
-last_updated: 2026-04-17
+aliases: [Lovric, M. Lovric]
+type: entity
+tags: [Researcher, Canada_Research, McMaster, Calculus_Redesign, STT]
+last_updated: 2026-04-22
 ---
 
-## Biography
-Miroslav Lovric 是加拿大麥克馬斯特大學 (McMaster University) 的數學教授。他是轉銜研究領域的重要貢獻者，特別是在開發緩解中學與大學落差的實務策略方面。
+# Miroslav Lovric
 
-## Key Contributions
-- **McMaster 轉銜策略**：設計了包含診斷測驗、複習手冊與課程改革的綜合方案。
-- **轉銜模型**：與 Megan Clark 提出將轉銜視為「成長儀式」的理論框架。
-- **數學成熟度研究**：探討學生如何從機械式運算轉向更深層的數學理解。
+## 簡介
+**Miroslav Lovric** 教授任職於加拿大麥馬斯特大學（McMaster University）數學與統計系。他是國際知名的數學教育學者，特別是在大一數學轉銜介入以及微積分課程改革（Calculus Redesign）方面擁有卓越貢獻。
+
+## 研究重點
+1.  **轉銜作為成年禮**：與 Megan Clark 合作，提出將數學轉銜視為人類學意義上的「成年禮」（Rite of Passage），強調過程中的主體轉變與「閾限狀態」（Liminality）。
+2.  **微積分課程改革**：在 McMaster 大學推動系統性的課程改造，強調深度理解、邏輯嚴謹性以及如何幫助學生緩衝剛進入大學時的「文化衝擊」。
+3.  **數學背景調查與介入**：開發診斷性工具與預備手冊（Mathematics Review Manual），用以在開學前識別並協助「低自我效能」的學生。
+
+## 核心理論架構
+- **[[Rite of Passage (STT)]]**
+- **[[Culture Shock (Mathematical)]]**
+- **[[Calculus Redesign]]**
+
+## 相關研究文獻
+- [[summary-2011-外交部-英國大學生輟學比例高於世界其他先進國家]]
+- [[summary-2009-王玉珍 (Wang-大一生回顧升學生涯抉擇與生涯適應之脈絡相互影響模式探究]] (引用其研究成果)
 
 ---
-[[wiki/index|Back to Index]]
+[[wiki/index|回到索引]]

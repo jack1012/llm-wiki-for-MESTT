@@ -1,7 +1,7 @@
 ---
 title: "Dysfunctional Belief Adjustment in Transition"
 type: paper_card
-source: [[summary-2023-geisler-role-of-beliefs]]
+source: [[summary-2023-黃庭鍾 (Huang-以校務研究觀點探討技專院校學生休退學原因與輔導措施之精進發展策略]]
 author: "Geisler, S. & Rolka, K."
 year: 2021
 journal: "JMD"

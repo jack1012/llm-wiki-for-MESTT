@@ -5,7 +5,7 @@ tags: [Research_Card, Predictors, Effect_Dilution, Rach]
 reference: "Rach & Ufer (2022)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2022-rach-school]]
+Parent Source: [[summary-2022-郭李宗文 (Kuo-Li-原住民大專學生休退學現況以大數據分析之必要性]]
 
 ## Key Insight
 中學積累的「學術資產」在大一遇到的[[Cognitive Discontinuity]] 面前具有顯著的時效性；進入課程中段後，解釋力的稀釋效應極為明顯。

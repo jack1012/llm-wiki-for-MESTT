@@ -5,7 +5,7 @@ tags: [Research_Card, Affective, China, Xie]
 reference: "Xie & Geiger (2023)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2023-xie-affect]]
+Parent Source: [[summary-2023-黃庭鍾 (Huang-以校務研究觀點探討技專院校學生休退學原因與輔導措施之精進發展策略]]
 
 ## Key Insight
 中國新生的數學情意並非靜態的信念，而是一條受「高壓環境」與「學科轉型」交織影響的動態軌跡。

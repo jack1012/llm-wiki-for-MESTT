@@ -5,7 +5,7 @@ tags: [Research_Card, Cognitive_Psychology, Learning_Barrier, Zakaria]
 reference: "Zakaria (2014)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2014-zakaria-hierarchical]]
+Parent Source: [[summary-2014-教育部統計處-近年各級學生輟學及休退學概況分析]]
 
 ## Key Insight
 轉銜失敗往往源自於 [[Hierarchical Nature of Mathematics]] 中低層穩定性的缺失，導致學生在處理高層概念時發生「認知崩塌」。

@@ -5,7 +5,7 @@ tags: [Research_Card, UMT, Ideology, Pinto]
 reference: "Pinto & Koichu (2023)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2023-pinto-taxonomy]]
+Parent Source: [[summary-2023-黃庭鍾 (Huang-以校務研究觀點探討技專院校學生休退學原因與輔導措施之精進發展策略]]
 
 ## Key Insight
 大學教師對轉銜問題的看法深受其專業身份與教育背景的影響，這決定了他們在課堂上採取何種干預策略。

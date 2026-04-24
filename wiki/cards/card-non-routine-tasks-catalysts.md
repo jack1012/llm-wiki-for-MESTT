@@ -5,7 +5,7 @@ tags: [Research_Card, Task_Design, Cognitive_Conflict, Pedagogy, Breen]
 reference: "Breen & O'Shea (2021)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2021-breen-tasks]]
+Parent Source: [[summary-2021-黃靖雯-五專幼保科學生休退學原因分析與輔導策略之探究]]
 
 ## Key Insight
 大學數學教育應使用 [[Non-routine Tasks]]（非例行性任務）作為破除高中遺留的 [[Imitative Reasoning]] 的核心工具。

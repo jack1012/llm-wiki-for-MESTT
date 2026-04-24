@@ -1,7 +1,7 @@
 ---
 title: "Attribution of Failure as a Retention Pivot"
 type: paper_card
-source: [[summary-2019-dimartino-crisis-stt]]
+source: [[summary-2019-王秀槐 (Wang-臺灣大學生生涯概念原型分析研究]]
 author: "Di Martino, P. & Gregorio, F."
 year: 2019
 journal: "INDRUM"

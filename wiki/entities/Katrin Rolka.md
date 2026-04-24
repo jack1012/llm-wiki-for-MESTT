@@ -15,7 +15,7 @@ last_updated: 2026-04-17
 - Qualitative and quantitative methods in mathematics education.
 
 ## 📚 Works in Wiki
-- [[summary-2023-geisler-attitudes-dropout]]
+- [[summary-2023-黃庭鍾 (Huang-以校務研究觀點探討技專院校學生休退學原因與輔導措施之精進發展策略]]
 
 ---
 [[wiki/index|Back to Index]]

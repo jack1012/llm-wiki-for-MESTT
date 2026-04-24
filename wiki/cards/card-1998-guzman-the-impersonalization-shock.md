@@ -1,0 +1,20 @@
+---
+title: "card 1998 guzman the impersonalization shock"
+type: card
+status: seed
+last_updated: 2026-04-23
+---
+
+# card 1998 guzman the impersonalization shock
+
+> [!NOTE]
+> 此頁面由系統自動生成，為來自文獻分析的原子知識點或核心概念。尚待進一步擴充與合成。
+
+## 核心定義 (Core Definition)
+- 
+
+## 關聯文獻 (Related Sources)
+- [[summary-1998-Miguel de Guzm-n-Difficulties in the passage from seconda]]
+
+## 生涯發展觀點 (Career Perspective)
+- 

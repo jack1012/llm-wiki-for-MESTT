@@ -5,7 +5,7 @@ tags: [Research_Card, Monitoring, Affective, Geisler]
 reference: "Geisler & Rolka (2021)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2021-geisler-forecasting]]
+Parent Source: [[summary-2021-黃靖雯-五專幼保科學生休退學原因分析與輔導策略之探究]]
 
 ## Key Insight
 在轉銜第一學期的前六週進行情意監測，能幫助體制在大規模退學發生前識別出高風險學生。

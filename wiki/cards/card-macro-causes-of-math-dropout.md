@@ -5,7 +5,7 @@ tags: [Research_Card, Dropout, Statistics, Heublein]
 reference: "Heublein (2017)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2017-heublein-dropout]]
+Parent Source: [[summary-2017-王瓊珠 (Wang-學習障礙大學生學校生活適應研究]]
 
 ## Key Insight
 數學專業極高的退學率並非隨機現象，而是由「課程難度」與「動機錯位」交織構成的結構性危機。

@@ -5,7 +5,7 @@ tags: [Research_Card, Epistemology, Identity, Relational_Understanding, Breen]
 reference: "Breen & O'Shea (2021)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2021-breen-tasks]]
+Parent Source: [[summary-2021-黃靖雯-五專幼保科學生休退學原因分析與輔導策略之探究]]
 
 ## Key Insight
 中學到大學的轉銜本質上是從「執行程序以獲得答案」到「探索結構以建立理解」的認識論變遷。

@@ -5,7 +5,7 @@ tags: [Research_Card, Resources, Agency, DAD, Xenofontos]
 reference: "Xenofontos (2024)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2024-xenofontos-resources]]
+Parent Source: [[summary-2024-監察院-教育部對大專學業退學生流向與制度公平性檢討調查報告]]
 
 ## Key Insight
 優質的課程資源（[[Curricular Resources for Transition]]）不僅是教學工具，更是提升教師主體性（Agency）的助推器。

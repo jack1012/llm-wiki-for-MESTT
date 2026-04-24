@@ -5,7 +5,7 @@ tags: [Research_Card, Methodology, Diagnosis, Pedagogy]
 reference: "Zakaria (2014)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2014-zakaria-hierarchical]]
+Parent Source: [[summary-2014-教育部統計處-近年各級學生輟學及休退學概況分析]]
 
 ## Key Insight
 教師不應只看分數，而應利用階層地圖（Hierarchical Maps）來診斷學生在數學階層中的具體「斷點」。

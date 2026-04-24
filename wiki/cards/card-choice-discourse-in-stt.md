@@ -5,7 +5,7 @@ tags: [Research_Card, Empowerment, Discourse, Hernandez-Martinez]
 reference: "Hernandez-Martinez et al. (2011)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2011-hernandez-identity]]
+Parent Source: [[summary-2011-外交部-英國大學生輟學比例高於世界其他先進國家]]
 
 ## Key Insight
 學生如何描述其轉銜經歷（選擇的話語 vs. 被動話語）直接決定了其應對學術壓力的心理韌性。

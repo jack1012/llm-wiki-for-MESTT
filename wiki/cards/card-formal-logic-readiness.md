@@ -5,7 +5,7 @@ tags: [Research_Card, Satisfaction, Achievement, Rach]
 reference: "Rach & Heinze (2023)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2023-rach-prerequisites]]
+Parent Source: [[summary-2023-黃庭鍾 (Huang-以校務研究觀點探討技專院校學生休退學原因與輔導措施之精進發展策略]]
 
 ## Key Insight
 轉銜成功應被視為「學術成就」與「心理滿意度」的雙重指標；兩者往往由截然不同的先修因素驅動。

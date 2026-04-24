@@ -5,7 +5,7 @@ tags: [Research_Card, Decision_Making, Orientation, Xenofontos]
 reference: "Xenofontos (2024)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2024-xenofontos-resources]]
+Parent Source: [[summary-2024-監察院-教育部對大專學業退學生流向與制度公平性檢討調查報告]]
 
 ## Key Insight
 大學教師對轉銜挑戰的應對（決策），與其內在的專業導向（Orientations）高度相關；導向是決定「資源是否被轉化為支持力」的篩選器。

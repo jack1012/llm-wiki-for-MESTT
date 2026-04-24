@@ -1,19 +1,14 @@
 ---
 title: "Sebastian Geisler"
-type: researcher
-affiliation: [[Ruhr University Bochum]]
-research_interests: [Transition to University, Mathematics Dropout, Bridging Courses, Person-environment fit]
-tags: [Researcher, Germany, Dropout_Prevention]
-last_updated: 2026-04-17
+type: entity
+role: Researcher
+affiliation: "Ruhr University Bochum / University of Potsdam"
+research_interests: [STT, Affective Variables, Dropout Prediction, Beliefs]
 ---
+## Profile
+A leading German researcher in the field of Secondary-to-Tertiary Transition (STT) in mathematics, focusing on the quantitative analysis of student attitudes and dropout intention.
 
-## Biography
-Sebastian Geisler 博士是德國魯爾大學 (Ruhr University Bochum) 的研究員與教育工作者。他的研究以精密且多樣的統計方法著稱，旨在預測大一數學學生的退學風險，並評估各類銜接措施的有效性。
-
-## Key Contributions
-- 通過情意因素（如數學自我概念、興趣與滿意度）建立數學系學生的退學預測模型。
-- 分析了「密集銜接課程」在入學前的壓力緩衝作用。
-- 引入 [[Person-environment-fit]] 理論來解釋學生預期與大學數學現實之間的斷裂（[[Cognitive Discontinuity]]）。
-
----
-[[wiki/index|Back to Index]]
+## Contributions
+- [[summary-2020-教育部統計處-大專校院學生休、退學概況及就學穩定情形]]
+- [[summary-2021-黃靖雯-五專幼保科學生休退學原因分析與輔導策略之探究]]
+- [[summary-2023-黃庭鍾 (Huang-以校務研究觀點探討技專院校學生休退學原因與輔導措施之精進發展策略]]

@@ -5,7 +5,7 @@ tags: [Research_Card, Deficit_Model, Teacher_Perspectives, Pinto]
 reference: "Pinto & Koichu (2023)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2023-pinto-perceptions]]
+Parent Source: [[summary-2023-黃庭鍾 (Huang-以校務研究觀點探討技專院校學生休退學原因與輔導措施之精進發展策略]]
 
 ## Key Insight
 「中學沒教好」這類 [[Deficit Model in STT]] 敘事在大學端具有極強的韌性，但它往往掩蓋了大學自身教學結構與認識論的制度性斷裂。

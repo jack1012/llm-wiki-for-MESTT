@@ -1,22 +1,18 @@
 ---
 title: "Stefanie Rach"
-type: entity
-role: Researcher
-affiliation: "Otto-von-Guericke-University Magdeburg"
-research_interests: [Mathematical Learning, Affective Variables, Transition to University]
-tags: [Researcher, Math_Education, Germany]
-last_updated: 2026-04-17
+type: researcher
+affiliation: [[Magdeburg University]]
+research_interests: [Mathematics Education, Affective Factors, STT, Self-Regulated Learning]
+tags: [Researcher, Germany, Affect, STT]
+last_updated: 2026-04-22
 ---
 
-# Researcher: {{title}}
+## Biography
+Stefanie Rach 是馬德堡大學 (Magdeburg University) 的教授。她的研究深入探討數學學習中的情感維度，特別是動機狀態、任務價值以及轉銜過程中的自我調節學習。
 
-## 🔬 Research Focus
-- Long-term research on the development of mathematical interest and self-concept during the study-entrance phase.
-- Leading figures in identifying predictors of successful transition in German mathematics programs.
-
-## 📚 Works in Wiki
-- [[summary-2023-geisler-attitudes-dropout]]
-- [[summary-2023-geisler-affect-development]]
+## 相關著作與貢獻
+- [[summary-2023-黃庭鍾 (Huang-以校務研究觀點探討技專院校學生休退學原因與輔導措施之精進發展策略]] — 研究大學數學課程中的動機狀態波動。
+- [[summary-2024-監察院-教育部對大專學業退學生流向與制度公平性檢討調查報告]] — 探討職業相關任務 (PRTs) 對動機的影響。
 
 ---
 [[wiki/index|Back to Index]]

@@ -5,7 +5,7 @@ tags: [Research_Card, Practice, Cycle, Pinto]
 reference: "Pinto (2022)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2022-pinto-activity]]
+Parent Source: [[summary-2022-郭李宗文 (Kuo-Li-原住民大專學生休退學現況以大數據分析之必要性]]
 
 ## Key Insight
 轉銜成功不僅是理解數學知識，更是學會以「定義-猜想-證明」(D-C-P) 的循環模式參與數學實踐。

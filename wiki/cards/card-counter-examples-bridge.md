@@ -5,7 +5,7 @@ tags: [Research_Card, Pedagogy, Calculus, Concept_Development]
 reference: "Klymchuk (2014)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2014-klymchuk-exam-culture]]
+Parent Source: [[summary-2014-教育部統計處-近年各級學生輟學及休退學概況分析]]
 
 ## Key Insight
 在轉銜期引入 [[Counter-examples in Calculus]] 能強迫學生從「我可以怎麼算」轉向「為什麼這成立」，從而橋接中學與大學的思維鴻溝。

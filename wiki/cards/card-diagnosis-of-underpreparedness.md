@@ -5,7 +5,7 @@ tags: [Research_Card, Diagnostic_Testing, Underpreparedness, Hourigan]
 reference: "Hourigan & O'Donoghue (2011)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2011-hourigan-problems]]
+Parent Source: [[summary-2011-外交部-英國大學生輟學比例高於世界其他先進國家]]
 
 ## Key Insight
 大學必須透過診斷性測試（Diagnostic Testing）來識別被隱藏在合格成績下的「數學問題」。

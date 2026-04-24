@@ -1,7 +1,7 @@
 ---
 title: "Mini-Tests as Real-Time Performance Predictors"
 type: paper_card
-source: [[summary-2018-geisler-affective-variables]]
+source: [[summary-2018-林永安 (Lin-大學校院高休退學率形成原因及因應之道]]
 author: "Geisler, S., Rach, S., & Rolka, K."
 year: 2018
 journal: "ESM"

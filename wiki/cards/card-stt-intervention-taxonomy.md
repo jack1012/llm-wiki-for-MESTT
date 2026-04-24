@@ -5,7 +5,7 @@ tags: [Research_Card, Taxonomy, Intervention, Pinto]
 reference: "Pinto & Koichu (2023)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2023-pinto-taxonomy]]
+Parent Source: [[summary-2023-黃庭鍾 (Huang-以校務研究觀點探討技專院校學生休退學原因與輔導措施之精進發展策略]]
 
 ## Key Insight
 改善轉銜的努力並非零散的實踐，而是可以分為「躍進、涵化、多樣性、跨社群」四種具有理論一致性的干預導向。

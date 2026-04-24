@@ -5,7 +5,7 @@ tags: [Research_Card, Commognition, Discourse, Schueler-Meyer]
 reference: "Schüler-Meyer (2019)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2019-schueler-meyer-interest]]
+Parent Source: [[summary-2019-王秀槐 (Wang-臺灣大學生生涯概念原型分析研究]]
 
 ## Key Insight
 學生在大學數學中並非直接「拋棄」中學話語，而是讓兩者平行並存，並利用中學話語作為進入大學理論的非正規腳手架。

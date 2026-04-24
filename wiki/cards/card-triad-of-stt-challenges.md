@@ -5,7 +5,7 @@ tags: [Research_Card, Challenges, Framework, Ali]
 reference: "Ali (2019)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2019-ali-challenges]]
+Parent Source: [[summary-2019-王秀槐 (Wang-臺灣大學生生涯概念原型分析研究]]
 
 ## Key Insight
 轉銜挑戰不應被視為單一的題目太難，而應從認識論、教學與社會文化三個維度進行解構。

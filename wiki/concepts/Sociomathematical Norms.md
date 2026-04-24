@@ -1,6 +1,6 @@
 ---
 title: "Sociomathematical Norms"
-aliases: [社會數學規範]
+aliases: [社會數學規範, Yackel-Cobb Sociomathematical Norms]
 type: concept
 tags: [Theory, Classroom_Discourse, Cobb, Yackel]
 last_updated: 2026-04-17

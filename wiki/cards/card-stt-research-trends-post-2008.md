@@ -5,7 +5,7 @@ tags: [Research_Card, State_of_the_art, Systematic_Review, Trends]
 reference: "Di Martino et al. (2021)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2021-dimartino-review]]
+Parent Source: [[summary-2021-黃靖雯-五專幼保科學生休退學原因分析與輔導策略之探究]]
 
 ## Key Insight
 2008 年至 2021 年的研究顯示出對「轉銜情境」與「學生多樣性」的深度關注。

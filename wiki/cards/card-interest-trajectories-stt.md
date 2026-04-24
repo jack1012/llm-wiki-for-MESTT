@@ -5,7 +5,7 @@ tags: [Research_Card, Interest_Profiles, Longitudinal, Liebendoerfer]
 reference: "Liebendörfer et al. (2023)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2023-liebendoerfer-interest]]
+Parent Source: [[summary-2023-黃庭鍾 (Huang-以校務研究觀點探討技專院校學生休退學原因與輔導措施之精進發展策略]]
 
 ## Key Insight
 學生在進入大學後，其興趣的發展呈現出顯質的「群體分化」，這決定了其最終是否能留存在數學科學領域。

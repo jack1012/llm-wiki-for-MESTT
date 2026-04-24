@@ -5,7 +5,7 @@ tags: [Research_Card, State_of_the_art, Biza2016, Future_Directions]
 reference: "Biza et al. (2016)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2016-biza-tertiary-survey]]
+Parent Source: [[summary-2016-Biza-secondarytertiary-transition-mathematics]]
 
 ## Key Insight
 2016 年的全球綜述標誌著研究視角的重大轉向：從純粹的「學生認知缺陷」視角轉向了多維度的「體制與社會文化」視角。

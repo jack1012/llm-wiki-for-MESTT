@@ -5,7 +5,7 @@ tags: [Research_Card, Didactical_Contract, Underpreparedness, Hourigan]
 reference: "Hourigan & O'Donoghue (2011)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2011-hourigan-problems]]
+Parent Source: [[summary-2011-外交部-英國大學生輟學比例高於世界其他先進國家]]
 
 ## Key Insight
 轉銜危機的深層結構是中學時期建立的「教學契約」在大學環境下的徹底崩塌。

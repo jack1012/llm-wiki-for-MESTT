@@ -1,18 +1,24 @@
 ---
 title: "Loughborough University"
-type: institution
-location: United Kingdom
-associated_researchers: [[Carol Robinson]], [[Ria Symonds]], [[Tony Croft]]
-tags: [Institution, Mathematics_Education, Math_Support_Hub]
-last_updated: 2026-04-17
+aliases: [拉夫堡大學]
+type: entity
+tags: [Organization, University, UK, sigma, Mathematics_Support]
+last_updated: 2026-04-22
 ---
 
-## Overview
-拉夫堡大學 (Loughborough University) 是全球數學教育研究的卓越中心之一，設有專門的數學教育中心 (Mathematics Education Centre, MEC)，在大學數學支援領域居於領先地位。
+# Loughborough University (拉夫堡大學)
 
-## Relevant Contributions
-- **sigma** 網絡的主要基地。
-- 開發了大量用於橋接中學與大學數學差異的教材與數位資源。
+## 簡介
+**拉夫堡大學** 是英國數學教育研究的重鎮之一，特別是以其在「大學數學支援」（Mathematics Support）領域的開創性研究而聞名。該校是 **[[sigma (Network)]]** 國家網絡的發起單位之一。
+
+## 在 STT 中的核心角色
+1.  **數學支援卓越中心 (MEC)**：該校設立了專門的數學教育中心（Mathematics Education Centre），專門研究如何透過制度設計（如 MSCs）來改善工程系與科學系學生的轉銜成功率。
+2.  **尋求支持行為研究**：[[Ria Symonds]] 等人在該校進行的大規模研究，深化了教育界對學生為什麼規避支援（**[[At-Risk Disconnect]]**）的理解。
+
+## 相關代表人物
+- [[Ria Symonds]]
+- [[Duncan Lawson]]
+- [[Carol Robinson]]
 
 ---
-[[wiki/index|Back to Index]]
+[[wiki/index|回到索引]]

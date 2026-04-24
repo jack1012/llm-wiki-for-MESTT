@@ -5,7 +5,7 @@ tags: [Research_Card, Pedagogy, DTP, Formalism, STT_Obstacle]
 reference: "Duah (2011)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2011-duah-objects]]
+Parent Source: [[summary-2011-外交部-英國大學生輟學比例高於世界其他先進國家]]
 
 ## Key Insight
 大學典型的 **Definition-Theorem-Proof (DTP)** 教學模式，雖然展現了數學的完美結構，但對大一新生而言卻是一道「邏輯之牆」。

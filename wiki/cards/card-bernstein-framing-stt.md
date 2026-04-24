@@ -5,7 +5,7 @@ tags: [Research_Card, Bernstein, Pedagogy, Kouvela]
 reference: "Kouvela et al. (2021)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2021-kouvela-messages]]
+Parent Source: [[summary-2021-黃靖雯-五專幼保科學生休退學原因分析與輔導策略之探究]]
 
 ## Key Insight
 大學數學傾向於「弱框架 (Weak Framing)」，這賦予了學生極大的時空間自主權，卻也加劇了轉銜的認知負擔。

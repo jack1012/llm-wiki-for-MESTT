@@ -1,17 +1,16 @@
 ---
 title: "Double Discontinuity"
+aliases: [雙重不連續性, Klein's Double Discontinuity]
 type: concept
-tags: [Concept, Epistemology, Teacher_Education, Klein]
-last_updated: 2026-04-17
+tags: [Teacher_Education, STT, Theoretical_Concept]
 ---
-
 ## Definition
-**雙重斷裂** 由 Felix Klein 提出並由 Gueudet (2016) 重申，描述了準數學教師經歷的兩次重大認知衝突：
-1. **第一重斷裂**：中學到大學，從直覺/程序數學跨入形式/抽象數學。
-2. **第二重斷裂**：大學到中學講台，發現大學所學的高等數學似乎與其需要教的中學數學邏輯脫節。
+A term coined by Felix Klein (1908) to describe the twofold shock experienced by secondary mathematics teachers.
 
-## Significance
-該概念揭示了轉銜危機的「回流效應」，即轉銜問題不僅影響大一新生，也深刻影響了國家的師資培育質量。
+## Dimensions
+1. **Transition from School to University**: The student faces a rupture between elementary/intuitive school math and abstract/rigorous university math.
+2. **Transition from University back to School**: The new teacher faces the challenge of transforming academic university knowledge into pedagogically appropriate school content.
 
----
-[[wiki/index|Back to Index]]
+## Key References in Wiki
+- [[summary-2016-gueudet-icme13-transitions-survey
+- [[card-2016-gueudet-double-discontinuity-framework]]

@@ -5,7 +5,7 @@ tags: [Research_Card, TDS, ATD, Comparison, Artigue, Bosch]
 reference: "Artigue & Bosch (2009)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2009-artigue-bosch-networking]]
+Parent Source: [[summary-2009-王玉珍 (Wang-大一生回顧升學生涯抉擇與生涯適應之脈絡相互影響模式探究]]
 
 ## Key Insight
 理論框架不僅是研究工具，更是決定研究者「能看到什麼」的認知透鏡。TDS 關注的是「人與知識的遭遇」，而 ATD 關注的是「知識與體制的轉置」。

@@ -5,7 +5,7 @@ tags: [Research_Card, Typology, Teacher_Perspectives, Reform, Pinto]
 reference: "Pinto & Koichu (2023)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2023-pinto-perceptions]]
+Parent Source: [[summary-2023-黃庭鍾 (Huang-以校務研究觀點探討技專院校學生休退學原因與輔導措施之精進發展策略]]
 
 ## Key Insight
 大學數學教師改善轉銜的行動受到其底層認知導向的深刻影響，主要可歸納為跳躍、涵化、多樣性與跨社群四種模式（[[STT Improvement Approaches]]）。

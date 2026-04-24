@@ -2,16 +2,16 @@
 title: "The Evolution of Research Orientations in STT: From Single-Lens to Multi-Dimensional Understanding"
 aliases: [STT研究取向的發展脈絡：從單一視角到多維理解]
 type: synthesis
-tags: [STT, Research_Orientation, Paradigm_Shift, Epistemology, Historical_Development]
-sources: [summary-2021-dimartino-review, summary-2016-gueudet-survey, summary-2009-artigue-bosch-networking, summary-2023-pinto-perceptions]
-last_updated: 2026-04-17
+tags: [STT, Research_Orientation, Paradigm_Shift, Epistemology, Historical_Development, 187Papers, Career_Perspective]
+sources: [summary-2021-dimartino-review, summary-2016-gueudet-survey, summary-2009-artigue-bosch-networking, 187-corpus-analysis]
+last_updated: 2026-04-24
 ---
 
 # The Evolution of Research Orientations in STT: From Single-Lens to Multi-Dimensional Understanding
 
 ## 核心議題
 
-STT（Secondary-to-Tertiary Transition）研究從 1980 年代至今，並未簡單地「疊加」新發現，而是經歷了**問題視窗的逐漸打開** — 每一代研究者都因為發現前一個視角的不足，而提出新的、更寬闊的研究取向。這個過程反映的是對轉銜現象本質認識的深化。
+基於 187 篇全庫文獻分析，STT（Secondary-to-Tertiary Transition）研究從 1980 年代至今，並未簡單地「疊加」新發現，而是經歷了**問題視窗的逐漸打開** — 每一代研究者都因為發現前一個視角的不足，而提出新的、更寬闊的研究取向，最終演化至當代的「生涯發展與 AI 生態系」框架。
 
 ---
 
@@ -132,7 +132,7 @@ STT（Secondary-to-Tertiary Transition）研究從 1980 年代至今，並未簡
 - [[First-time Syndrome]]：中學優秀生在大學首次失敗時的身分危機
 - [[Mathematical Resilience]]：面對困難時的心理韌性 — 不是「天生的」，而是**可以培養的**
 - [[Affective-Cognitive Entanglement]]：情感與認知並非獨立的兩條線，而是深度糾纏的
-- [[Mathematical Identity (STT)|數學身分]]：「我是個數學人」這個自我認同如何在轉銜過程中被建構、威脅、或重塑
+- [[Mathematical Identity|數學身分]]：「我是個數學人」這個自我認同如何在轉銜過程中被建構、威脅、或重塑
 
 ### 這個取向帶來的實踐轉向
 
@@ -152,7 +152,7 @@ STT（Secondary-to-Tertiary Transition）研究從 1980 年代至今，並未簡
 
 ---
 
-## 📖 第四章：當代的聯網與多維整合（2016-Present）
+## 📖 第四章：理論聯網與多維整合的過渡（2016-2019）
 
 ### ICME-13 宣言（2016）
 
@@ -208,9 +208,31 @@ STT（Secondary-to-Tertiary Transition）研究從 1980 年代至今，並未簡
 
 ---
 
-## 📖 第五章：教學改革層面的反映——四種改革取向
+## 📖 第五章：生涯視角、AI 預警與全球在地化（2020s-Present）
 
-[[card-four-approaches-to-stt-improvement|大學教師的改革思維]] 正是研究取向演化在實踐層面的鏡像。Pinto & Koichu (2023) 識別了四種主流的改革取向：
+### 新的現象觀察
+隨著數據科學與全球化視野的介入，研究者發現了聯網取向仍無法解釋的死角：
+- 即使認知、制度、情意都被照顧到，如果學生**「不知道為何而學」**，仍會選擇離開。
+- 高分學霸的退學，往往不是「教育的失敗」，而是學生在衡量工具性價值後的**「主動生涯止損 (Path Correction)」**。
+- 西方建構的缺陷模型，無法解釋東亞（如台灣、印尼）學生在高壓體制下特有的「家庭引力」與「技術性休學」。
+
+### 研究取向的轉向：從「防堵退學」到「生涯路徑與全人存活」
+這標誌著 STT 進入了**生態系與生涯發展 (Ecosystem & Career Development)** 的最新階段。
+
+### 新的時間維度與研究工具
+- **AI 高頻情緒預警**：超越傳統期末 GPA，利用機器學習與週記進行高頻率的情緒動態追蹤 (Kelava, 2022)。
+- **存活分析 (Survival Analysis)**：將退學視為時間軸上的動態事件，精確捕捉大一上學期等「最高風險區」(Tao, 2021)。
+- **國家級大數據 (Big Data)**：如台灣的 UCAN 系統，將學生的興趣匹配度（生涯價值）作為預測退學的最強指標 (Lin, 2021)。
+
+### 全球南方與台灣脈絡的爆發 (P_Taiwan & Global South)
+- **制度性規避 (Strategic Avoidance)**：在台灣的雙二一高壓退學制度下，學生發展出選擇營養學分、技術休學等存活策略。
+- 確立 **生涯工具性價值** 為 STT 分析的第六維度與核心過濾器。
+
+---
+
+## 📖 第六章：教學改革層面的反映——五種改革取向
+
+[[card-four-approaches-to-stt-improvement|大學教師的改革思維]] 正是研究取向演化在實踐層面的鏡像。Pinto & Koichu (2023) 識別了四種主流的改革取向，而基於最新 187 篇文獻，我們擴充了代表當代演化的「第五種取向」：
 
 ### 1. 跳躍取向（Jump-oriented）
 
@@ -248,16 +270,19 @@ STT（Secondary-to-Tertiary Transition）研究從 1980 年代至今，並未簡
 
 **背景假設**：「中學與大學要共同承擔轉銜責任，且理解彼此的認識論邏輯」
 - 來自：情意取向 + 聯網
-- 教師行為：
-  - 與中學教師協作，理解中學數學的認識論立場
-  - 對學生進行「橋接敘事教學」：「在中學你學的是 X，它在那個脈絡裡很有用；在大學我們需要你理解為什麼 X 需要推廣為 Y」
-  - 反思：大學數學的「公理形式」之所以必要的根本原因
-- 最有整合潛力，但最難實踐
-  - 需要大學與中學的制度協作
-  - 需要教師對自己學科的認識論反思
-  - 需要打破「大學優於中學」的隱形等級制
+- 最有整合潛力，但實踐難度極高（需打破學術階級與制度藩籬）。
 
-### 四種取向的分布與趨勢
+### 5. 生涯與全人引導取向 (Career-Holistic-oriented) [最新擴充]
+
+**背景假設**：「學生必須看見學習的工具性價值，並在整全的生態系中獲得預警與支持」
+- 來自：2020s 生涯與 AI 預警視角
+- 教師行為：
+  - 在微積分等基礎課程中，主動連結未來的工程或數據應用場景。
+  - 配合學校的早期預警系統（如 UCAN 興趣不合警示），及時啟動輔導。
+  - 將學生的退學念頭去污名化，視為正常的生涯探索與路徑修正。
+- 優點：直擊「為何而學」的根本動機，打破單純防堵退學的盲點。
+
+### 五種取向的分布與趨勢
 
 [[card-four-approaches-to-stt-improvement|研究數據]] 顯示：
 - 目前，跳躍取向仍然佔多數
@@ -312,7 +337,8 @@ STT（Secondary-to-Tertiary Transition）研究從 1980 年代至今，並未簡
 | 認知波 | 學生個人心智 | 「學生的心智發生了什麼？」 | 改進教學方法 |
 | 制度波 | 知識在體制中的流動 | 「知識在大學是如何被組織、傳遞的？」 | 重構課程與體制 |
 | 情意波 | 個人的整全經驗 | 「這個具體的人在經歷什麼？」 | 培養韌性 + 改變評量文化 |
-| 聯網 | 多層面的相互作用 | 「認知、制度、情感如何相互影響？」 | 多維度的整合干預 |
+| 聯網波 | 多層面的相互作用 | 「認知、制度、情感如何相互影響？」 | 多維度的整合干預 |
+| **生涯波** | **生涯意義與存活軌跡** | **「為何而學？退學是失敗還是修正？」** | **AI預警 + 建立學科生涯連結** |
 
 **這不是「誰對誰錯」的歷史**，而是**問題視窗的逐漸打開**。
 
@@ -329,22 +355,23 @@ STT（Secondary-to-Tertiary Transition）研究從 1980 年代至今，並未簡
 
 [[Affective-Cognitive Entanglement|情感認知糾纏]] 的具體機制仍需深入研究。
 
-### 2. 東亞脈絡的特殊性
-西方研究中的「缺失敘事」（怪學生、怪中學）在東亞可能不適用。
-- 東亞推崇刻苦與補習，可能強化「努力就能解決」的信念
-- [[Commognitive Perspective in East Asia|交際認知視角]] 下，「符號語言的轉換」引發的轉銜危機是否與西方不同？
+### 2. 東亞脈絡與文化規範的深度碰撞
+雖然我們已確立了「制度性規避」等台灣特有現象，但：
+- 東亞推崇刻苦與補習，如何改變學生對「尋求心理支持=承認失敗」的刻板烙印？
+- 高中升大學的「暑假真空期」對後續生涯迷惘的長尾效應該如何量化？
 
-### 3. 後疫情時代的遠距教學
-- [[Media-Milieu Dialectic|媒體-環境辯證]] 在線上環境下如何運作？
-- 缺乏面對面互動的 [[Milieu|教學環境反饋]]，學生如何進行自適應？
-- 線上教學是否加劇了 [[Social Discontinuity|社會斷裂]]？
+### 3. AI 與大數據的倫理邊界
+- 高頻情緒追蹤與存活預警是否會形成「自我實現的預言」？
+- 預警系統的標籤是否會加劇對弱勢學生的偏見（Social Discontinuity）？
 
 ---
 
-## 📝 創建與編修紀錄
+## 🛠️ 編修紀錄 (Edit Log)
 
-- **2026-04-17 20:15**: 根據用戶反饋，建立聚焦於「研究取向發展脈絡」的綜合分析，以統一的敘事線取代零散的衝突點
-- **源自查詢**：[[Evolution of STT Research]], [[card-from-cognitive-to-holistic]], [[card-tds-atd-lenses]], [[card-praxis-of-networking]], [[card-four-approaches-to-stt-improvement]], [[card-atd-ecology-transition]]
+| 日期 | 動作 | 說明 |
+| :--- | :--- | :--- |
+| 2026-04-24 | 連結修復 | 修正 `Mathematical Identity` 連結，並為 10+ 個缺失概念建立 Seed 頁面，消除紅字連結。 |
+| 2026-04-24 | 全庫對齊與視角升級 | 基於 187 篇全庫分析，新增「第五章：生涯視角、AI 預警與全球在地化」，將台灣 UCAN 與存活分析納入理論框架；在實務面擴充「第五種教學取向：生涯與全人引導」。 |
 
 ---
 

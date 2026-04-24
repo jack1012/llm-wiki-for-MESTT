@@ -1,21 +1,19 @@
-﻿---
+---
 title: "Marianna Bosch"
-type: researcher
-affiliation: [[Universitat Ramon Llull]]
-research_interests: [ATD, Networking of Theories, SRP, Secondary-Tertiary Transition]
-tags: [Researcher, Spain, ATD, SRP]
-last_updated: 2026-04-17
+type: entity
+tags: [Researcher, ATD, Didactics]
+last_updated: 2026-04-23
 ---
 
-## Biography
-Marianna Bosch 是拉蒙耶爾大學 (Universitat Ramon Llull) 的教授，也是 ATD 理論框架的當代領袖之一。她目前專注於透過研究與學習路徑 (SRP) 改善跨學科與跨階段的教學。
+# Marianna Bosch
 
-## Key Contributions (New Aspect from Bosch 2009/2021)
-**[新面向]**：在理論聯網 (Networking of Theories) 方面，她提出了「對比式對話」分析法。透過與 Michèle Artigue (TDS 代表) 的對話，她釐清了 ATD 如何透過 [[Praxeology]] 在宏觀體制層面捕捉 TDS 可能忽略的「機構制約」。她強調理論選擇不應是排他的，而應是互補的透鏡。
+## 角色與貢獻
+Marianna Bosch 是數學教學人類學理論 ([[Anthropological Theory of the Didactic]], ATD) 的核心學者之一。她在大學數學教育 (UME) 領域有著深遠影響，特別是關於「研究與學習路徑 ([[Study and Research Paths]])」的開發。
 
-## Related Papers
-- [[wiki/sources/summary-2016-gueudet-transition-trends]]
+## 相關著作與貢獻
+- [[summary-2021-Participants-Mathematics-education-tertiary]]: 指出大學範式轉換的脆弱性，強調理論框架對主動學習的必要性。
+- [[summary-2006-chevallard-anthropological-theory-atd-in-stt]]: 與 Chevallard 合作開發了 ATD 框架。
 
 ---
-[[wiki/index|Back to Index]]
-
+## 📝 創建與編修紀錄
+- 2026-04-23: 由 AI 建立，作為 ICME-14 攝入的一部分。

@@ -5,7 +5,7 @@ tags: [Research_Card, Institutional_Inertia, ATD, Reform, Bosch]
 reference: "Bosch et al. (2023)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2023-bosch-trends]]
+Parent Source: [[summary-2023-黃庭鍾 (Huang-以校務研究觀點探討技專院校學生休退學原因與輔導措施之精進發展策略]]
 
 ## Key Insight
 轉銜改革的困難，往往不在於理論的缺失或教學法的無能，而在於大學體制中根深蒂固的 [[Institutional Praxeology]] 具有強大的自我保護機制（[[Institutional Inertia in Reform]]）。

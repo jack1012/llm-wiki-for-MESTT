@@ -1,16 +1,11 @@
 ---
-title: "Big-fish-little-pond effect"
+title: "Big-Fish-Little-Pond Effect"
 aliases: [大魚小池效應, BFLPE]
 type: concept
-category: Theory
-tags: [Social_Comparison, Self-concept, Educational_Psychology]
-last_updated: 2026-04-17
+tags: [Concept, Psychology, Self-Concept]
 ---
+## Definition
+A psychological phenomenon where individuals compare their own ability with the average ability of their peers. In the STT, high-achievers from secondary school (big fish in a little pond) often experience a drop in academic self-concept when they enter a highly competitive university environment (small fish in a big pond).
 
-# Concept: {{title}}
-
-## 📖 Definition
-A theoretical framework (Marsh, 1987) proposing that students' academic self-concept is negatively impacted by the average ability of their peer group. "Big fish" (high achievers) in a "little pond" (average school) have high self-concept, which drops when they move to a "big pond" (elite university) where they are among other "big fish."
-
----
-[[wiki/index|Back to Index]]
+## Mentioned in
+- [[summary-2024-監察院-教育部對大專學業退學生流向與制度公平性檢討調查報告]]

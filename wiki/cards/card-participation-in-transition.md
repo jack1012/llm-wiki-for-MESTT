@@ -5,7 +5,7 @@ tags: [Research_Card, Communities_of_Practice, Participation, Identity]
 reference: "Biza et al. (2016)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2016-biza-tertiary-survey]]
+Parent Source: [[summary-2016-Biza-secondarytertiary-transition-mathematics]]
 
 ## Key Insight
 根據 [[Communities of Practice]] 理論，轉銜成功的標誌不在於分數，而在於學生是否能積極「參與」(Participation) 數學社群的專業對話。

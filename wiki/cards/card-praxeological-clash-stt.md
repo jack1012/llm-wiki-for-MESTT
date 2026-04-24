@@ -5,7 +5,7 @@ tags: [Research_Card, ATD, Praxeology, Job]
 reference: "Job & Schneider (2021)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2021-job-relating]]
+Parent Source: [[summary-2021-黃靖雯-五專幼保科學生休退學原因分析與輔導策略之探究]]
 
 ## Key Insight
 轉銜困難源於中學與大學數學中 **4T (Task, Technique, Technology, Theory)** 結構的重心發生了認識論上的劇烈位移。

@@ -5,7 +5,7 @@ tags: [Research_Card, Obstacles, Classification, Suryadi]
 reference: "Suryadi et al. (2021)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2021-suryadi-review]]
+Parent Source: [[summary-2021-黃靖雯-五專幼保科學生休退學原因分析與輔導策略之探究]]
 
 ## Key Insight
 轉銜中學生的「崩潰」並非單一原因造成，而是認識論（概念難）、教學法（教法偏）與個體發生（心理弱）三類障礙疊加的結果。

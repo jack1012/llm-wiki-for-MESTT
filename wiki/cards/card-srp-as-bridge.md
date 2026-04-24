@@ -5,7 +5,7 @@ tags: [Research_Card, ATD, SRP, Bosch]
 reference: "Bosch (2023)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2023-bosch-atd]]
+Parent Source: [[summary-2023-黃庭鍾 (Huang-以校務研究觀點探討技專院校學生休退學原因與輔導措施之精進發展策略]]
 
 ## Key Insight
 大學數學課程常被拆解為孤立的定義與定理，SRP 透過「生成性問題」重新賦予數學知識整體的、探究式的生命力。

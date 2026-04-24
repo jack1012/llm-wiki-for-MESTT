@@ -1,21 +1,22 @@
-﻿---
+---
 title: "Rolf Biehler"
-type: researcher
-affiliation: "Paderborn University"
-research_interests: [Geometry, Second Discontinuity, Teacher Education, Design Research]
-tags: [Researcher, Germany, Teacher_Education]
-last_updated: 2026-04-17
+type: entity
+tags: [Researcher, UME, Statistics_Education]
+last_updated: 2026-04-24
 ---
 
-## Biography
-Rolf Biehler 是德國帕德博恩大學 (Paderborn University) 數學教育領域的著名教授。他的研究高度關注「未來教師的教育」，特別致力於克服 Felix Klein 提出的「雙重不連續性」 (Klein's Double Discontinuity) 的第二階段，即大學畢業生回到中學任教時的脫節。
+# Rolf Biehler
 
-## 📝 相關著作與貢獻 (Works & Contributions in Wiki)
-- **[[wiki/sources/summary-2021-icme14-tsg2-tertiary]]**: 在此研討會中介紹了他在師培生幾何課程上的「設計研究 (Design Research)」成果，展示如何透過建立「大學數學與中學數學之間的連結學習環境」，帶領未來教師跨越第二重不連續性。
+## 簡介
+**Rolf Biehler** 教授任職於德國帕德博恩大學（University of Paderborn）。他是全球大學數學教育（UME）研究的先驅與領軍人物，長期擔任 ZDM 特刊主編，並致力於探討數學建模、統計教育以及從中學到大學的轉銜問題。
 
-## Related Papers
-- [[wiki/sources/summary-2024-biehler-trends-innovations-ume]]
+## 研究重點
+1.  **大學數學教學論 (Didactics of University Mathematics)**：系統化整理大學數學教學的挑戰與趨勢。
+2.  **STT 研究演進**：分析轉銜研究的歷史軌跡，並提出「多重轉銜」與「縱向轉銜」的現代框架。
+3.  **科技與 AI**：探討數位工具與生成式 AI 在高等數學學習中的角色。
+
+## 相關研究文獻
+- [[summary-2024-Rolf-Biehler-trends-didactic-research]] (ZDM 2024 全球專家趨勢調查)
 
 ---
-[[wiki/index|Back to Index]]
-
+[[wiki/index|回到索引]]

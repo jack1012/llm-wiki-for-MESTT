@@ -5,7 +5,7 @@ tags: [Research_Card, Predictors, Affective, Geisler]
 reference: "Geisler & Rolka (2021)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2021-geisler-forecasting]]
+Parent Source: [[summary-2021-黃靖雯-五專幼保科學生休退學原因分析與輔導策略之探究]]
 
 ## Key Insight
 中學畢業成績能很好地預測大一數學的考試分數，但卻無法有效預測學生是否會留學或感到滿意；後者主要受情意變量驅動。

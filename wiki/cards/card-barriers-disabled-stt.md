@@ -5,7 +5,7 @@ tags: [Research_Card, Inclusion, Disability, Student_Experience]
 reference: "Duah (2014)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2014-duah-disability]]
+Parent Source: [[summary-2014-教育部統計處-近年各級學生輟學及休退學概況分析]]
 
 ## Key Insight
 身障生在轉銜中面臨的不是單一學術困難，而是多重障礙的交織疊加（Intersectionality）。

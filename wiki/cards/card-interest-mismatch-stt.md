@@ -5,7 +5,7 @@ tags: [Research_Card, Interest, Dissonance, Geisler]
 reference: "Geisler et al. (2023)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2023-geisler-interest]]
+Parent Source: [[summary-2023-黃庭鍾 (Huang-以校務研究觀點探討技專院校學生休退學原因與輔導措施之精進發展策略]]
 
 ## Key Insight
 解決 [[Interest Mismatch in Transition]] 需要體制在教學法上進行顯性的引導，幫助學生重新定義其數學樂趣的來源。

@@ -5,7 +5,7 @@ tags: [Research_Card, China, Rigor, Algorithm, Xie]
 reference: "Xie & Geiger (2021)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2021-xie-sociomathematical]]
+Parent Source: [[summary-2021-黃靖雯-五專幼保科學生休退學原因分析與輔導策略之探究]]
 
 ## Key Insight
 成功跨越中國轉銜斷層的新生，必須完成從「算法消費者」向「嚴謹論證者」的規範跨越。

@@ -5,7 +5,7 @@ tags: [Research_Card, Cognitive_Science, Objectification, Procept]
 reference: "Duah (2011)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2011-duah-objects]]
+Parent Source: [[summary-2011-外交部-英國大學生輟學比例高於世界其他先進國家]]
 
 ## Key Insight
 轉銜的關鍵在於學生是否能完成從「動詞」（做運算）到「名詞」（談對象）的心智演進，即 [[Objectification]]。

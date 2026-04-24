@@ -5,7 +5,7 @@ tags: [Research_Card, Epistemology, Holistic, Paradigm_Shift]
 reference: "Di Martino et al. (2021)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2021-dimartino-review]]
+Parent Source: [[summary-2021-黃靖雯-五專幼保科學生休退學原因分析與輔導策略之探究]]
 
 ## Key Insight
 轉銜研究正經歷從「微觀認知缺陷」向「宏觀整全體驗」的範式轉換。

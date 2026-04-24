@@ -5,7 +5,7 @@ tags: [Research_Card, Interest, Professional_Tasks, Geisler]
 reference: "Geisler & Rolka (2023)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2023-geisler-tasks]]
+Parent Source: [[summary-2023-黃庭鍾 (Huang-以校務研究觀點探討技專院校學生休退學原因與輔導措施之精進發展策略]]
 
 ## Key Insight
 在抽象的大一數學課程中引入職業任務，能有效激發新生的情境興趣，進而預防動機崩潰。

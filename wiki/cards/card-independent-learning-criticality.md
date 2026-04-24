@@ -5,7 +5,7 @@ tags: [Research_Card, Self-regulation, Autonomous_Learning, Ali]
 reference: "Ali (2019)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2019-ali-challenges]]
+Parent Source: [[summary-2019-王秀槐 (Wang-臺灣大學生生涯概念原型分析研究]]
 
 ## Key Insight
 在眾多變量中，[[Independent Learning in STT]] 是決定學生能否跨越斷層（[[Transition Gap]]）的最強預測因子。

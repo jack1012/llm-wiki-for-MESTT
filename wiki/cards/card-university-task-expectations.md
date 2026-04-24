@@ -5,7 +5,7 @@ tags: [Research_Card, Task_Design, Teacher_Expectations, Pinto]
 reference: "Pinto (2023)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2023-pinto-tasks]]
+Parent Source: [[summary-2023-黃庭鍾 (Huang-以校務研究觀點探討技專院校學生休退學原因與輔導措施之精進發展策略]]
 
 ## Key Insight
 轉銜中的障礙往往隱藏在看似平凡的作業任務中：大學導師期待的是結構性反思，而學生執行的卻是程序性計算。

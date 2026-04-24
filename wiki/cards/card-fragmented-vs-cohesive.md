@@ -5,7 +5,7 @@ tags: [Research_Card, STT, Conceptual_Change, Cohesion]
 reference: "Crawford et al. (1994)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-1994-crawford-conceptions]]
+Parent Source: [[summary-1994-Crawford-Conceptions-Mathematics-Learned]]
 
 ## Key Insight
 STT 轉銜成功的本質是學生從「碎片化」觀點向「凝聚性」觀點的躍遷。

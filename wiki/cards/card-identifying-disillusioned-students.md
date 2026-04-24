@@ -5,7 +5,7 @@ tags: [Research_Card, Intervention, Disillusionment, Liebendoerfer]
 reference: "Liebendörfer et al. (2023)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2023-liebendoerfer-interest]]
+Parent Source: [[summary-2023-黃庭鍾 (Huang-以校務研究觀點探討技專院校學生休退學原因與輔導措施之精進發展策略]]
 
 ## Key Insight
 [[Mathematics Disillusionment]] 是導致優秀中學畢業生在大一退學的「無聲殺手」；早期識別這類分群對體制干預至關重要。

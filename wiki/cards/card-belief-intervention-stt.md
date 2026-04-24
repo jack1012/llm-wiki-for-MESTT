@@ -5,7 +5,7 @@ tags: [Research_Card, Intervention, Epistemology, Rach]
 reference: "Rach & Heinze (2022)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2022-rach-beliefs]]
+Parent Source: [[summary-2022-郭李宗文 (Kuo-Li-原住民大專學生休退學現況以大數據分析之必要性]]
 
 ## Key Insight
 學生的數學信念並非完全不可改變；透過顯性的認識論干預，體制可以引導學生從中學式的直覺轉向大學式的專業思維。

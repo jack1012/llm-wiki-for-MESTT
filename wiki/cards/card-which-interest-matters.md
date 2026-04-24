@@ -5,7 +5,7 @@ tags: [Research_Card, Interest, Success_Factors, Geisler]
 reference: "Geisler et al. (2023)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2023-geisler-interest]]
+Parent Source: [[summary-2023-黃庭鍾 (Huang-以校務研究觀點探討技專院校學生休退學原因與輔導措施之精進發展策略]]
 
 ## Key Insight
 學生對中學數學的強烈興趣對大學成功幾乎沒有預測價值；真正的指標是其對「大學數學特質」（證明、形式化）的興趣。

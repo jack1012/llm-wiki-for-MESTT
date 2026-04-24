@@ -5,7 +5,7 @@ tags: [Research_Card, Institutional_Change, TLC3, Mesa]
 reference: "Mesa (2023)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2023-mesa-transformation]]
+Parent Source: [[summary-2023-黃庭鍾 (Huang-以校務研究觀點探討技專院校學生休退學原因與輔導措施之精進發展策略]]
 
 ## Key Insight
 轉銜成功不應僅被視為學生的責任；體制必須撥動特定的「槓桿」來優化學習路徑（[[TLC3 Transformation Framework]]）。

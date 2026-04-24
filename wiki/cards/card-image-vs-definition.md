@@ -5,7 +5,7 @@ tags: [Research_Card, Cognitive_Psychology, Misconceptions, STT_Obstacle]
 reference: "Tall (1998)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-1998-tall-patterns]]
+Parent Source: [[summary-1998-Tall-Patterns-change-transition]]
 
 ## Key Insight
 學生的數學錯誤通常不是因為「粗心」，而是因為他們受限於既有的 **Concept Image**，而忽略了或不理解 **Concept Definition**。

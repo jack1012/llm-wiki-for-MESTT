@@ -5,7 +5,7 @@ tags: [Research_Card, Sociocultural, Identity, Biza]
 reference: "Biza et al. (2019)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2019-biza-new-insights]]
+Parent Source: [[summary-2019-王秀槐 (Wang-臺灣大學生生涯概念原型分析研究]]
 
 ## Key Insight
 轉銜成功的深層本質是學生在遭遇認知衝擊（[[Cognitive Discontinuity]]）後，成功完成「身份修復」。

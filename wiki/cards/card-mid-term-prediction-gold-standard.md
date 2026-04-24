@@ -5,7 +5,7 @@ tags: [Research_Card, Prediction, Longitudinal, Rach]
 reference: "Rach (2022)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2022-rach-success]]
+Parent Source: [[summary-2022-郭李宗文 (Kuo-Li-原住民大專學生休退學現況以大數據分析之必要性]]
 
 ## Key Insight
 預測學生是否會退學，最具解釋力的指標不是其入學測驗成績，而是其在第一學期期中（[[Mid-term Affective Pivot]]）的情意狀態。

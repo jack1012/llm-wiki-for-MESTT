@@ -17,7 +17,7 @@ In mathematics education research, narrative research (specifically through diar
 
 ## Proponents & Origins
 - **Main Author(s)**: [[Pietro Di Martino]]
-- **Key Source**: [[summary-2019-dimartino-students-in-crisis]]
+- **Key Source**: [[summary-2019-王秀槐 (Wang-臺灣大學生生涯概念原型分析研究]]
 
 ## Application in STT (Transition)
 It is the primary tool for uncovering the "Hidden Crisis" during the first few months of university.

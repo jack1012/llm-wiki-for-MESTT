@@ -5,7 +5,7 @@ tags: [Research_Card, Affective, Dropout, Geisler]
 reference: "Geisler & Rolka (2021)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2021-geisler-dropout]]
+Parent Source: [[summary-2021-黃靖雯-五專幼保科學生休退學原因分析與輔導策略之探究]]
 
 ## Key Insight
 密集銜接課程不僅補教知識，更具備強大的「情意緩衝」功能，能有效防範大一初期的休學風險。

@@ -5,7 +5,7 @@ tags: [Research_Card, Pedagogy, Classroom_Culture, Action_Research, Muldowney]
 reference: "Muldowney (2021)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2021-muldowney-resilience]]
+Parent Source: [[summary-2021-黃靖雯-五專幼保科學生休退學原因分析與輔導策略之探究]]
 
 ## Key Insight
 轉銜成功的關鍵在於課堂文化的典範轉移：從強調快速準確的「排練氛圍」(Rehearsal Ethos) 轉向強調探索與主體性的「[[Active Learning Ethos]]」。

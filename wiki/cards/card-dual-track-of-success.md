@@ -5,7 +5,7 @@ tags: [Research_Card, Success_Factors, Satisfaction, Rach]
 reference: "Rach (2022)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2022-rach-success]]
+Parent Source: [[summary-2022-郭李宗文 (Kuo-Li-原住民大專學生休退學現況以大數據分析之必要性]]
 
 ## Key Insight
 評價一位學生是否成功跨越了數學轉銜，必須同時考察其客觀的學業成就與主觀的心理滿意度（[[Academic vs Subjective Success]]）。

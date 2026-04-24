@@ -5,7 +5,7 @@ tags: [Research_Card, Communication, Sociology, Kouvela]
 reference: "Kouvela et al. (2021)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2021-kouvela-messages]]
+Parent Source: [[summary-2021-黃靖雯-五專幼保科學生休退學原因分析與輔導策略之探究]]
 
 ## Key Insight
 學生並非單純地「聽從」講師的建議，而是透過其個人的社會與學術背景對訊息進行重新語境化（Recontextualization）。

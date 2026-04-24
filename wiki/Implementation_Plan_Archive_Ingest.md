@@ -12,7 +12,7 @@ For each paper (ID 01 to 90+ in `INGEST_TRACKER.md`):
    - Extract **Entities** (Researchers, Institutions).
    - Extract **Concepts** (Theories, Models, Phenomena).
 5. **Bidirectional Linking**:
-   - Update summary with prefixed links `[[wiki/entities/...]]` and `[[wiki/concepts/...]]`.
+   - Update summary with prefixed links `[[...]]` and `[[...]]`.
    - Update Entity/Concept files with a "Related Papers" link back to the summary.
 6. **Card Verification**: Ensure all `wiki/cards/` links are valid.
 7. **Housekeeping**: Update `wiki/index.md` and `wiki/log.md`.

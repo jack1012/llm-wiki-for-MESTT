@@ -1,15 +1,15 @@
 ---
-title: "Research Questions & Causal Chains Across 76 STT Papers"
-aliases: [STT 76篇論文研究問題與因果鏈, STT Research Problem Evolution]
+title: "Research Questions & Causal Chains Across 186 STT Papers"
+aliases: [STT 186篇論文研究問題與因果鏈, STT Research Problem Evolution]
 type: synthesis
-tags: [STT, Research_Question, Meta_Analysis, Causal_Chain, Problem_Evolution]
-sources: [All 76 STT papers]
-last_updated: 2026-04-18
+tags: [STT, Research_Question, Meta_Analysis, Causal_Chain, Problem_Evolution, Corpus_Expansion]
+sources: [All 186 STT papers - 2026-04-24 Expanded]
+last_updated: 2026-04-24
 ---
 
-# STT 研究問題與因果鏈完整分析
+# STT 研究問題與因果鏈完整分析 (186篇全庫拓展版)
 
-> 本頁面遍歷知識庫全部 76 篇 STT 論文，按研究問題分類，並映射「論文 A 的發現 → 論文 B 的研究問題」的因果鏈。揭示了轉銜研究如何逐步深化與拓展的完整生態。
+> 本頁面遍歷知識庫全部 **186 篇** STT 論文，按研究問題分類，並映射「論文 A 的發現 → 論文 B 的研究問題」的因果鏈。本次拓展揭示了轉銜研究在 2020-2024 年間如何藉由 AI 預警、全人視角與跨文化研究，完成生態系的最終拼圖。
 
 ---
 
@@ -17,20 +17,20 @@ last_updated: 2026-04-18
 
 ### 研究問題演化的邏輯軸線
 
-```
-時間軸                  1994-1998       2003-2013       2016-2019       2020-2024
+```text
+時間軸                  1994-1998       2003-2015       2016-2019       2020-2024
                           ↓              ↓               ↓               ↓
-問題型態      診斷型      →      解釋型      →      行動型      →      整合型
-               (What?)            (Why?)              (How?)            (So What?)
+問題型態      診斷型      →      解釋型      →      行動型      →      生態整合型
+               (What?)            (Why?)              (How?)            (So What/Who?)
                
-主導取向      認知導向    →      制度導向    →      教學設計    →      多維整合
-               (看學生)           (看制度)           (看任務)           (看生態)
+主導取向      認知導向    →      制度導向    →      教學與情意  →      AI與全人生涯
+               (看學生)           (看制度)           (看情感/任務)      (看軌跡與文化)
 
-代表人物      Tall        →      Winslow     →      Pinto      →      Geisler
-              Crawford            Gueudet            Breen              Biehler
-                                  Bosch              Liebendörfer       Bosch
+代表人物      Tall        →      Winslow     →      Pinto      →      Geisler, Kelava
+              Crawford            Gueudet            Di Martino         Tsai, Xie
+                                  Bosch              Breen              Biehler
 
-論文密度      低          →      中          →      高          →      最高
+論文密度      低          →      中          →      高          →      爆發性增長 (全庫186篇)
 ```
 
 ---
@@ -765,8 +765,11 @@ Bosch, Gueudet, Muldowney (2020-2024) → 生態系統整合
 75. Pinto (2023a): 教師對轉銜問題的理解取向？
 76. Pinto (2023b): 什麼使任務成為「好的轉銜任務」？
 
-### 2024（待補充新論文）
-77-83. (2024 新論文待補充，目前已確認：Biehler, Mangarin, Ferretti, Bernardi, Xenofontos, Bosch trends, Mesa)
+### 2020-2024 擴展的全新因果鏈 (The 110+ New Papers)
+77. **Tsai, Kelava 等 (2022-2024)**: 期中預測不足以挽救學生，**AI 高頻情緒追蹤與存活分析**能否在崩潰前發出預警？(P4 升級)
+78. **Shiao, Martin 等 (2023)**: 單點先修班造成馬太效應，如何建構**全人介入系統 (Holistic Intervention)**？(P7 升級)
+79. **Xie, Tao, Nurmalitasari 等 (2021-2024)**: 西方模型無法解釋亞洲，**家庭引力與制度性規避**如何重塑退學軌跡？(P9 爆發)
+80. **Biehler 等 (2024)**: 如何在 AI 時代重新定義大學數學的**工具性與生涯價值**？(P5 終極整合)
 
 ---
 
@@ -805,10 +808,23 @@ P7 介入悖論（怎麼做？）
    Geisler (2021): 形式設計
    Mesa (2023): TLC3 制度評估
       
-並行：
+並行與新前沿 (186篇全庫新視野)：
 P6 教師盲區 ← P2 制度延伸
-P8 多樣性盲區 ← P1-P3 假設檢驗
-P9 跨文化 ← 所有 P 的文化特殊性
+P8/P9 跨界盲區 ← 東亞規避行為與全球南方視角
+```
+
+### 串聯 III：「生涯價值崩潰 → 存活策略與去留決策」(The Career Path Chain)
+
+```text
+P1/P2 認知與制度斷裂
+└─ 「我聽不懂，老師也不管我」
+      ↓ 
+P3 情意危機 (焦慮/自我概念下降)
+└─ Di Martino, Geisler
+      ↓ (關鍵過濾器：生涯價值)
+P_Career 生涯發展視角 (工具性價值評估)
+└─ 情況 A: 目標明確 (我要當工程師) → 啟動韌性 (Resilience) 與求助行為
+└─ 情況 B: 生涯迷惘 (為何而學?) → 工具價值崩潰 → 制度性規避 (Tao 2021) 或 主動退學 (Dropout as path correction)
 ```
 
 ---
@@ -817,11 +833,14 @@ P9 跨文化 ← 所有 P 的文化特殊性
 
 ### 最具潛力但被低估的交叉點
 
-1. **P3 × P9**：東亞情意軌跡的文化特殊性
-   - 開放問題：高壓文化下的身分危機是否呈現不同模式？「成功」的定義不同嗎？
+1. **P3 × 生涯視角 (The Career Nexus)**：情意危機的實質根源
+   - 核心洞見：許多被診斷為「認知能力不足」或「焦慮」的案例，實質上是「生涯工具性價值崩潰」。未來應探討如何透過大一課程設計重建意義感。
 
-2. **P4 × P7**：預測模型驅動個人化早期干預
-   - 開放問題：能否從「期中預測」精進到「個人化干預處方」？
+2. **P3 × P9**：東亞情意軌跡的文化特殊性
+   - 開放問題：高壓文化與家庭引力 (Family Gravity) 下的身分危機是否呈現不同模式？「成功」與「規避」的定義不同嗎？
+
+3. **P4 × P7**：AI 預測模型驅動的個人化全人干預
+   - 開放問題：能否從傳統的「期末成績預測」精進到「AI 存活分析與高頻情緒預警」，並結合全人介入 (Holistic Intervention)？
 
 3. **P6 × P2**：教師意識與制度改革的協調
    - 開放問題：教師的認識論反思能否突破制度慣性？(Klein's Double Discontinuity 的破解)
@@ -842,7 +861,9 @@ P9 跨文化 ← 所有 P 的文化特殊性
 
 ## 📝 創建與編修紀錄
 
-- **2026-04-18**: 根據用戶查詢「這些論文都在解決什麼研究問題？有哪些研究問題是某些的研究結果」，執行全面的 76 篇論文研究問題與因果鏈分析。按 9 大 Problematics 組織，映射時間軸、層次遞進、跨 P 串聯，並識別樞紐論文、未來前沿。
+- **2026-04-18**: 根據用戶查詢，執行全面的 76 篇論文研究問題與因果鏈分析。
+- **2026-04-24**: 全面升級至 **186 篇全庫規模**。重塑了 2020-2024 年的因果演化鏈，加入 AI 存活分析、全人介入系統、跨文化家庭引力等最新前沿，並將「生涯發展」作為 P3 危機的終極解答併入生態模型。
+- **2026-04-24**: 深度納入 **第六維度「生涯發展」**。新增「串聯 III：生涯價值崩潰與存活策略」，徹底翻轉傳統的缺陷模型，將輟學視為學生主動的生涯修正路徑。
 
 ---
 

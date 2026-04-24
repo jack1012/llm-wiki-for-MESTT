@@ -5,7 +5,7 @@ tags: [Research_Card, Identity, China, Failure, Xie]
 reference: "Xie & Geiger (2023)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2023-xie-affect]]
+Parent Source: [[summary-2023-黃庭鍾 (Huang-以校務研究觀點探討技專院校學生休退學原因與輔導措施之精進發展策略]]
 
 ## Key Insight
 在高度競爭、以成績定義價值的教育文化中，學生的數學身份極其脆弱（Fragile），單次大一考試失敗即可能導致自我價值的徹底否定。

@@ -1,29 +1,12 @@
-﻿---
+---
 title: "Andrea A. diSessa"
-type: researcher
-tags: [Researcher, Conceptual_Change, Knowledge_in_Pieces]
-last_updated: 2026-04-17
+type: entity
+category: Researcher
+affiliation: "University of California, Berkeley"
+interests: [Conceptual Change, Knowledge in Pieces, Physics Education, Learning Sciences]
 ---
+## Profile
+Andrea diSessa is a key figure in the learning sciences, famous for the "Knowledge in Pieces" (KiP) framework. He contributed the cognitive transition chapter to the ICME-13 Topical Survey on transitions.
 
-## Profile & Affiliation
-- **Current Position**: Corey Professor of Education (Emeritus)
-- **Institution**: [[University of California, Berkeley]] (USA)
-- **ORCID/Website**: [Link]
-
-## Research Focus
-- **Primary Domain**: Learning Sciences, Conceptual Change.
-- **Key Theories**: [[Knowledge in Pieces]], [[p-prims]].
-
-## Works in Wiki
-- [[summary-2016-gueudet-transition-trends]]
-
-## Connections
-- **Co-authors**: [[Ghislaine Gueudet]]
-
----
-[[wiki/index|Back to Index]]
-
----
-## 創建與編修紀錄
-- **2026-04-17 19:02**: 執行最高等級攝取規則，建立理論先驅實體。
-
+## Key Publications in Wiki
+- [[summary-2016-gueudet-icme13-transitions-survey

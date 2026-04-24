@@ -5,7 +5,7 @@ tags: [Research_Card, Theoretical_Model, Ecosystem, Gueudet]
 reference: "Gueudet (2023)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2023-gueudet-theoretical]]
+Parent Source: [[summary-2023-黃庭鍾 (Huang-以校務研究觀點探討技專院校學生休退學原因與輔導措施之精進發展策略]]
 
 ## Key Insight
 轉銜研究已不再僅僅是關於學生的心理或認知的（個人層面），而是一個涵蓋社交、體制與文化歷史的整合場域。

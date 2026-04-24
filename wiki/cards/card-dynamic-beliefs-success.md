@@ -5,7 +5,7 @@ tags: [Research_Card, Beliefs, Success_Factors, Rach]
 reference: "Rach & Heinze (2022)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2022-rach-beliefs]]
+Parent Source: [[summary-2022-郭李宗文 (Kuo-Li-原住民大專學生休退學現況以大數據分析之必要性]]
 
 ## Key Insight
 大學新生的信念結構（靜態 vs 動態）是其轉銜成效與長期滿意度的核心預測因子。

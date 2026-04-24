@@ -5,7 +5,7 @@ tags: [Research_Card, Prior_Knowledge, Predictors, Liebendoerfer]
 reference: "Liebendörfer et al. (2023)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2023-liebendoerfer-knowledge]]
+Parent Source: [[summary-2023-黃庭鍾 (Huang-以校務研究觀點探討技專院校學生休退學原因與輔導措施之精進發展策略]]
 
 ## Key Insight
 高中畢業成績（GPA）在預測大一數學成功時存在「盲點」：它通常只能反映學生的程序熟練度，而忽略了決定大學成敗的概念性深度。

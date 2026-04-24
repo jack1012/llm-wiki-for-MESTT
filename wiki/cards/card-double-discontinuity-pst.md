@@ -5,7 +5,7 @@ tags: [Research_Card, PST, Double_Discontinuity, Xie]
 reference: "Xie & Geiger (2022)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2022-xie-discontinuity]]
+Parent Source: [[summary-2022-郭李宗文 (Kuo-Li-原住民大專學生休退學現況以大數據分析之必要性]]
 
 ## Key Insight
 職前數學教師必須在四年的大學生涯中接連跨越兩道斷裂，任一端的失敗都會導致其專業教學能力的「認識論回歸」。

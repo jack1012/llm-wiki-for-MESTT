@@ -5,7 +5,7 @@ tags: [Research_Card, AMT, Cognitive_Development, Transition_Theory]
 reference: "Tall (1998)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-1998-tall-patterns]]
+Parent Source: [[summary-1998-Tall-Patterns-change-transition]]
 
 ## Key Insight
 從中學到大學的轉銜過程，本質上是一個 **Cognitive Discontinuity (認知不連續性)** 的克服過程，涉及從「算法運算」向「形式演繹」的範式轉移。

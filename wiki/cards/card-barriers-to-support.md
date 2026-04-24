@@ -5,7 +5,7 @@ tags: [Research_Card, Psychology, Help-seeking, STT_Obstacle]
 reference: "Symonds et al. (2015)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2015-symonds-motivation-support]]
+Parent Source: [[summary-2015-Symonds-Support-measures-first]]
 
 ## Key Insight
 提供支援服務本身並不足以協助轉銜，因為「心理障礙」往往阻礙了最需要幫助的學生利用這些資源。

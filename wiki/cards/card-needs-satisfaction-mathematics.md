@@ -5,7 +5,7 @@ tags: [Research_Card, SDT, Needs, Geisler]
 reference: "Geisler & Rolka (2023)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2023-geisler-motivation]]
+Parent Source: [[summary-2023-黃庭鍾 (Huang-以校務研究觀點探討技專院校學生休退學原因與輔導措施之精進發展策略]]
 
 ## Key Insight
 學生的轉銜成效不只取決於分數，更取決於其基本心理需求（勝任感、自主感、關聯感）是否在大一數學環境中得到滿足。

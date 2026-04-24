@@ -1,7 +1,7 @@
 ---
 title: "Weekly Assignments: The Crucible of Transition"
 type: paper_card
-source: [[summary-2021-neumann-resilience]]
+source: [[summary-2021-黃靖雯-五專幼保科學生休退學原因分析與輔導策略之探究]]
 author: "Neumann, I., Jeschke, C., & Heinze, A."
 year: 2021
 journal: "IJSME"

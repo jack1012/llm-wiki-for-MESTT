@@ -5,7 +5,7 @@ tags: [Research_Card, Networking_of_Theories, Methodology, Artigue, Bosch]
 reference: "Artigue & Bosch (2009)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2009-artigue-bosch-networking]]
+Parent Source: [[summary-2009-王玉珍 (Wang-大一生回顧升學生涯抉擇與生涯適應之脈絡相互影響模式探究]]
 
 ## Key Insight
 [[Networking of Theories]]（理論聯網）並非為了統整所有理論，而是為了建立一種「跨邊界對話」，讓研究者能同時整合宏觀體制與微觀互動的見解。

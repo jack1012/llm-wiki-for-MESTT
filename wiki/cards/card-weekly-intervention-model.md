@@ -5,7 +5,7 @@ tags: [Research_Card, Low-resource, Pedagogy, Naidoo]
 reference: "Naidoo (2018)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2018-naidoo-bridging]]
+Parent Source: [[summary-2018-林永安 (Lin-大學校院高休退學率形成原因及因應之道]]
 
 ## Key Insight
 在資源受限的環境下，「低技術、高互動」的每週干預模型比一次性的高昂營隊更具可持續性。

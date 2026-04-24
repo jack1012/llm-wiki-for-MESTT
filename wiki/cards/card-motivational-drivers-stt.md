@@ -5,7 +5,7 @@ tags: [Research_Card, Effort, Motivation, Geisler]
 reference: "Geisler & Rolka (2023)"
 last_updated: 2026-04-17
 ---
-Parent Source: [[summary-2023-geisler-motivation]]
+Parent Source: [[summary-2023-黃庭鍾 (Huang-以校務研究觀點探討技專院校學生休退學原因與輔導措施之精進發展策略]]
 
 ## Key Insight
 學生投入努力的多少是其即時「動機狀態」的反映；體制應關注如何優化動機結構而非單純要求「努力學習」。
